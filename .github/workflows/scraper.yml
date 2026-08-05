@@ -1,0 +1,61 @@
+name: firsat-scan
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'config.json'
+      - 'dist/**'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: firsat-scan
+  cancel-in-progress: true
+
+env:
+  TZ: Europe/Istanbul
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Bagimliliklari yukle
+        run: pip install -r requirements.txt
+
+      - name: Taramayi calistir (obfuscated bundle)
+        env:
+          PROXY_URL: ${{ secrets.PROXY_URL }}
+          API_SECRET_KEY: ${{ secrets.API_SECRET_KEY }}
+        run: python dist/run.py --config config.json
+
+      - name: Islem ozeti
+        if: always()
+        run: python dist/run.py --summary
+
+      - name: Sonuclari commit et
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A docs data
+          if git diff --cached --quiet; then
+            echo "Degisiklik yok, commit atlandi"
+          else
+            git commit -m "scan: $(date '+%Y-%m-%d %H:%M %Z')"
+            git push
+          fi

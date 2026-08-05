@@ -1,0 +1,97 @@
+{
+  "generated_at": "1970-01-01T00:00:00+00:00",
+  "thresholds": {
+    "error_min_percent": 60,
+    "discount_max_percent": 59
+  },
+  "sites": {
+    "trendyol": {
+      "ok": false,
+      "product_count": 0,
+      "categories": {
+        "normal": 0,
+        "discount": 0,
+        "error": 0
+      },
+      "message": "bekleniyor"
+    },
+    "hepsiburada": {
+      "ok": false,
+      "product_count": 0,
+      "categories": {
+        "normal": 0,
+        "discount": 0,
+        "error": 0
+      },
+      "message": "bekleniyor"
+    },
+    "n11": {
+      "ok": false,
+      "product_count": 0,
+      "categories": {
+        "normal": 0,
+        "discount": 0,
+        "error": 0
+      },
+      "message": "bekleniyor"
+    },
+    "ciceksepeti": {
+      "ok": false,
+      "product_count": 0,
+      "categories": {
+        "normal": 0,
+        "discount": 0,
+        "error": 0
+      },
+      "message": "bekleniyor"
+    },
+    "mediamarkt": {
+      "ok": false,
+      "product_count": 0,
+      "categories": {
+        "normal": 0,
+        "discount": 0,
+        "error": 0
+      },
+      "message": "bekleniyor"
+    },
+    "teknosa": {
+      "ok": false,
+      "product_count": 0,
+      "categories": {
+        "normal": 0,
+        "discount": 0,
+        "error": 0
+      },
+      "message": "bekleniyor"
+    },
+    "vatan": {
+      "ok": false,
+      "product_count": 0,
+      "categories": {
+        "normal": 0,
+        "discount": 0,
+        "error": 0
+      },
+      "message": "bekleniyor"
+    },
+    "amazon": {
+      "ok": false,
+      "product_count": 0,
+      "categories": {
+        "normal": 0,
+        "discount": 0,
+        "error": 0
+      },
+      "message": "bekleniyor"
+    }
+  },
+  "totals": {
+    "products": 0,
+    "categories": {
+      "normal": 0,
+      "discount": 0,
+      "error": 0
+    }
+  }
+}

@@ -1,0 +1,13 @@
+name = "firsat-api"
+main = "worker.js"
+compatibility_date = "2026-01-01"
+
+# ORIGIN: GitHub Pages taban adresi (worker buradan veri ceker)
+[vars]
+ORIGIN = "https://kullanici.github.io/firsat-api"
+
+# API_SECRET_KEY ve API_KEYS degerleri buraya YAZILMAZ.
+# Cloudflare Dashboard > Workers > firsat-api > Settings > Variables
+# bolumunden "secret" olarak eklenir:
+#   API_SECRET_KEY = <uzun rastgele anahtar>
+#   API_KEYS       = <istemci1>,<istemci2>  (istege bagli)

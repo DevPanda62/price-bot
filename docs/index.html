@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Firsat API</title>
+<style>
+  body { background: #0b0f14; color: #d7e0e8; font-family: Consolas, monospace; margin: 0; padding: 24px; }
+  h1 { color: #4ade80; }
+  a { color: #60a5fa; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  table { border-collapse: collapse; width: 100%; max-width: 760px; }
+  td, th { border: 1px solid #2a3441; padding: 8px 12px; text-align: left; }
+  th { color: #4ade80; }
+  code { background: #161d26; padding: 2px 6px; border-radius: 4px; }
+  .warn { border: 1px solid #b45309; padding: 10px 14px; border-radius: 6px; max-width: 730px; }
+</style>
+</head>
+<body>
+<h1>Firsat API</h1>
+<p>Trendyol, Hepsiburada, N11, CicekSepeti, MediaMarkt, Teknosa, Vatan Bilgisayar ve Amazon taramasindan uretilen veriler. Her 5 dakikada bir guncellenir.</p>
+<div class="warn">
+  <strong>Korumali erisim:</strong> Bu sayfadaki JSON dosyalari ham veridir. Harici projeler veriye
+  <code>X-API-Key</code> header'i ile erismek icin <strong>Cloudflare Worker</strong> uc noktasini kullanmalidir.
+  Gecersiz anahtar 403 dondurur.
+</div>
+<table>
+  <tr><th>Uc Nokta (Worker + X-API-Key)</th><th>Aciklama</th></tr>
+  <tr><td><code>/products</code></td><td>Tum urunler</td></tr>
+  <tr><td><code>/discounts</code></td><td>Indirim urunleri (%59 ve alti)</td></tr>
+  <tr><td><code>/errors</code></td><td>Hatali fiyat girisi urunleri (%60 ve uzeri)</td></tr>
+  <tr><td><code>/stats</code></td><td>Site bazli sayilar</td></tr>
+  <tr><td><code>/changes</code></td><td>Yeni/degisen urunler</td></tr>
+  <tr><td><code>/history</code></td><td>Fiyat gecmisi</td></tr>
+  <tr><td><code>/stores/&lt;site&gt;</code></td><td>Site bazli urunler (ornek: <code>/stores/trendyol</code>)</td></tr>
+</table>
+<p>Ham dosyalar: <a href="api/products.json">products.json</a>, <a href="api/discounts.json">discounts.json</a>, <a href="api/errors.json">errors.json</a>, <a href="api/stats.json">stats.json</a>, <a href="api/changes.json">changes.json</a>, <a href="api/history.json">history.json</a>, <a href="api/index.json">index.json</a></p>
+</body>
+</html>

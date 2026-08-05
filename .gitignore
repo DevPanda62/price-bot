@@ -1,0 +1,12 @@
+# Bu dosyalar GitHub'a YUKLENMEZ (ham kaynak kod, obfuscate edilmemis halidir)
+# git ile push edersen bu girdiler sayesinde otomatik disarida kalir.
+/run.py
+/core/
+/scrapers/
+/build.py
+
+# Genel onemsiz dosyalar
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/

@@ -1,0 +1,77 @@
+{
+  "outputDir": "docs",
+  "dataDir": "data",
+  "errorThreshold": 60,
+  "discountThreshold": 59,
+  "matchTokenOverlap": 0.6,
+  "minPrice": 25,
+  "genericMinPrice": 50,
+  "maxHistoryPoints": 10,
+  "maxHistoryDays": 7,
+  "sites": {
+    "trendyol": {
+      "enabled": true,
+      "baseUrl": "https://www.trendyol.com",
+      "maxPages": 2,
+      "delay": 1.5,
+      "timeout": 20,
+      "retries": 2
+    },
+    "hepsiburada": {
+      "enabled": true,
+      "baseUrl": "https://www.hepsiburada.com",
+      "maxPages": 1,
+      "delay": 1.5,
+      "timeout": 20,
+      "retries": 2
+    },
+    "n11": {
+      "enabled": true,
+      "baseUrl": "https://www.n11.com",
+      "maxPages": 1,
+      "delay": 1.5,
+      "timeout": 20,
+      "retries": 2
+    },
+    "ciceksepeti": {
+      "enabled": true,
+      "baseUrl": "https://www.ciceksepeti.com",
+      "maxPages": 1,
+      "delay": 1.5,
+      "timeout": 20,
+      "retries": 2
+    },
+    "mediamarkt": {
+      "enabled": true,
+      "baseUrl": "https://www.mediamarkt.com.tr",
+      "maxPages": 1,
+      "delay": 1.5,
+      "timeout": 20,
+      "retries": 2
+    },
+    "teknosa": {
+      "enabled": true,
+      "baseUrl": "https://www.teknosa.com",
+      "maxPages": 1,
+      "delay": 1.5,
+      "timeout": 20,
+      "retries": 2
+    },
+    "vatan": {
+      "enabled": true,
+      "baseUrl": "https://www.vatanbilgisayar.com",
+      "maxPages": 1,
+      "delay": 1.5,
+      "timeout": 20,
+      "retries": 2
+    },
+    "amazon": {
+      "enabled": true,
+      "baseUrl": "https://www.amazon.com.tr",
+      "maxPages": 2,
+      "delay": 2.0,
+      "timeout": 25,
+      "retries": 2
+    }
+  }
+}
