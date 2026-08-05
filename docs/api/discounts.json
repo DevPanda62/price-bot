@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "ab0f45bc55342ee8",
+    "store": "hepsiburada",
+    "name": "New Well Ürünlerinde Kampanya: 79-89-139 TL Tek Fiyat 79-89-139 TL Tek Fiyat Kampanyalı ürünleri keşfet",
+    "url": "https://www.hepsiburada.com/kampanyalar/new-well-urunlerinde-kampanya",
+    "image": "",
+    "price": 79.0,
+    "old_price": 139.0,
+    "query": "kampanya",
+    "first_seen_at": "2026-08-06T01:41:12+03:00",
+    "last_seen_at": "2026-08-06T01:41:12+03:00",
+    "detected_at": "2026-08-06T01:41:12+03:00",
+    "discount_percent": 43.17,
+    "category": "discount",
+    "baseline_price": 139.0,
+    "baseline_source": "magaza-eski-fiyat",
+    "match_group": null,
+    "matched_stores": [],
+    "reason": "magaza-eski-fiyat: 139.00 TL -> 79.00 TL (%43.2 indirim)"
+  },
+  {
+    "id": "cd7b0df3464be80e",
+    "store": "hepsiburada",
+    "name": "İndirim Var Aspiratör & Davlumbaz Baca Adaptörü 120/150 mm Esnek Materyal ile Siyah Renk Seçeneği",
+    "url": "https://www.hepsiburada.com/indirim-var-aspirator-davlumbaz-baca-adaptoru-120-150-mm-pm-HBC00008CUI1N",
+    "image": "",
+    "price": 120.0,
+    "old_price": 150.0,
+    "query": "indirim",
+    "first_seen_at": "2026-08-06T01:41:12+03:00",
+    "last_seen_at": "2026-08-06T01:41:12+03:00",
+    "detected_at": "2026-08-06T01:41:12+03:00",
+    "discount_percent": 20.0,
+    "category": "discount",
+    "baseline_price": 150.0,
+    "baseline_source": "magaza-eski-fiyat",
+    "match_group": null,
+    "matched_stores": [],
+    "reason": "magaza-eski-fiyat: 150.00 TL -> 120.00 TL (%20.0 indirim)"
+  }
+]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T23:42:37+03:00",
+  "generated_at": "2026-08-06T01:41:12+03:00",
   "thresholds": {
     "error_min_percent": 60,
     "discount_max_percent": 59
@@ -13,17 +13,17 @@
         "discount": 0,
         "error": 0
       },
-      "message": "0 urun bulundu (secici veya erisim sorunu olabilir)"
+      "message": "0 urun bulundu (secici, engel veya sitemap basarisiz)"
     },
     "hepsiburada": {
-      "ok": false,
-      "product_count": 0,
+      "ok": true,
+      "product_count": 155,
       "categories": {
-        "normal": 0,
-        "discount": 0,
-        "error": 0
+        "normal": 98,
+        "discount": 2,
+        "error": 55
       },
-      "message": "0 urun bulundu (secici veya erisim sorunu olabilir)"
+      "message": ""
     },
     "n11": {
       "ok": false,
@@ -33,17 +33,17 @@
         "discount": 0,
         "error": 0
       },
-      "message": "0 urun bulundu (secici veya erisim sorunu olabilir)"
+      "message": "0 urun bulundu (secici, engel veya sitemap basarisiz)"
     },
     "ciceksepeti": {
-      "ok": true,
+      "ok": false,
       "product_count": 2,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 2
       },
-      "message": ""
+      "message": "0 urun bulundu (secici, engel veya sitemap basarisiz)"
     },
     "mediamarkt": {
       "ok": false,
@@ -53,7 +53,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "0 urun bulundu (secici veya erisim sorunu olabilir)"
+      "message": "0 urun bulundu (secici, engel veya sitemap basarisiz)"
     },
     "teknosa": {
       "ok": false,
@@ -63,7 +63,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "0 urun bulundu (secici veya erisim sorunu olabilir)"
+      "message": "0 urun bulundu (secici, engel veya sitemap basarisiz)"
     },
     "vatan": {
       "ok": false,
@@ -73,7 +73,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "0 urun bulundu (secici veya erisim sorunu olabilir)"
+      "message": "0 urun bulundu (secici, engel veya sitemap basarisiz)"
     },
     "amazon": {
       "ok": false,
@@ -83,15 +83,15 @@
         "discount": 0,
         "error": 0
       },
-      "message": "0 urun bulundu (secici veya erisim sorunu olabilir)"
+      "message": "0 urun bulundu (secici, engel veya sitemap basarisiz)"
     }
   },
   "totals": {
-    "products": 2,
+    "products": 157,
     "categories": {
-      "normal": 0,
-      "discount": 0,
-      "error": 2
+      "normal": 98,
+      "discount": 2,
+      "error": 57
     }
   }
 }
