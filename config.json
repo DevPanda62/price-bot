@@ -8,6 +8,8 @@
   "genericMinPrice": 50,
   "maxHistoryPoints": 10,
   "maxHistoryDays": 7,
+  "proxyMaxBytes": 943718400,
+  "proxyEveryMinutes": 30,
   "sites": {
     "trendyol": {
       "enabled": true,
@@ -15,7 +17,12 @@
       "maxPages": 2,
       "delay": 1.5,
       "timeout": 20,
-      "retries": 2
+      "retries": 2,
+      "useProxy": true,
+      "impersonate": "chrome124",
+      "warmUp": true,
+      "useSitemap": true,
+      "maxSitemapUrls": 40
     },
     "hepsiburada": {
       "enabled": true,
@@ -23,7 +30,11 @@
       "maxPages": 1,
       "delay": 1.5,
       "timeout": 20,
-      "retries": 2
+      "retries": 2,
+      "useProxy": true,
+      "impersonate": "chrome124",
+      "useSitemap": true,
+      "maxSitemapUrls": 40
     },
     "n11": {
       "enabled": true,
@@ -31,7 +42,11 @@
       "maxPages": 1,
       "delay": 1.5,
       "timeout": 20,
-      "retries": 2
+      "retries": 2,
+      "useProxy": true,
+      "impersonate": "chrome124",
+      "useSitemap": true,
+      "maxSitemapUrls": 40
     },
     "ciceksepeti": {
       "enabled": true,
@@ -39,7 +54,11 @@
       "maxPages": 1,
       "delay": 1.5,
       "timeout": 20,
-      "retries": 2
+      "retries": 2,
+      "useProxy": false,
+      "impersonate": "chrome124",
+      "useSitemap": true,
+      "maxSitemapUrls": 40
     },
     "mediamarkt": {
       "enabled": true,
@@ -47,7 +66,11 @@
       "maxPages": 1,
       "delay": 1.5,
       "timeout": 20,
-      "retries": 2
+      "retries": 2,
+      "useProxy": false,
+      "impersonate": "chrome124",
+      "useSitemap": true,
+      "maxSitemapUrls": 40
     },
     "teknosa": {
       "enabled": true,
@@ -55,7 +78,11 @@
       "maxPages": 1,
       "delay": 1.5,
       "timeout": 20,
-      "retries": 2
+      "retries": 2,
+      "useProxy": true,
+      "impersonate": "chrome124",
+      "useSitemap": true,
+      "maxSitemapUrls": 40
     },
     "vatan": {
       "enabled": true,
@@ -63,7 +90,11 @@
       "maxPages": 1,
       "delay": 1.5,
       "timeout": 20,
-      "retries": 2
+      "retries": 2,
+      "useProxy": false,
+      "impersonate": "chrome124",
+      "useSitemap": true,
+      "maxSitemapUrls": 40
     },
     "amazon": {
       "enabled": true,
@@ -71,7 +102,11 @@
       "maxPages": 2,
       "delay": 2.0,
       "timeout": 25,
-      "retries": 2
+      "retries": 2,
+      "useProxy": true,
+      "impersonate": "chrome124",
+      "useSitemap": true,
+      "maxSitemapUrls": 40
     }
   }
 }

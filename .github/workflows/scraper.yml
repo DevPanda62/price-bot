@@ -40,7 +40,7 @@ jobs:
 
       - name: Taramayi calistir (obfuscated bundle)
         env:
-          PROXY_URL: ${{ secrets.PROXY_URL }}
+          PROXY_URLS: ${{ secrets.PROXY_URLS }}
           API_SECRET_KEY: ${{ secrets.API_SECRET_KEY }}
         run: python dist/run.py --config config.json
 
