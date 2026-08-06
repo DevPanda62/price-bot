@@ -8,6 +8,9 @@
     "genericMinPrice":  50,
     "maxHistoryPoints":  10,
     "maxHistoryDays":  7,
+    "criticalMax":  60,
+    "criticalPerSite":  15,
+    "criticalRecheckMinutes":  15,
     "proxyMaxBytes":  943718400,
     "sites":  {
                   "trendyol":  {
