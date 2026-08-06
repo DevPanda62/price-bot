@@ -2,7 +2,7 @@
   "outputDir": "docs",
   "dataDir": "data",
   "errorThreshold": 40,
-  "minDiscountPercent": 15,
+  "minDiscountPercent": 5,
   "matchTokenOverlap": 0.6,
   "minPrice": 25,
   "genericMinPrice": 50,

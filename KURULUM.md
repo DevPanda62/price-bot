@@ -44,7 +44,7 @@ Kalan 3 adım tarayıcıda yapılır:
 | Uç | İçerik |
 | --- | --- |
 | /products | Tüm ürünler |
-| /discounts | İndirimler (%15–%40) |
+| /discounts | İndirimler (%5–%40) |
 | /errors | Hatalı fiyatlar (>%40) |
 | /stats | Site bazlı sayılar |
 | /changes | Son tarama farkları |
