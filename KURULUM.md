@@ -61,5 +61,5 @@ Kalan 3 adım tarayıcıda yapılır:
 ## Notlar
 
 - Ham kaynak (`run.py`, `core/`, `scrapers/`, `build.py`) **GitHub'a yüklenmedi** — sadece bu PC'de (`C:\firsatapp\github_act`). Onları kaybedersen selector güncelleme yeteneğini kaybedersin; bot çalışmaya devam eder.
-- 7 site GitHub sunucusundan 403/404 alabilir (sunucu IP engeli) — bu normal; `PROXY_URLS` secret ile çözülür. Tarama katmanı: TLS parmak izi taklidi (curl_cffi) → proxy rotasyonu → sitemap yedeği. Site 0 ürün döndürürse son bilinen ürünler API'de korunur.
+- **3 aşamalı tarama (her 5 dk):** 1) proxysiz tarama (TLS taklidi + sitemap yedeği ile) → 2) sadece engellenen siteler proxy ile → 3) proxy de açılmazsa **Ultra Trick Mode** (saatte 1: öğrenilmiş/çoklu tarayıcı profili, HTTP/1.1 düşüşü, 3 farklı proxy grubu). İlk UTM denemesi yanıt vermezse site kalıcı olarak pas geçilir (son ürünleri API'de korunur). Sitede o an indirimli ürün olmaması ("0 ürün") engel sayılmaz.
 - Proxy kullanımı API'yi etkilemez: proxy yalnızca tarama isteklerinde kullanılır; API, Pages + Cloudflare Worker üzerinden bağımsız çalışır.
