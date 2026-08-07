@@ -1,34 +1,29 @@
 {
-  "generated_at": "2026-08-07T18:12:58+03:00",
-  "added_count": 1,
-  "removed_count": 0,
-  "reclassified_count": 0,
-  "added": [
+  "generated_at": "2026-08-07T21:04:51+03:00",
+  "added_count": 0,
+  "removed_count": 2,
+  "reclassified_count": 1,
+  "added": [],
+  "removed": [
     {
-      "id": "216906f9b982ac71",
+      "id": "58caa3b69f36cbaa",
       "store": "hepsiburada",
-      "name": "Acer Swift Spin SFSP14-I51T Intel Core Ultra 7 355 16GB 512GB SSD Windows 11 Home 14\" Taşınabilir Bilgisayar NX.W0SEY.001",
-      "url": "https://www.hepsiburada.com/acer-swift-spin-sfsp14-i51t-intel-core-ultra-7-355-16gb-512gb-ssd-windows-11-home-14-tasinabilir-bilgisayar-nx-w0sey-001-p-HBCV0000EBOIE9?magaza=Hepsiburada",
-      "image": "",
-      "price": 83999.0,
-      "old_price": 3000500.0,
-      "query": "kampanya",
-      "first_seen_at": "2026-08-07T18:12:58+03:00",
-      "last_seen_at": "2026-08-07T18:12:58+03:00",
-      "detected_at": "2026-08-07T18:12:58+03:00",
-      "discount_percent": 97.2,
-      "category": "error",
-      "baseline_price": 3000500.0,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": null,
-      "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 3000500.00 TL -> 83999.00 TL (%97.2 indirim)",
-      "seller_name": "Acer",
-      "seller_rating": null,
-      "seller_reliable": null,
-      "verified_at": "2026-08-07T18:15:15+03:00"
+      "name": "TCL 32X3A Gaming Monitörü 31.5\" 4K OLED+ 0.03ms 240Hz Dual-Mode UHD Çerçevesiz Profesyonel Oyuncu Monitörü (HDMI+DP, DP 2.1, Bang & Olufsen Audio, FreeSync Premium Pro & G-Sync Compatible)"
+    },
+    {
+      "id": "a140458fc16a8d12",
+      "store": "hepsiburada",
+      "name": "Lansinoh Gen1 Giyilebilir Göğüs Pompası Ürün puanı 2.9, 65 değerlendirme 2,9 ( 65 ) Kampanya: Peşin fiyatına 3 x 766 TL Peşin fiyatına 3 x 766 TL Sepete özel 2.873,75 TL 2.299 TL"
     }
   ],
-  "removed": [],
-  "reclassified": []
+  "reclassified": [
+    {
+      "id": "e904e7001b23e17e",
+      "store": "hepsiburada",
+      "name": "HP DeskJet Ink Advantage 2976 Hepsi Bir Arada Yazıcı 60 Sayfa Giriş Kapasitesi ve 10 Sayfa Çıkış Kapasitesi",
+      "from": "error",
+      "to": "discount",
+      "discount_percent": 11.14
+    }
+  ]
 }
