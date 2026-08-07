@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T21:04:51+03:00",
+  "generated_at": "2026-08-07T23:09:37+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -14,15 +14,15 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm yanit verdi ama 0 urun"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "hepsiburada": {
       "ok": true,
-      "product_count": 12,
+      "product_count": 14,
       "categories": {
         "normal": 0,
-        "discount": 2,
-        "error": 10
+        "discount": 1,
+        "error": 13
       },
       "message": ""
     },
@@ -88,11 +88,11 @@
     }
   },
   "totals": {
-    "products": 12,
+    "products": 14,
     "categories": {
       "normal": 0,
-      "discount": 2,
-      "error": 10
+      "discount": 1,
+      "error": 13
     }
   },
   "critical": {
