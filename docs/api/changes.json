@@ -1,66 +1,15 @@
 {
-  "generated_at": "2026-08-07T23:09:37+03:00",
-  "added_count": 2,
-  "removed_count": 0,
-  "reclassified_count": 1,
-  "added": [
-    {
-      "id": "a140458fc16a8d12",
-      "store": "hepsiburada",
-      "name": "Lansinoh Gen1 Giyilebilir Göğüs Pompası Ürün puanı 2.9, 65 değerlendirme 2,9 ( 65 ) Kampanya: Peşin fiyatına 3 x 766 TL Peşin fiyatına 3 x 766 TL Sepete özel 2.873,75 TL 2.299 TL",
-      "url": "https://www.hepsiburada.com/gen1-giyilebilir-gogus-pompasi-p-HBCV00009X6ZWB?magaza=Hepsiburada",
-      "image": "",
-      "price": 65.0,
-      "old_price": 2873.75,
-      "query": "kampanya",
-      "first_seen_at": "2026-08-07T23:09:37+03:00",
-      "last_seen_at": "2026-08-07T23:09:37+03:00",
-      "detected_at": "2026-08-07T23:09:37+03:00",
-      "discount_percent": 97.74,
-      "category": "error",
-      "baseline_price": 2873.75,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": null,
-      "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 2873.75 TL -> 65.00 TL (%97.7 indirim)",
-      "seller_name": "",
-      "seller_rating": null,
-      "seller_reliable": null
-    },
-    {
-      "id": "58caa3b69f36cbaa",
-      "store": "hepsiburada",
-      "name": "TCL 32X3A Gaming Monitörü 31.5\" 4K OLED+ 0.03ms 240Hz Dual-Mode UHD Çerçevesiz Profesyonel Oyuncu Monitörü (HDMI+DP, DP 2.1, Bang & Olufsen Audio, FreeSync Premium Pro & G-Sync Compatible)",
-      "url": "https://www.hepsiburada.com/tcl-32x3a-gaming-monitoru-31-5-4k-oled-0-03ms-240hz-dual-mode-uhd-cercevesiz-profesyonel-oyuncu-monitoru-hdmi-dp-dp-2-1-bang-olufsen-audio-freesync-premium-pro-g-sync-compatible-p-HBCV0000GGBKI9?magaza=Hepsiburada",
-      "image": "",
-      "price": 64999.0,
-      "old_price": 1500000.0,
-      "query": "kampanya",
-      "first_seen_at": "2026-08-07T23:09:37+03:00",
-      "last_seen_at": "2026-08-07T23:09:37+03:00",
-      "detected_at": "2026-08-07T23:09:37+03:00",
-      "discount_percent": 95.67,
-      "category": "error",
-      "baseline_price": 1500000.0,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": null,
-      "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 1500000.00 TL -> 64999.00 TL (%95.7 indirim)",
-      "seller_name": "TCL",
-      "seller_rating": 5.0,
-      "seller_reliable": true,
-      "verified_at": "2026-08-07T23:11:22+03:00"
-    }
-  ],
-  "removed": [],
-  "reclassified": [
+  "generated_at": "2026-08-08T01:08:42+03:00",
+  "added_count": 0,
+  "removed_count": 1,
+  "reclassified_count": 0,
+  "added": [],
+  "removed": [
     {
       "id": "e904e7001b23e17e",
       "store": "hepsiburada",
-      "name": "HP DeskJet Ink Advantage 2976 Hepsi Bir Arada Yazıcı 60 Sayfa Giriş Kapasitesi ve 10 Sayfa Çıkış Kapasitesi Ürün puanı 3, 2 değerlendirme 3 ( 2 ) Kampanya: Peşin fiyatına 3 x 1.199 TL Peşin fiyatına 3 x 1.199 TL 3.599 TL",
-      "from": "discount",
-      "to": "error",
-      "discount_percent": 98.33
+      "name": "HP DeskJet Ink Advantage 2976 Hepsi Bir Arada Yazıcı 60 Sayfa Giriş Kapasitesi ve 10 Sayfa Çıkış Kapasitesi Ürün puanı 3, 2 değerlendirme 3 ( 2 ) Kampanya: Peşin fiyatına 3 x 1.199 TL Peşin fiyatına 3 x 1.199 TL 3.599 TL"
     }
-  ]
+  ],
+  "reclassified": []
 }
