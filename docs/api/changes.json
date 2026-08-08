@@ -1,39 +1,9 @@
 {
-  "generated_at": "2026-08-08T06:59:55+03:00",
-  "added_count": 1,
-  "removed_count": 1,
+  "generated_at": "2026-08-08T09:08:56+03:00",
+  "added_count": 0,
+  "removed_count": 0,
   "reclassified_count": 0,
-  "added": [
-    {
-      "id": "9006a8b5720b858c",
-      "store": "hepsiburada",
-      "name": "İndirim Plus Samsung A52S LCD Ekran A528 Çıtalı  Uygun",
-      "url": "https://www.hepsiburada.com/samsung-a52s-lcd-ekran-a528-citali-uygun-pm-HBC00008GTI9N",
-      "image": "",
-      "price": 52.0,
-      "old_price": 528.0,
-      "query": "indirim",
-      "first_seen_at": "2026-08-08T06:59:55+03:00",
-      "last_seen_at": "2026-08-08T06:59:55+03:00",
-      "detected_at": "2026-08-08T06:59:55+03:00",
-      "discount_percent": 90.15,
-      "category": "error",
-      "baseline_price": 528.0,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": null,
-      "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 528.00 TL -> 52.00 TL (%90.2 indirim)",
-      "seller_name": "",
-      "seller_rating": null,
-      "seller_reliable": null
-    }
-  ],
-  "removed": [
-    {
-      "id": "cace0d459aa48f4b",
-      "store": "hepsiburada",
-      "name": "Erpos  Barkod Yazıcı Termal Indirim Etiketi 100 x 135 250'LI"
-    }
-  ],
+  "added": [],
+  "removed": [],
   "reclassified": []
 }
