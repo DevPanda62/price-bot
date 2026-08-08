@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-08T02:51:57+03:00",
-  "heartbeat_at": "2026-08-08T02:53:19+03:00",
+  "last_run": "2026-08-08T06:59:55+03:00",
+  "heartbeat_at": "2026-08-08T07:01:26+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -30,7 +30,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece trick yanit verdi ama 0 urun"
+      "message": "proxy acik ama 0 urun"
     },
     "ciceksepeti": {
       "ok": false,
@@ -40,7 +40,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece trick yanit verdi ama 0 urun"
+      "message": "utm bekliyor (59 dk)"
     },
     "mediamarkt": {
       "ok": false,
@@ -97,19 +97,18 @@
     "vatan": "skipped",
     "trendyol": "skipped",
     "n11": "proxy",
-    "ciceksepeti": "proxy",
+    "ciceksepeti": "utm",
     "teknosa": "skipped"
   },
   "utm_last": {
     "trendyol": "2026-08-07T21:04:51+03:00",
     "n11": "2026-08-08T02:51:57+03:00",
-    "ciceksepeti": "2026-08-08T02:51:57+03:00",
+    "ciceksepeti": "2026-08-08T06:59:55+03:00",
     "teknosa": "2026-08-07T12:38:34+03:00",
     "vatan": "2026-08-07T09:01:49+03:00"
   },
   "utm_prof": {
     "n11": "chrome124",
-    "ciceksepeti": "chrome124",
     "teknosa": "chrome124",
     "trendyol": "chrome124"
   },
