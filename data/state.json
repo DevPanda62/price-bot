@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-08T18:02:42+03:00",
-  "heartbeat_at": "2026-08-08T18:04:25+03:00",
+  "last_run": "2026-08-08T19:02:45+03:00",
+  "heartbeat_at": "2026-08-08T19:04:14+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -40,7 +40,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm yanit verdi ama 0 urun"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "mediamarkt": {
       "ok": false,
@@ -97,7 +97,7 @@
     "vatan": "skipped",
     "trendyol": "skipped",
     "n11": "proxy",
-    "ciceksepeti": "utm",
+    "ciceksepeti": "skipped",
     "teknosa": "skipped"
   },
   "utm_last": {
