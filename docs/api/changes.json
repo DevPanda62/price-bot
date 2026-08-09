@@ -1,15 +1,9 @@
 {
-  "generated_at": "2026-08-10T00:04:09+03:00",
+  "generated_at": "2026-08-10T01:04:19+03:00",
   "added_count": 0,
-  "removed_count": 1,
+  "removed_count": 0,
   "reclassified_count": 0,
   "added": [],
-  "removed": [
-    {
-      "id": "f195c7382799bf63",
-      "store": "hepsiburada",
-      "name": "Asus ASUS Vivobook Go 15 E1504FA-BQ4895W AMD Ryzen 5 7520U 8GB 512GB SSD Windows 11 Home 15.6\" Taşınabilir Bilgisayar Kampanya: Peşin fiyatına 6 x 3.999 TL Peşin fiyatına 6 x 3.999 TL 23.999 TL"
-    }
-  ],
+  "removed": [],
   "reclassified": []
 }
