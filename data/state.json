@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-10T01:04:19+03:00",
-  "heartbeat_at": "2026-08-10T01:05:21+03:00",
+  "last_run": "2026-08-10T02:16:42+03:00",
+  "heartbeat_at": "2026-08-10T02:17:44+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -30,7 +30,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "proxy acik ama 0 urun"
+      "message": "gece trick yanit verdi ama 0 urun"
     },
     "ciceksepeti": {
       "ok": false,
@@ -102,7 +102,7 @@
   },
   "utm_last": {
     "trendyol": "2026-08-07T21:04:51+03:00",
-    "n11": "2026-08-09T02:04:11+03:00",
+    "n11": "2026-08-10T02:16:42+03:00",
     "ciceksepeti": "2026-08-08T18:02:42+03:00",
     "teknosa": "2026-08-07T12:38:34+03:00",
     "vatan": "2026-08-07T09:01:49+03:00"
