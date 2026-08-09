@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-09T22:19:05+03:00",
-  "heartbeat_at": "2026-08-09T22:20:10+03:00",
+  "last_run": "2026-08-10T00:04:09+03:00",
+  "heartbeat_at": "2026-08-10T00:05:30+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -14,11 +14,11 @@
     },
     "hepsiburada": {
       "ok": true,
-      "product_count": 13,
+      "product_count": 12,
       "categories": {
         "normal": 0,
         "discount": 1,
-        "error": 12
+        "error": 11
       },
       "message": ""
     },
@@ -84,11 +84,11 @@
     }
   },
   "totals": {
-    "products": 13,
+    "products": 12,
     "categories": {
       "normal": 0,
       "discount": 1,
-      "error": 12
+      "error": 11
     }
   },
   "proxy_last": {},
