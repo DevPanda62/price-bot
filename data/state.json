@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-10T02:16:42+03:00",
-  "heartbeat_at": "2026-08-10T02:17:44+03:00",
+  "last_run": "2026-08-10T08:08:41+03:00",
+  "heartbeat_at": "2026-08-10T08:10:07+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -14,10 +14,10 @@
     },
     "hepsiburada": {
       "ok": true,
-      "product_count": 12,
+      "product_count": 11,
       "categories": {
         "normal": 0,
-        "discount": 1,
+        "discount": 0,
         "error": 11
       },
       "message": ""
@@ -30,7 +30,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece trick yanit verdi ama 0 urun"
+      "message": "proxy acik ama 0 urun"
     },
     "ciceksepeti": {
       "ok": false,
@@ -84,10 +84,10 @@
     }
   },
   "totals": {
-    "products": 12,
+    "products": 11,
     "categories": {
       "normal": 0,
-      "discount": 1,
+      "discount": 0,
       "error": 11
     }
   },

@@ -1,9 +1,44 @@
 {
-  "generated_at": "2026-08-10T02:16:42+03:00",
-  "added_count": 0,
-  "removed_count": 0,
+  "generated_at": "2026-08-10T08:08:41+03:00",
+  "added_count": 1,
+  "removed_count": 2,
   "reclassified_count": 0,
-  "added": [],
-  "removed": [],
+  "added": [
+    {
+      "id": "99c693f5a47938e3",
+      "store": "hepsiburada",
+      "name": "ASUS Vivobook Go 15 AMD Ryzen 5 8GB 512GB SSD Laptop Kampanya: 20.999TL 20.999TL Kampanyalı ürünleri keşfet",
+      "url": "https://www.hepsiburada.com/kampanyalar/buyuk-agustos-laptop-firsatlari",
+      "image": "",
+      "price": 512.0,
+      "old_price": 20999.0,
+      "query": "kampanya",
+      "first_seen_at": "2026-08-10T08:08:41+03:00",
+      "last_seen_at": "2026-08-10T08:08:41+03:00",
+      "detected_at": "2026-08-10T08:08:41+03:00",
+      "discount_percent": 97.56,
+      "category": "error",
+      "baseline_price": 20999.0,
+      "baseline_source": "magaza-eski-fiyat",
+      "match_group": null,
+      "matched_stores": [],
+      "reason": "magaza-eski-fiyat: 20999.00 TL -> 512.00 TL (%97.6 indirim)",
+      "seller_name": "",
+      "seller_rating": null,
+      "seller_reliable": null
+    }
+  ],
+  "removed": [
+    {
+      "id": "9006a8b5720b858c",
+      "store": "hepsiburada",
+      "name": "İndirim Plus Samsung A52S LCD Ekran A528 Çıtalı  Uygun"
+    },
+    {
+      "id": "cd7b0df3464be80e",
+      "store": "hepsiburada",
+      "name": "İndirim Var Aspiratör & Davlumbaz Baca Adaptörü 120/150 mm Esnek Materyal ile Siyah Renk Seçeneği"
+    }
+  ],
   "reclassified": []
 }
