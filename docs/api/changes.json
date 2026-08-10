@@ -1,28 +1,51 @@
 {
-  "generated_at": "2026-08-10T08:08:41+03:00",
-  "added_count": 1,
-  "removed_count": 2,
+  "generated_at": "2026-08-10T13:01:36+03:00",
+  "added_count": 2,
+  "removed_count": 1,
   "reclassified_count": 0,
   "added": [
     {
-      "id": "99c693f5a47938e3",
+      "id": "cace0d459aa48f4b",
       "store": "hepsiburada",
-      "name": "ASUS Vivobook Go 15 AMD Ryzen 5 8GB 512GB SSD Laptop Kampanya: 20.999TL 20.999TL Kampanyalı ürünleri keşfet",
-      "url": "https://www.hepsiburada.com/kampanyalar/buyuk-agustos-laptop-firsatlari",
+      "name": "Erpos  Barkod Yazıcı Termal Indirim Etiketi 100 x 135 250'LI",
+      "url": "https://www.hepsiburada.com/erpos-barkod-yazici-termal-indirim-etiketi-100-x-135-250-li-pm-HB00000VR2C6",
       "image": "",
-      "price": 512.0,
-      "old_price": 20999.0,
-      "query": "kampanya",
-      "first_seen_at": "2026-08-10T08:08:41+03:00",
-      "last_seen_at": "2026-08-10T08:08:41+03:00",
-      "detected_at": "2026-08-10T08:08:41+03:00",
-      "discount_percent": 97.56,
+      "price": 100.0,
+      "old_price": 250.0,
+      "query": "indirim",
+      "first_seen_at": "2026-08-10T13:01:36+03:00",
+      "last_seen_at": "2026-08-10T13:01:36+03:00",
+      "detected_at": "2026-08-10T13:01:36+03:00",
+      "discount_percent": 60.0,
       "category": "error",
-      "baseline_price": 20999.0,
+      "baseline_price": 250.0,
       "baseline_source": "magaza-eski-fiyat",
       "match_group": null,
       "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 20999.00 TL -> 512.00 TL (%97.6 indirim)",
+      "reason": "magaza-eski-fiyat: 250.00 TL -> 100.00 TL (%60.0 indirim)",
+      "seller_name": "",
+      "seller_rating": null,
+      "seller_reliable": null
+    },
+    {
+      "id": "cd7b0df3464be80e",
+      "store": "hepsiburada",
+      "name": "İndirim Var Aspiratör & Davlumbaz Baca Adaptörü 120/150 mm Esnek Materyal ile Siyah Renk Seçeneği",
+      "url": "https://www.hepsiburada.com/indirim-var-aspirator-davlumbaz-baca-adaptoru-120-150-mm-pm-HBC00008CUI1N",
+      "image": "",
+      "price": 120.0,
+      "old_price": 150.0,
+      "query": "indirim",
+      "first_seen_at": "2026-08-10T13:01:36+03:00",
+      "last_seen_at": "2026-08-10T13:01:36+03:00",
+      "detected_at": "2026-08-10T13:01:36+03:00",
+      "discount_percent": 20.0,
+      "category": "discount",
+      "baseline_price": 150.0,
+      "baseline_source": "magaza-eski-fiyat",
+      "match_group": null,
+      "matched_stores": [],
+      "reason": "magaza-eski-fiyat: 150.00 TL -> 120.00 TL (%20.0 indirim)",
       "seller_name": "",
       "seller_rating": null,
       "seller_reliable": null
@@ -30,14 +53,9 @@
   ],
   "removed": [
     {
-      "id": "9006a8b5720b858c",
+      "id": "a140458fc16a8d12",
       "store": "hepsiburada",
-      "name": "İndirim Plus Samsung A52S LCD Ekran A528 Çıtalı  Uygun"
-    },
-    {
-      "id": "cd7b0df3464be80e",
-      "store": "hepsiburada",
-      "name": "İndirim Var Aspiratör & Davlumbaz Baca Adaptörü 120/150 mm Esnek Materyal ile Siyah Renk Seçeneği"
+      "name": "Lansinoh Gen1 Giyilebilir Göğüs Pompası Ürün puanı 2.9, 65 değerlendirme 2,9 ( 65 ) Kampanya: Peşin fiyatına 3 x 766 TL Peşin fiyatına 3 x 766 TL Sepete özel 2.873,75 TL 2.299 TL"
     }
   ],
   "reclassified": []
