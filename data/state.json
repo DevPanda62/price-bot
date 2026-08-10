@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-11T00:10:59+03:00",
-  "heartbeat_at": "2026-08-11T00:12:05+03:00",
+  "last_run": "2026-08-11T02:09:02+03:00",
+  "heartbeat_at": "2026-08-11T02:11:21+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -13,14 +13,14 @@
       "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "hepsiburada": {
-      "ok": true,
+      "ok": false,
       "product_count": 12,
       "categories": {
         "normal": 0,
         "discount": 1,
         "error": 11
       },
-      "message": ""
+      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
     },
     "n11": {
       "ok": false,
@@ -30,7 +30,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "proxy acik ama 0 urun"
+      "message": "gece trick yanit verdi ama 0 urun"
     },
     "ciceksepeti": {
       "ok": false,
@@ -93,7 +93,7 @@
   },
   "proxy_last": {},
   "modes": {
-    "hepsiburada": "normal",
+    "hepsiburada": "night",
     "vatan": "skipped",
     "trendyol": "skipped",
     "n11": "proxy",
@@ -102,10 +102,11 @@
   },
   "utm_last": {
     "trendyol": "2026-08-07T21:04:51+03:00",
-    "n11": "2026-08-10T02:16:42+03:00",
+    "n11": "2026-08-11T02:09:02+03:00",
     "ciceksepeti": "2026-08-08T18:02:42+03:00",
     "teknosa": "2026-08-07T12:38:34+03:00",
-    "vatan": "2026-08-07T09:01:49+03:00"
+    "vatan": "2026-08-07T09:01:49+03:00",
+    "hepsiburada": "2026-08-11T02:09:02+03:00"
   },
   "utm_prof": {
     "n11": "chrome124",
@@ -113,10 +114,5 @@
     "trendyol": "chrome124",
     "ciceksepeti": "chrome124"
   },
-  "critical": {
-    "selected": 5,
-    "checked": 5,
-    "updated": 5,
-    "flash": 0
-  }
+  "critical": {}
 }

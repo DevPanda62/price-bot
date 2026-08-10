@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T00:10:59+03:00",
+  "generated_at": "2026-08-11T02:09:02+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -17,14 +17,14 @@
       "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "hepsiburada": {
-      "ok": true,
+      "ok": false,
       "product_count": 12,
       "categories": {
         "normal": 0,
         "discount": 1,
         "error": 11
       },
-      "message": ""
+      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
     },
     "n11": {
       "ok": false,
@@ -34,7 +34,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "proxy acik ama 0 urun"
+      "message": "gece trick yanit verdi ama 0 urun"
     },
     "ciceksepeti": {
       "ok": false,
@@ -95,10 +95,5 @@
       "error": 11
     }
   },
-  "critical": {
-    "selected": 5,
-    "checked": 5,
-    "updated": 5,
-    "flash": 0
-  }
+  "critical": {}
 }
