@@ -1,33 +1,15 @@
 {
-  "generated_at": "2026-08-11T11:14:05+03:00",
-  "added_count": 1,
-  "removed_count": 0,
+  "generated_at": "2026-08-11T14:09:08+03:00",
+  "added_count": 0,
+  "removed_count": 1,
   "reclassified_count": 0,
-  "added": [
+  "added": [],
+  "removed": [
     {
       "id": "30e8fb8e9bdc2e84",
       "store": "hepsiburada",
-      "name": "Crucial 32GB DDR4 3200Mhz CT32G4SFD832A Notebook Ram",
-      "url": "https://www.hepsiburada.com/crucial-ntb-ct32g4sfd832a-32gb-ddr4-3200mhz-sodimm-cl22-ram-bellek-pm-HBC000014YSZA",
-      "image": "",
-      "price": 133.0,
-      "old_price": 3200.0,
-      "query": "indirim",
-      "first_seen_at": "2026-08-11T11:14:05+03:00",
-      "last_seen_at": "2026-08-11T11:14:05+03:00",
-      "detected_at": "2026-08-11T11:14:05+03:00",
-      "discount_percent": 95.84,
-      "category": "error",
-      "baseline_price": 3200.0,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": null,
-      "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 3200.00 TL -> 133.00 TL (%95.8 indirim)",
-      "seller_name": "",
-      "seller_rating": null,
-      "seller_reliable": null
+      "name": "Crucial 32GB DDR4 3200Mhz CT32G4SFD832A Notebook Ram"
     }
   ],
-  "removed": [],
   "reclassified": []
 }
