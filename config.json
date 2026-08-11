@@ -27,7 +27,7 @@
         "trendyol": {
             "enabled": true,
             "baseUrl": "https://www.trendyol.com",
-            "maxPages": 2,
+            "maxPages": 3,
             "delay": 1.5,
             "timeout": 20,
             "retries": 2,
@@ -35,7 +35,7 @@
             "impersonate": "chrome124",
             "warmUp": true,
             "useSitemap": true,
-            "maxSitemapUrls": 40
+            "maxSitemapUrls": 60
         },
         "hepsiburada": {
             "enabled": true,
@@ -47,19 +47,19 @@
             "useProxy": true,
             "impersonate": "chrome124",
             "useSitemap": true,
-            "maxSitemapUrls": 40
+            "maxSitemapUrls": 60
         },
         "n11": {
             "enabled": true,
             "baseUrl": "https://www.n11.com",
-            "maxPages": 1,
+            "maxPages": 2,
             "delay": 1.5,
             "timeout": 20,
             "retries": 2,
             "useProxy": true,
             "impersonate": "chrome124",
             "useSitemap": true,
-            "maxSitemapUrls": 40
+            "maxSitemapUrls": 60
         },
         "ciceksepeti": {
             "enabled": true,
@@ -71,7 +71,7 @@
             "useProxy": true,
             "impersonate": "chrome124",
             "useSitemap": true,
-            "maxSitemapUrls": 40
+            "maxSitemapUrls": 60
         },
         "mediamarkt": {
             "enabled": true,
@@ -83,7 +83,7 @@
             "useProxy": true,
             "impersonate": "chrome124",
             "useSitemap": true,
-            "maxSitemapUrls": 40
+            "maxSitemapUrls": 60
         },
         "teknosa": {
             "enabled": true,
@@ -95,7 +95,7 @@
             "useProxy": true,
             "impersonate": "chrome124",
             "useSitemap": true,
-            "maxSitemapUrls": 40
+            "maxSitemapUrls": 60
         },
         "vatan": {
             "enabled": true,
@@ -107,19 +107,19 @@
             "useProxy": true,
             "impersonate": "chrome124",
             "useSitemap": true,
-            "maxSitemapUrls": 40
+            "maxSitemapUrls": 60
         },
         "amazon": {
             "enabled": true,
             "baseUrl": "https://www.amazon.com.tr",
-            "maxPages": 2,
+            "maxPages": 3,
             "delay": 2.0,
             "timeout": 25,
             "retries": 2,
             "useProxy": true,
             "impersonate": "chrome124",
             "useSitemap": true,
-            "maxSitemapUrls": 40
+            "maxSitemapUrls": 60
         }
     },
     "utmEveryMinutes": 60,
