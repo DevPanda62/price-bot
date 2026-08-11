@@ -122,5 +122,11 @@
             "maxSitemapUrls": 40
         }
     },
-    "utmEveryMinutes": 60
+    "utmEveryMinutes": 60,
+    "skipRetryMinutes": 1440,
+    "akakceFallback": {
+        "enabled": true,
+        "maxProducts": 60,
+        "useProxy": false
+    }
 }
