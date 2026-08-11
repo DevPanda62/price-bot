@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-11T23:39:52+03:00",
+  "generated_at": "2026-08-12T01:27:20+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 11014407,
+    "used_bytes": 14985883,
     "quota_bytes": 943718400
   },
   "sites": {
@@ -18,17 +18,17 @@
         "discount": 0,
         "error": 0
       },
-      "message": "proxy acik ama 0 urun"
+      "message": "utm bekliyor (59 dk)"
     },
     "hepsiburada": {
-      "ok": false,
-      "product_count": 0,
+      "ok": true,
+      "product_count": 3,
       "categories": {
         "normal": 0,
         "discount": 0,
-        "error": 0
+        "error": 3
       },
-      "message": "utm bekliyor (39 dk)"
+      "message": ""
     },
     "n11": {
       "ok": false,
@@ -78,7 +78,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (39 dk)"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "amazon": {
       "ok": false,
@@ -88,21 +88,21 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (59 dk)"
+      "message": "0 urun (indirim yok olabilir)"
     }
   },
   "totals": {
-    "products": 9,
+    "products": 12,
     "categories": {
       "normal": 0,
       "discount": 3,
-      "error": 6
+      "error": 9
     }
   },
   "critical": {
-    "selected": 5,
-    "checked": 5,
-    "updated": 0,
+    "selected": 10,
+    "checked": 10,
+    "updated": 5,
     "flash": 0
   }
 }
