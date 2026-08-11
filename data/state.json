@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-11T23:19:37+03:00",
-  "heartbeat_at": "2026-08-11T23:25:16+03:00",
+  "last_run": "2026-08-11T23:39:52+03:00",
+  "heartbeat_at": "2026-08-11T23:47:11+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -20,7 +20,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (59 dk)"
+      "message": "utm bekliyor (39 dk)"
     },
     "n11": {
       "ok": false,
@@ -43,14 +43,14 @@
       "message": "proxy acik ama 0 urun"
     },
     "mediamarkt": {
-      "ok": false,
-      "product_count": 0,
+      "ok": true,
+      "product_count": 9,
       "categories": {
         "normal": 0,
-        "discount": 0,
-        "error": 0
+        "discount": 3,
+        "error": 6
       },
-      "message": "0 urun (indirim yok olabilir)"
+      "message": ""
     },
     "teknosa": {
       "ok": false,
@@ -70,7 +70,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (59 dk)"
+      "message": "utm bekliyor (39 dk)"
     },
     "amazon": {
       "ok": false,
@@ -80,30 +80,43 @@
         "discount": 0,
         "error": 0
       },
-      "message": "0 urun (indirim yok olabilir)"
+      "message": "utm bekliyor (59 dk)"
     }
   },
   "totals": {
-    "products": 0,
+    "products": 9,
     "categories": {
       "normal": 0,
-      "discount": 0,
-      "error": 0
+      "discount": 3,
+      "error": 6
     }
   },
-  "proxy_last": {},
+  "proxy_last": {
+    "trendyol": "2026-08-11T23:39:52+03:00",
+    "n11": "2026-08-11T23:39:52+03:00",
+    "ciceksepeti": "2026-08-11T23:39:52+03:00",
+    "teknosa": "2026-08-11T23:39:52+03:00"
+  },
   "modes": {
     "trendyol": "proxy",
     "hepsiburada": "utm",
     "n11": "proxy",
     "ciceksepeti": "proxy",
     "teknosa": "proxy",
-    "vatan": "utm"
+    "vatan": "utm",
+    "mediamarkt": "normal",
+    "amazon": "utm"
   },
   "utm_last": {
     "hepsiburada": "2026-08-11T23:19:37+03:00",
-    "vatan": "2026-08-11T23:19:37+03:00"
+    "vatan": "2026-08-11T23:19:37+03:00",
+    "amazon": "2026-08-11T23:39:52+03:00"
   },
   "utm_prof": {},
-  "critical": {}
+  "critical": {
+    "selected": 5,
+    "checked": 5,
+    "updated": 0,
+    "flash": 0
+  }
 }

@@ -1,9 +1,13 @@
 {
-  "generated_at": "2026-08-11T23:19:37+03:00",
+  "generated_at": "2026-08-11T23:39:52+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
+  },
+  "proxy": {
+    "used_bytes": 11014407,
+    "quota_bytes": 943718400
   },
   "sites": {
     "trendyol": {
@@ -24,7 +28,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (59 dk)"
+      "message": "utm bekliyor (39 dk)"
     },
     "n11": {
       "ok": false,
@@ -47,14 +51,14 @@
       "message": "proxy acik ama 0 urun"
     },
     "mediamarkt": {
-      "ok": false,
-      "product_count": 0,
+      "ok": true,
+      "product_count": 9,
       "categories": {
         "normal": 0,
-        "discount": 0,
-        "error": 0
+        "discount": 3,
+        "error": 6
       },
-      "message": "0 urun (indirim yok olabilir)"
+      "message": ""
     },
     "teknosa": {
       "ok": false,
@@ -74,7 +78,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (59 dk)"
+      "message": "utm bekliyor (39 dk)"
     },
     "amazon": {
       "ok": false,
@@ -84,16 +88,21 @@
         "discount": 0,
         "error": 0
       },
-      "message": "0 urun (indirim yok olabilir)"
+      "message": "utm bekliyor (59 dk)"
     }
   },
   "totals": {
-    "products": 0,
+    "products": 9,
     "categories": {
       "normal": 0,
-      "discount": 0,
-      "error": 0
+      "discount": 3,
+      "error": 6
     }
   },
-  "critical": {}
+  "critical": {
+    "selected": 5,
+    "checked": 5,
+    "updated": 0,
+    "flash": 0
+  }
 }
