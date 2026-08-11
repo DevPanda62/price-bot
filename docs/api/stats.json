@@ -1,0 +1,99 @@
+{
+  "generated_at": "2026-08-11T23:19:37+03:00",
+  "thresholds": {
+    "error_min_percent": 40,
+    "discount_min_percent": 5,
+    "discount_max_percent": 40
+  },
+  "sites": {
+    "trendyol": {
+      "ok": false,
+      "product_count": 0,
+      "categories": {
+        "normal": 0,
+        "discount": 0,
+        "error": 0
+      },
+      "message": "proxy acik ama 0 urun"
+    },
+    "hepsiburada": {
+      "ok": false,
+      "product_count": 0,
+      "categories": {
+        "normal": 0,
+        "discount": 0,
+        "error": 0
+      },
+      "message": "utm bekliyor (59 dk)"
+    },
+    "n11": {
+      "ok": false,
+      "product_count": 0,
+      "categories": {
+        "normal": 0,
+        "discount": 0,
+        "error": 0
+      },
+      "message": "proxy acik ama 0 urun"
+    },
+    "ciceksepeti": {
+      "ok": false,
+      "product_count": 0,
+      "categories": {
+        "normal": 0,
+        "discount": 0,
+        "error": 0
+      },
+      "message": "proxy acik ama 0 urun"
+    },
+    "mediamarkt": {
+      "ok": false,
+      "product_count": 0,
+      "categories": {
+        "normal": 0,
+        "discount": 0,
+        "error": 0
+      },
+      "message": "0 urun (indirim yok olabilir)"
+    },
+    "teknosa": {
+      "ok": false,
+      "product_count": 0,
+      "categories": {
+        "normal": 0,
+        "discount": 0,
+        "error": 0
+      },
+      "message": "proxy acik ama 0 urun"
+    },
+    "vatan": {
+      "ok": false,
+      "product_count": 0,
+      "categories": {
+        "normal": 0,
+        "discount": 0,
+        "error": 0
+      },
+      "message": "utm bekliyor (59 dk)"
+    },
+    "amazon": {
+      "ok": false,
+      "product_count": 0,
+      "categories": {
+        "normal": 0,
+        "discount": 0,
+        "error": 0
+      },
+      "message": "0 urun (indirim yok olabilir)"
+    }
+  },
+  "totals": {
+    "products": 0,
+    "categories": {
+      "normal": 0,
+      "discount": 0,
+      "error": 0
+    }
+  },
+  "critical": {}
+}
