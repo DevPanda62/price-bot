@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-13T00:25:37+03:00",
-  "heartbeat_at": "2026-08-13T00:41:05+03:00",
+  "last_run": "2026-08-13T02:24:44+03:00",
+  "heartbeat_at": "2026-08-13T02:36:05+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -10,7 +10,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm yanit verdi ama 0 urun"
+      "message": "gece trick yanit verdi ama 0 urun"
     },
     "hepsiburada": {
       "ok": true,
@@ -30,7 +30,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "proxy acik ama 0 urun"
+      "message": "gece trick yanit verdi ama 0 urun"
     },
     "ciceksepeti": {
       "ok": false,
@@ -40,7 +40,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "proxy acik ama 0 urun"
+      "message": "gece trick yanit verdi ama 0 urun"
     },
     "mediamarkt": {
       "ok": true,
@@ -60,7 +60,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "proxy acik ama 0 urun"
+      "message": "gece trick yanit verdi ama 0 urun"
     },
     "vatan": {
       "ok": false,
@@ -70,7 +70,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi (ultra trick mode de basarisiz)"
+      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
     },
     "amazon": {
       "ok": false,
@@ -103,18 +103,24 @@
     "n11": "proxy",
     "ciceksepeti": "proxy",
     "teknosa": "proxy",
-    "vatan": "skipped",
+    "vatan": "night",
     "mediamarkt": "normal",
     "amazon": "utm"
   },
   "utm_last": {
     "hepsiburada": "2026-08-11T23:19:37+03:00",
-    "vatan": "2026-08-11T23:19:37+03:00",
+    "vatan": "2026-08-13T02:24:44+03:00",
     "amazon": "2026-08-11T23:39:52+03:00",
-    "trendyol": "2026-08-13T00:25:37+03:00"
+    "trendyol": "2026-08-13T02:24:44+03:00",
+    "n11": "2026-08-13T02:24:44+03:00",
+    "ciceksepeti": "2026-08-13T02:24:44+03:00",
+    "teknosa": "2026-08-13T02:24:44+03:00"
   },
   "utm_prof": {
-    "trendyol": "chrome124"
+    "trendyol": "safari17_0",
+    "n11": "chrome124",
+    "ciceksepeti": "chrome124",
+    "teknosa": "safari17_0"
   },
   "critical": {
     "selected": 10,
