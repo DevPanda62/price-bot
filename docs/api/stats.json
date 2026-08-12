@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T01:27:20+03:00",
+  "generated_at": "2026-08-12T12:40:26+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 14985883,
+    "used_bytes": 20507638,
     "quota_bytes": 943718400
   },
   "sites": {
@@ -18,7 +18,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (59 dk)"
+      "message": "utm yanit verdi ama 0 urun"
     },
     "hepsiburada": {
       "ok": true,
@@ -52,11 +52,11 @@
     },
     "mediamarkt": {
       "ok": true,
-      "product_count": 9,
+      "product_count": 8,
       "categories": {
         "normal": 0,
         "discount": 3,
-        "error": 6
+        "error": 5
       },
       "message": ""
     },
@@ -78,7 +78,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi (ultra trick mode de basarisiz)"
+      "message": "pas gecildi"
     },
     "amazon": {
       "ok": false,
@@ -92,11 +92,11 @@
     }
   },
   "totals": {
-    "products": 12,
+    "products": 11,
     "categories": {
       "normal": 0,
       "discount": 3,
-      "error": 9
+      "error": 8
     }
   },
   "critical": {
