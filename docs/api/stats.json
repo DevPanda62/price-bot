@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T12:40:26+03:00",
+  "generated_at": "2026-08-12T18:31:41+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 20507638,
+    "used_bytes": 24797888,
     "quota_bytes": 943718400
   },
   "sites": {
