@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-12T21:39:26+03:00",
+  "generated_at": "2026-08-13T00:25:37+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 30365621,
+    "used_bytes": 37146617,
     "quota_bytes": 943718400
   },
   "sites": {
@@ -78,7 +78,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "amazon": {
       "ok": false,
