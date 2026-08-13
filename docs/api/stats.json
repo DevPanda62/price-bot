@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-13T02:24:44+03:00",
+  "generated_at": "2026-08-13T12:43:16+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 37146617,
+    "used_bytes": 43536260,
     "quota_bytes": 943718400
   },
   "sites": {
@@ -18,7 +18,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece trick yanit verdi ama 0 urun"
+      "message": "utm yanit verdi ama 0 urun"
     },
     "hepsiburada": {
       "ok": true,
@@ -38,7 +38,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece trick yanit verdi ama 0 urun"
+      "message": "proxy acik ama 0 urun"
     },
     "ciceksepeti": {
       "ok": false,
@@ -48,15 +48,15 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece trick yanit verdi ama 0 urun"
+      "message": "proxy acik ama 0 urun"
     },
     "mediamarkt": {
       "ok": true,
-      "product_count": 8,
+      "product_count": 9,
       "categories": {
         "normal": 0,
-        "discount": 3,
-        "error": 5
+        "discount": 2,
+        "error": 7
       },
       "message": ""
     },
@@ -68,7 +68,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece trick yanit verdi ama 0 urun"
+      "message": "proxy acik ama 0 urun"
     },
     "vatan": {
       "ok": false,
@@ -78,7 +78,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
+      "message": "utm bekliyor (59 dk)"
     },
     "amazon": {
       "ok": false,
@@ -92,11 +92,11 @@
     }
   },
   "totals": {
-    "products": 11,
+    "products": 12,
     "categories": {
       "normal": 0,
-      "discount": 3,
-      "error": 8
+      "discount": 2,
+      "error": 10
     }
   },
   "critical": {
