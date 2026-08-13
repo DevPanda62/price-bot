@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-13T21:40:16+03:00",
-  "heartbeat_at": "2026-08-13T21:56:15+03:00",
+  "last_run": "2026-08-14T00:27:24+03:00",
+  "heartbeat_at": "2026-08-14T00:33:40+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -14,11 +14,11 @@
     },
     "hepsiburada": {
       "ok": true,
-      "product_count": 6,
+      "product_count": 3,
       "categories": {
         "normal": 0,
         "discount": 0,
-        "error": 6
+        "error": 3
       },
       "message": ""
     },
@@ -60,7 +60,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi (ultra trick mode de basarisiz)"
+      "message": "pas gecildi"
     },
     "vatan": {
       "ok": false,
@@ -84,17 +84,17 @@
     }
   },
   "totals": {
-    "products": 14,
+    "products": 11,
     "categories": {
       "normal": 0,
       "discount": 1,
-      "error": 13
+      "error": 10
     }
   },
   "proxy_last": {
     "trendyol": "2026-08-13T15:05:23+03:00",
-    "n11": "2026-08-13T21:40:16+03:00",
-    "ciceksepeti": "2026-08-13T21:40:16+03:00",
+    "n11": "2026-08-14T00:27:24+03:00",
+    "ciceksepeti": "2026-08-14T00:27:24+03:00",
     "teknosa": "2026-08-13T15:05:23+03:00"
   },
   "modes": {
