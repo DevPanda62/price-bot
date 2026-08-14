@@ -25,7 +25,7 @@ env:
 jobs:
   scan:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -37,6 +37,17 @@ jobs:
 
       - name: Bagimliliklari yukle
         run: pip install -r requirements.txt
+
+      - name: Playwright chromium onbellegi
+        uses: actions/cache@v3
+        with:
+          path: |
+            ~/.cache/ms-playwright
+          key: ${{ runner.os }}-pw-${{ hashFiles('requirements.txt') }}
+
+      - name: Playwright chromium kur
+        run: |
+          python -m playwright install --with-deps chromium
 
       - name: Taramayi calistir (obfuscated bundle)
         env:
@@ -57,6 +68,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm -r --cached data/debug >/dev/null 2>&1 || true
           git add -A docs data
           if git diff --cached --quiet; then
             echo "Degisiklik yok, commit atlandi"

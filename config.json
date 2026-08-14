@@ -52,11 +52,13 @@
         "n11": {
             "enabled": true,
             "baseUrl": "https://www.n11.com",
-            "maxPages": 2,
+            "maxPages": 1,
             "delay": 1.5,
             "timeout": 20,
             "retries": 2,
             "useProxy": true,
+            "useBrowser": true,
+            "browserWaitSelector": "li[data-productid], .pro-item, .listItem",
             "impersonate": "chrome124",
             "useSitemap": true,
             "maxSitemapUrls": 60
@@ -69,6 +71,8 @@
             "timeout": 20,
             "retries": 2,
             "useProxy": true,
+            "useBrowser": true,
+            "browserWaitSelector": "div[data-testid='product-card'], .product-card",
             "impersonate": "chrome124",
             "useSitemap": true,
             "maxSitemapUrls": 60
@@ -112,11 +116,13 @@
         "amazon": {
             "enabled": true,
             "baseUrl": "https://www.amazon.com.tr",
-            "maxPages": 3,
+            "maxPages": 1,
             "delay": 2.0,
             "timeout": 25,
             "retries": 2,
             "useProxy": true,
+            "useBrowser": true,
+            "browserWaitSelector": "div[data-component-type='s-search-result']",
             "impersonate": "chrome124",
             "useSitemap": true,
             "maxSitemapUrls": 60
