@@ -1,0 +1,27 @@
+[
+  {
+    "id": "205165d9711d0ab0",
+    "store": "mediamarkt",
+    "name": "APPLE EarPods Kablolu Kulak İçi Kulaklık (Lightning Konnektörü)",
+    "url": "https://www.mediamarkt.com.tr/tr/product/_apple-earpods-kablolu-kulak-ici-kulaklik-lightning-konnektoru-1243063.html",
+    "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_148534679?x=416&y=416&format=webp&quality=60&sp=yes&strip=yes&trim=yes&ex=416&ey=416&align=center&resizesource&unsharp=0.5x0.5",
+    "price": 899.0,
+    "old_price": 949.0,
+    "query": "kulaklik",
+    "first_seen_at": "2026-08-14T21:49:34+03:00",
+    "last_seen_at": "2026-08-14T22:10:38+03:00",
+    "detected_at": "2026-08-14T22:10:38+03:00",
+    "discount_percent": 5.27,
+    "category": "discount",
+    "baseline_price": 949.0,
+    "baseline_source": "magaza-eski-fiyat",
+    "match_group": null,
+    "matched_stores": [],
+    "reason": "anlik indirim (site listeye yansitmadi); magaza-eski-fiyat: 949.00 TL -> 899.00 TL (%5.3 indirim)",
+    "seller_name": "Mağazalarımız",
+    "seller_rating": null,
+    "seller_reliable": null,
+    "verified_at": "2026-08-14T22:15:11+03:00",
+    "flash": 1
+  }
+]

@@ -11,6 +11,8 @@
     "criticalMax": 60,
     "criticalPerSite": 5,
     "criticalRecheckMinutes": 30,
+    "maxSkipVerifyTotal": 16,
+    "maxSkipVerifyPerSite": 4,
     "proxyMaxBytes": 943718400,
     "proxyEveryMinutes": 30,
     "schedule": {
