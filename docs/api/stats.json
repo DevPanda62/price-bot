@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T08:20:38+03:00",
+  "generated_at": "2026-08-14T12:30:55+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 58578825,
+    "used_bytes": 61166677,
     "quota_bytes": 943718400
   },
   "sites": {
@@ -55,8 +55,8 @@
       "product_count": 9,
       "categories": {
         "normal": 0,
-        "discount": 5,
-        "error": 4
+        "discount": 4,
+        "error": 5
       },
       "message": ""
     },
@@ -95,8 +95,8 @@
     "products": 12,
     "categories": {
       "normal": 0,
-      "discount": 5,
-      "error": 7
+      "discount": 4,
+      "error": 8
     }
   },
   "critical": {
