@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T02:27:16+03:00",
+  "generated_at": "2026-08-14T08:20:38+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 56421562,
+    "used_bytes": 58578825,
     "quota_bytes": 943718400
   },
   "sites": {
@@ -38,7 +38,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece trick yanit verdi ama 0 urun"
+      "message": "proxy acik ama 0 urun"
     },
     "ciceksepeti": {
       "ok": false,
@@ -48,15 +48,15 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece trick yanit verdi ama 0 urun"
+      "message": "proxy acik ama 0 urun"
     },
     "mediamarkt": {
       "ok": true,
-      "product_count": 8,
+      "product_count": 9,
       "categories": {
         "normal": 0,
-        "discount": 1,
-        "error": 7
+        "discount": 5,
+        "error": 4
       },
       "message": ""
     },
@@ -92,11 +92,11 @@
     }
   },
   "totals": {
-    "products": 11,
+    "products": 12,
     "categories": {
       "normal": 0,
-      "discount": 1,
-      "error": 10
+      "discount": 5,
+      "error": 7
     }
   },
   "critical": {
