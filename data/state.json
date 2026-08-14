@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-15T00:54:36+03:00",
-  "heartbeat_at": "2026-08-15T00:57:23+03:00",
+  "last_run": "2026-08-15T01:54:02+03:00",
+  "heartbeat_at": "2026-08-15T01:58:12+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -70,7 +70,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi (ultra trick mode de basarisiz)"
+      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
     },
     "amazon": {
       "ok": true,
@@ -103,13 +103,13 @@
     "n11": "normal",
     "ciceksepeti": "proxy",
     "teknosa": "skipped",
-    "vatan": "skipped",
+    "vatan": "night",
     "mediamarkt": "normal",
     "amazon": "normal"
   },
   "utm_last": {
     "hepsiburada": "2026-08-11T23:19:37+03:00",
-    "vatan": "2026-08-13T12:43:16+03:00",
+    "vatan": "2026-08-15T01:54:02+03:00",
     "amazon": "2026-08-11T23:39:52+03:00",
     "trendyol": "2026-08-14T15:29:18+03:00",
     "n11": "2026-08-14T02:27:16+03:00",
@@ -123,9 +123,9 @@
     "teknosa": "chrome124"
   },
   "critical": {
-    "selected": 14,
-    "checked": 9,
-    "updated": 9,
+    "selected": 16,
+    "checked": 10,
+    "updated": 10,
     "flash": 0
   }
 }
