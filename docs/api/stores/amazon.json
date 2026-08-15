@@ -1,64 +1,64 @@
 [
   {
-    "id": "1b10a22edbe89686",
+    "id": "862661cb6b5e3ab3",
     "store": "amazon",
     "name": "Under Armour UA Charged Edge Spor AyakkabıErkek",
-    "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_10?dib=eyJ2IjoiMSJ9.Fg63tqwEypYU1Vzm36BzdtVLci-eLhn8Ukra-FjBTLPaoEOMucmekG4zVhB84UXPREYPYCY-gGaloXNavnGjlTecW2suZS8F_a2X2tmeq87fDtvwwB3fYnPA3-XYidEknqpRjc64b3hc22q25d1vEDzg4LDTCreIkBhUxeNJMuLqC4s7t3XLf60kMErvglsyS2dmaBx_nXkpn08kxOjZMx5vtLTKnJsnmWYJzWpXn96Bxbc9FeEd1raqqDhbtLZuG1fwvu-B3dqZv1RGOPWpqpEKI_h5NrL80-x0NNnjODs.HLaLZ8eTTulIBG36TW7Dq-Rs84RN2nlGACrgbT4t7BU&dib_tag=se&keywords=indirimli&qid=1786824234&sr=8-10",
+    "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_10?dib=eyJ2IjoiMSJ9.Fg63tqwEypYU1Vzm36BzdtVLci-eLhn8Ukra-FjBTLOIv2jyRnyEghiMsGLCT7dgbs78nC14SwpjieSluOpnLETKZtXw6B0lQKtGwx4dafasp1RrhWM3ZGft9qaWi19DGuvtv7va4Hq-yuMXIvR15zVX3Ue95gDj69oUkYqEzGEzyEW8oZox9hcbclD5jBZ0sWAH61jghtc6i-mUhvUfe03mxygPVs0fG-0fNxCZjSKOEACfZRSpdZKj46x2cxspLRoPUuzLyLt9tu2jKAZA6Y4KAq2Na6zVvchucP0kBOI.no5U0PF5dtPPuxDEaxYCByMXT5he5kc2c7CdVRSV3Gc&dib_tag=se&keywords=indirimli&qid=1786831389&sr=8-10",
     "image": "https://m.media-amazon.com/images/I/41pfnNBmxXL._AC_UL320_.jpg",
     "price": 3394.99,
     "old_price": 4249.48,
     "query": "indirim",
-    "first_seen_at": "2026-08-15T23:01:46+03:00",
-    "last_seen_at": "2026-08-15T23:01:46+03:00",
-    "detected_at": "2026-08-15T23:01:46+03:00",
+    "first_seen_at": "2026-08-16T01:00:56+03:00",
+    "last_seen_at": "2026-08-16T01:00:56+03:00",
+    "detected_at": "2026-08-16T01:00:56+03:00",
     "discount_percent": 20.11,
     "category": "discount",
     "baseline_price": 4249.48,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00001",
+    "match_group": "g00003",
     "matched_stores": [
       {
         "store": "amazon",
         "price": 3394.99,
-        "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.Fg63tqwEypYU1Vzm36BzdtVLci-eLhn8Ukra-FjBTLPaoEOMucmekG4zVhB84UXPREYPYCY-gGaloXNavnGjlTecW2suZS8F_a2X2tmeq87fDtvwwB3fYnPA3-XYidEknqpRjc64b3hc22q25d1vEDzg4LDTCreIkBhUxeNJMuLqC4s7t3XLf60kMErvglsyS2dmaBx_nXkpn08kxOjZMx5vtLTKnJsnmWYJzWpXn96Bxbc9FeEd1raqqDhbtLZuG1fwvu-B3dqZv1RGOPWpqpEKI_h5NrL80-x0NNnjODs.HLaLZ8eTTulIBG36TW7Dq-Rs84RN2nlGACrgbT4t7BU&dib_tag=se&keywords=indirimli&qid=1786824234&sr=8-10"
+        "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.Fg63tqwEypYU1Vzm36BzdtVLci-eLhn8Ukra-FjBTLOIv2jyRnyEghiMsGLCT7dgbs78nC14SwpjieSluOpnLETKZtXw6B0lQKtGwx4dafasp1RrhWM3ZGft9qaWi19DGuvtv7va4Hq-yuMXIvR15zVX3Ue95gDj69oUkYqEzGEzyEW8oZox9hcbclD5jBZ0sWAH61jghtc6i-mUhvUfe03mxygPVs0fG-0fNxCZjSKOEACfZRSpdZKj46x2cxspLRoPUuzLyLt9tu2jKAZA6Y4KAq2Na6zVvchucP0kBOI.no5U0PF5dtPPuxDEaxYCByMXT5he5kc2c7CdVRSV3Gc&dib_tag=se&keywords=indirimli&qid=1786831389&sr=8-10"
       }
     ],
     "reason": "magaza-eski-fiyat: 4249.48 TL -> 3394.99 TL (%20.1 indirim)",
     "seller_name": "",
     "seller_rating": 3.9,
     "seller_reliable": false,
-    "verified_at": "2026-08-15T23:04:18+03:00",
+    "verified_at": "2026-08-16T01:03:32+03:00",
     "flash": 0
   },
   {
-    "id": "a7f72bd539855858",
+    "id": "56bd1c57dbc7ac30",
     "store": "amazon",
     "name": "Under Armour UA Charged Edge Spor AyakkabıErkek",
-    "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.Fg63tqwEypYU1Vzm36BzdtVLci-eLhn8Ukra-FjBTLPaoEOMucmekG4zVhB84UXPREYPYCY-gGaloXNavnGjlTecW2suZS8F_a2X2tmeq87fDtvwwB3fYnPA3-XYidEknqpRjc64b3hc22q25d1vEDzg4LDTCreIkBhUxeNJMuLqC4s7t3XLf60kMErvglsyS2dmaBx_nXkpn08kxOjZMx5vtLTKnJsnmWYJzWpXn96Bxbc9FeEd1raqqDhbtLZuG1fwvu-B3dqZv1RGOPWpqpEKI_h5NrL80-x0NNnjODs.HLaLZ8eTTulIBG36TW7Dq-Rs84RN2nlGACrgbT4t7BU&dib_tag=se&keywords=indirimli&qid=1786824234&sr=8-10",
+    "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.Fg63tqwEypYU1Vzm36BzdtVLci-eLhn8Ukra-FjBTLOIv2jyRnyEghiMsGLCT7dgbs78nC14SwpjieSluOpnLETKZtXw6B0lQKtGwx4dafasp1RrhWM3ZGft9qaWi19DGuvtv7va4Hq-yuMXIvR15zVX3Ue95gDj69oUkYqEzGEzyEW8oZox9hcbclD5jBZ0sWAH61jghtc6i-mUhvUfe03mxygPVs0fG-0fNxCZjSKOEACfZRSpdZKj46x2cxspLRoPUuzLyLt9tu2jKAZA6Y4KAq2Na6zVvchucP0kBOI.no5U0PF5dtPPuxDEaxYCByMXT5he5kc2c7CdVRSV3Gc&dib_tag=se&keywords=indirimli&qid=1786831389&sr=8-10",
     "image": "",
     "price": 3394.99,
     "old_price": 4249.48,
     "query": "indirim",
-    "first_seen_at": "2026-08-15T23:01:46+03:00",
-    "last_seen_at": "2026-08-15T23:01:46+03:00",
-    "detected_at": "2026-08-15T23:01:46+03:00",
+    "first_seen_at": "2026-08-16T01:00:56+03:00",
+    "last_seen_at": "2026-08-16T01:00:56+03:00",
+    "detected_at": "2026-08-16T01:00:56+03:00",
     "discount_percent": 20.11,
     "category": "discount",
     "baseline_price": 4249.48,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00001",
+    "match_group": "g00003",
     "matched_stores": [
       {
         "store": "amazon",
         "price": 3394.99,
-        "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_10?dib=eyJ2IjoiMSJ9.Fg63tqwEypYU1Vzm36BzdtVLci-eLhn8Ukra-FjBTLPaoEOMucmekG4zVhB84UXPREYPYCY-gGaloXNavnGjlTecW2suZS8F_a2X2tmeq87fDtvwwB3fYnPA3-XYidEknqpRjc64b3hc22q25d1vEDzg4LDTCreIkBhUxeNJMuLqC4s7t3XLf60kMErvglsyS2dmaBx_nXkpn08kxOjZMx5vtLTKnJsnmWYJzWpXn96Bxbc9FeEd1raqqDhbtLZuG1fwvu-B3dqZv1RGOPWpqpEKI_h5NrL80-x0NNnjODs.HLaLZ8eTTulIBG36TW7Dq-Rs84RN2nlGACrgbT4t7BU&dib_tag=se&keywords=indirimli&qid=1786824234&sr=8-10"
+        "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_10?dib=eyJ2IjoiMSJ9.Fg63tqwEypYU1Vzm36BzdtVLci-eLhn8Ukra-FjBTLOIv2jyRnyEghiMsGLCT7dgbs78nC14SwpjieSluOpnLETKZtXw6B0lQKtGwx4dafasp1RrhWM3ZGft9qaWi19DGuvtv7va4Hq-yuMXIvR15zVX3Ue95gDj69oUkYqEzGEzyEW8oZox9hcbclD5jBZ0sWAH61jghtc6i-mUhvUfe03mxygPVs0fG-0fNxCZjSKOEACfZRSpdZKj46x2cxspLRoPUuzLyLt9tu2jKAZA6Y4KAq2Na6zVvchucP0kBOI.no5U0PF5dtPPuxDEaxYCByMXT5he5kc2c7CdVRSV3Gc&dib_tag=se&keywords=indirimli&qid=1786831389&sr=8-10"
       }
     ],
     "reason": "magaza-eski-fiyat: 4249.48 TL -> 3394.99 TL (%20.1 indirim)",
     "seller_name": "",
     "seller_rating": 3.9,
     "seller_reliable": false,
-    "verified_at": "2026-08-15T23:04:18+03:00",
+    "verified_at": "2026-08-16T01:03:32+03:00",
     "flash": 0
   }
 ]
