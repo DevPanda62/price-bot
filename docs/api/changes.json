@@ -1,72 +1,83 @@
 {
-  "generated_at": "2026-08-15T20:43:34+03:00",
+  "generated_at": "2026-08-15T21:01:11+03:00",
   "added_count": 2,
-  "removed_count": 0,
+  "removed_count": 2,
   "reclassified_count": 0,
   "added": [
     {
-      "id": "b88fb463db34b831",
+      "id": "067869b68968ca13",
       "store": "amazon",
       "name": "Under Armour UA Charged Edge Spor AyakkabıErkek",
-      "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_10?dib=eyJ2IjoiMSJ9.Fg63tqwEypYU1Vzm36BzdtVLci-eLhn8Ukra-FjBTLPaoEOMucmekG4zVhB84UXPREYPYCY-gGaloXNavnGjlTecW2suZS8F_a2X2tmeq87fDtvwwB3fYnPA3-XYidEknqpRjc64b3hc22q25d1vEDzg4LDTCreIkBhUxeNJMuLqC4s7t3XLf60kMErvglsyS2dmaBx_nXkpn08kxOjZMx5vtLTKnJsnmWYJzWpXn96Bxbc9FeEd1raqqDhbtLZuG1fwvu-B3dqZv1RGOPWpqoavUgjuKTfomZ1_9Zf2Q_g.1Fi9Qy8hKL4VkcDPK2DYcMKM3Sf03UN9dw8VPnV8GB4&dib_tag=se&keywords=indirimli&qid=1786816633&sr=8-10",
+      "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_9?dib=eyJ2IjoiMSJ9.Fg63tqwEypYU1Vzm36BzdtVLci-eLhn8Ukra-FjBTLMD2G2DCNWxWWPjOEQEyEKch52aReTry-bWTO2Sopkj-wGbDHSl5jvaQLm42KR4Y-inMeoKJqWdfnFAO7NcX4ckryjcBCwJs-g1unroUlPGR5wpLFTwd1gTAvCMSL8zorijnxZut8e3kGCyMEXzDZVjS2dmaBx_nXkpn08kxOjZMx5vtLTKnJsnmWYJzWpXn947ABSDzDqW2jcmUsF1nLl9cEztaVxRtF0_-sJBfvHFtZEKI_h5NrL80-x0NNnjODs.-9_pqz0IyfHknhkidG-iZmoo80AWM8KKYyKD__SkWTI&dib_tag=se&keywords=indirimli&qid=1786817000&sr=8-9",
       "image": "https://m.media-amazon.com/images/I/41pfnNBmxXL._AC_UL320_.jpg",
       "price": 3394.99,
       "old_price": 4249.48,
       "query": "indirim",
-      "first_seen_at": "2026-08-15T20:43:34+03:00",
-      "last_seen_at": "2026-08-15T20:43:34+03:00",
-      "detected_at": "2026-08-15T20:43:34+03:00",
+      "first_seen_at": "2026-08-15T21:01:11+03:00",
+      "last_seen_at": "2026-08-15T21:01:11+03:00",
+      "detected_at": "2026-08-15T21:01:11+03:00",
       "discount_percent": 20.11,
       "category": "discount",
       "baseline_price": 4249.48,
       "baseline_source": "magaza-eski-fiyat",
-      "match_group": "g00001",
+      "match_group": "g00003",
       "matched_stores": [
         {
           "store": "amazon",
           "price": 3394.99,
-          "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.Fg63tqwEypYU1Vzm36BzdtVLci-eLhn8Ukra-FjBTLPaoEOMucmekG4zVhB84UXPREYPYCY-gGaloXNavnGjlTecW2suZS8F_a2X2tmeq87fDtvwwB3fYnPA3-XYidEknqpRjc64b3hc22q25d1vEDzg4LDTCreIkBhUxeNJMuLqC4s7t3XLf60kMErvglsyS2dmaBx_nXkpn08kxOjZMx5vtLTKnJsnmWYJzWpXn96Bxbc9FeEd1raqqDhbtLZuG1fwvu-B3dqZv1RGOPWpqoavUgjuKTfomZ1_9Zf2Q_g.1Fi9Qy8hKL4VkcDPK2DYcMKM3Sf03UN9dw8VPnV8GB4&dib_tag=se&keywords=indirimli&qid=1786816633&sr=8-10"
+          "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.Fg63tqwEypYU1Vzm36BzdtVLci-eLhn8Ukra-FjBTLMD2G2DCNWxWWPjOEQEyEKch52aReTry-bWTO2Sopkj-wGbDHSl5jvaQLm42KR4Y-inMeoKJqWdfnFAO7NcX4ckryjcBCwJs-g1unroUlPGR5wpLFTwd1gTAvCMSL8zorijnxZut8e3kGCyMEXzDZVjS2dmaBx_nXkpn08kxOjZMx5vtLTKnJsnmWYJzWpXn947ABSDzDqW2jcmUsF1nLl9cEztaVxRtF0_-sJBfvHFtZEKI_h5NrL80-x0NNnjODs.-9_pqz0IyfHknhkidG-iZmoo80AWM8KKYyKD__SkWTI&dib_tag=se&keywords=indirimli&qid=1786817000&sr=8-9"
         }
       ],
       "reason": "magaza-eski-fiyat: 4249.48 TL -> 3394.99 TL (%20.1 indirim)",
       "seller_name": "",
       "seller_rating": 3.9,
       "seller_reliable": false,
-      "verified_at": "2026-08-15T20:57:34+03:00",
+      "verified_at": "2026-08-15T21:03:42+03:00",
       "flash": 0
     },
     {
-      "id": "5f50e76c237ab34c",
+      "id": "17ac4911c341a664",
       "store": "amazon",
       "name": "Under Armour UA Charged Edge Spor AyakkabıErkek",
-      "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.Fg63tqwEypYU1Vzm36BzdtVLci-eLhn8Ukra-FjBTLPaoEOMucmekG4zVhB84UXPREYPYCY-gGaloXNavnGjlTecW2suZS8F_a2X2tmeq87fDtvwwB3fYnPA3-XYidEknqpRjc64b3hc22q25d1vEDzg4LDTCreIkBhUxeNJMuLqC4s7t3XLf60kMErvglsyS2dmaBx_nXkpn08kxOjZMx5vtLTKnJsnmWYJzWpXn96Bxbc9FeEd1raqqDhbtLZuG1fwvu-B3dqZv1RGOPWpqoavUgjuKTfomZ1_9Zf2Q_g.1Fi9Qy8hKL4VkcDPK2DYcMKM3Sf03UN9dw8VPnV8GB4&dib_tag=se&keywords=indirimli&qid=1786816633&sr=8-10",
+      "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.Fg63tqwEypYU1Vzm36BzdtVLci-eLhn8Ukra-FjBTLMD2G2DCNWxWWPjOEQEyEKch52aReTry-bWTO2Sopkj-wGbDHSl5jvaQLm42KR4Y-inMeoKJqWdfnFAO7NcX4ckryjcBCwJs-g1unroUlPGR5wpLFTwd1gTAvCMSL8zorijnxZut8e3kGCyMEXzDZVjS2dmaBx_nXkpn08kxOjZMx5vtLTKnJsnmWYJzWpXn947ABSDzDqW2jcmUsF1nLl9cEztaVxRtF0_-sJBfvHFtZEKI_h5NrL80-x0NNnjODs.-9_pqz0IyfHknhkidG-iZmoo80AWM8KKYyKD__SkWTI&dib_tag=se&keywords=indirimli&qid=1786817000&sr=8-9",
       "image": "",
       "price": 3394.99,
       "old_price": 4249.48,
       "query": "indirim",
-      "first_seen_at": "2026-08-15T20:43:34+03:00",
-      "last_seen_at": "2026-08-15T20:43:34+03:00",
-      "detected_at": "2026-08-15T20:43:34+03:00",
+      "first_seen_at": "2026-08-15T21:01:11+03:00",
+      "last_seen_at": "2026-08-15T21:01:11+03:00",
+      "detected_at": "2026-08-15T21:01:11+03:00",
       "discount_percent": 20.11,
       "category": "discount",
       "baseline_price": 4249.48,
       "baseline_source": "magaza-eski-fiyat",
-      "match_group": "g00001",
+      "match_group": "g00003",
       "matched_stores": [
         {
           "store": "amazon",
           "price": 3394.99,
-          "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_10?dib=eyJ2IjoiMSJ9.Fg63tqwEypYU1Vzm36BzdtVLci-eLhn8Ukra-FjBTLPaoEOMucmekG4zVhB84UXPREYPYCY-gGaloXNavnGjlTecW2suZS8F_a2X2tmeq87fDtvwwB3fYnPA3-XYidEknqpRjc64b3hc22q25d1vEDzg4LDTCreIkBhUxeNJMuLqC4s7t3XLf60kMErvglsyS2dmaBx_nXkpn08kxOjZMx5vtLTKnJsnmWYJzWpXn96Bxbc9FeEd1raqqDhbtLZuG1fwvu-B3dqZv1RGOPWpqoavUgjuKTfomZ1_9Zf2Q_g.1Fi9Qy8hKL4VkcDPK2DYcMKM3Sf03UN9dw8VPnV8GB4&dib_tag=se&keywords=indirimli&qid=1786816633&sr=8-10"
+          "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_9?dib=eyJ2IjoiMSJ9.Fg63tqwEypYU1Vzm36BzdtVLci-eLhn8Ukra-FjBTLMD2G2DCNWxWWPjOEQEyEKch52aReTry-bWTO2Sopkj-wGbDHSl5jvaQLm42KR4Y-inMeoKJqWdfnFAO7NcX4ckryjcBCwJs-g1unroUlPGR5wpLFTwd1gTAvCMSL8zorijnxZut8e3kGCyMEXzDZVjS2dmaBx_nXkpn08kxOjZMx5vtLTKnJsnmWYJzWpXn947ABSDzDqW2jcmUsF1nLl9cEztaVxRtF0_-sJBfvHFtZEKI_h5NrL80-x0NNnjODs.-9_pqz0IyfHknhkidG-iZmoo80AWM8KKYyKD__SkWTI&dib_tag=se&keywords=indirimli&qid=1786817000&sr=8-9"
         }
       ],
       "reason": "magaza-eski-fiyat: 4249.48 TL -> 3394.99 TL (%20.1 indirim)",
       "seller_name": "",
       "seller_rating": 3.9,
       "seller_reliable": false,
-      "verified_at": "2026-08-15T20:57:34+03:00",
+      "verified_at": "2026-08-15T21:03:42+03:00",
       "flash": 0
     }
   ],
-  "removed": [],
+  "removed": [
+    {
+      "id": "5f50e76c237ab34c",
+      "store": "amazon",
+      "name": "Under Armour UA Charged Edge Spor AyakkabıErkek"
+    },
+    {
+      "id": "b88fb463db34b831",
+      "store": "amazon",
+      "name": "Under Armour UA Charged Edge Spor AyakkabıErkek"
+    }
+  ],
   "reclassified": []
 }

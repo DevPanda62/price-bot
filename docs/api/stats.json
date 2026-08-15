@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T20:43:34+03:00",
+  "generated_at": "2026-08-15T21:01:11+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -38,7 +38,7 @@
         "discount": 1,
         "error": 0
       },
-      "message": "proxy ile tarandi"
+      "message": ""
     },
     "ciceksepeti": {
       "ok": false,
@@ -100,9 +100,9 @@
     }
   },
   "critical": {
-    "selected": 16,
-    "checked": 9,
-    "updated": 9,
+    "selected": 17,
+    "checked": 10,
+    "updated": 10,
     "flash": 0
   }
 }
