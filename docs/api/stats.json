@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-15T19:56:10+03:00",
+  "generated_at": "2026-08-15T20:43:34+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 65745357,
+    "used_bytes": 68024545,
     "quota_bytes": 943718400
   },
   "sites": {
@@ -38,7 +38,7 @@
         "discount": 1,
         "error": 0
       },
-      "message": ""
+      "message": "proxy ile tarandi"
     },
     "ciceksepeti": {
       "ok": false,
@@ -68,7 +68,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "vatan": {
       "ok": false,
@@ -81,28 +81,28 @@
       "message": "pas gecildi"
     },
     "amazon": {
-      "ok": false,
-      "product_count": 0,
+      "ok": true,
+      "product_count": 2,
       "categories": {
         "normal": 0,
-        "discount": 0,
+        "discount": 2,
         "error": 0
       },
-      "message": "0 urun (indirim yok olabilir)"
+      "message": ""
     }
   },
   "totals": {
-    "products": 2,
+    "products": 4,
     "categories": {
       "normal": 0,
-      "discount": 2,
+      "discount": 4,
       "error": 0
     }
   },
   "critical": {
-    "selected": 12,
-    "checked": 5,
-    "updated": 5,
+    "selected": 16,
+    "checked": 9,
+    "updated": 9,
     "flash": 0
   }
 }
