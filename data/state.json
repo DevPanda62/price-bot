@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-15T16:43:30+03:00",
-  "heartbeat_at": "2026-08-15T16:49:50+03:00",
+  "last_run": "2026-08-15T17:44:10+03:00",
+  "heartbeat_at": "2026-08-15T17:47:45+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -10,7 +10,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm yanit verdi ama 0 urun"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "hepsiburada": {
       "ok": true,
@@ -98,7 +98,7 @@
     "teknosa": "2026-08-14T20:07:44+03:00"
   },
   "modes": {
-    "trendyol": "utm",
+    "trendyol": "skipped",
     "hepsiburada": "normal",
     "n11": "normal",
     "ciceksepeti": "proxy",
@@ -124,8 +124,8 @@
   },
   "critical": {
     "selected": 16,
-    "checked": 7,
-    "updated": 7,
+    "checked": 9,
+    "updated": 9,
     "flash": 0
   }
 }
