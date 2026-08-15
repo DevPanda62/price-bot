@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T08:03:24+03:00",
+  "generated_at": "2026-08-15T08:58:46+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -78,7 +78,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (4 dk)"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "amazon": {
       "ok": true,
@@ -100,9 +100,9 @@
     }
   },
   "critical": {
-    "selected": 16,
-    "checked": 10,
-    "updated": 10,
+    "selected": 15,
+    "checked": 8,
+    "updated": 8,
     "flash": 0
   }
 }
