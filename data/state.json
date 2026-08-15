@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-15T17:44:10+03:00",
-  "heartbeat_at": "2026-08-15T17:47:45+03:00",
+  "last_run": "2026-08-15T18:39:56+03:00",
+  "heartbeat_at": "2026-08-15T18:42:33+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -10,7 +10,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi (ultra trick mode de basarisiz)"
+      "message": "pas gecildi"
     },
     "hepsiburada": {
       "ok": true,
@@ -123,9 +123,9 @@
     "teknosa": "chrome124"
   },
   "critical": {
-    "selected": 16,
-    "checked": 9,
-    "updated": 9,
+    "selected": 12,
+    "checked": 5,
+    "updated": 5,
     "flash": 0
   }
 }
