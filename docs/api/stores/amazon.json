@@ -1,16 +1,16 @@
 [
   {
-    "id": "cd1983b65ac97deb",
+    "id": "576880a41e1d7cec",
     "store": "amazon",
     "name": "Under Armour UA Charged Edge Spor AyakkabıErkek",
-    "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_12?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxoVGIy_X9sLnjvLkXqKnJ9CDeAV95sYI_atkMItT506zHG5k2lIbaJ9oGHYnSwgMCQug8DZou2NOCNegbpRqnHgvy3XmAgq-2ROIAj2EgbnoSMdc-l2HeKTbDUA6BFyTPkCl7rKWz5X5s1RxZYEAUkCUsDj199W_JV31FvylyZHjctuy7zhatZp7SO1cn5X5nrJgCVW8Ms43Ffyab4ez0BQZvdQ-lPkK8oSoi4nfBiphDVzf4wLsouaot_Me9AG0rg9DbSWAdyRCpiT2-JtmR68.RAV5z8HWgavhqlvqdnDtZzEblNWOgvmdweFiZt8XJIQ&dib_tag=se&keywords=indirimli&qid=1786767041&sr=8-12",
+    "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_11?dib=eyJ2IjoiMSJ9.Fg63tqwEypYU1Vzm36BzdtVLci-eLhn8Ukra-FjBTLOIv2jyRnyEghiMsGLCT7dgbs78nC14SwpjieSluOpnLIM6GCP58Nro1A3693regeyE9mqX6zq55W7FvKHDjFiIBEKu6Tzk0EXOn5AK_YePFRynvok3EImjlIc9F6pvgTbT_I3tFVKHUT6bXB3VhFyAK5Ub0LGIQl0a4wKApL7YrELfwuxwV8QwFqyYA_NlvAwoDqSwhzzcqhQwTzErVvAqFvvcBRyrt66f1eP9XncoQA9DbSWAdyRCpiT2-JtmR68.wyqcr9dOh0JfjE9cdWo_BV_HcVWbJbTyUGemEbD0KrQ&dib_tag=se&keywords=indirimli&qid=1786791078&sr=8-11",
     "image": "https://m.media-amazon.com/images/I/41pfnNBmxXL._AC_UL320_.jpg",
     "price": 3394.99,
     "old_price": 4249.48,
     "query": "indirim",
-    "first_seen_at": "2026-08-15T07:07:51+03:00",
-    "last_seen_at": "2026-08-15T07:07:51+03:00",
-    "detected_at": "2026-08-15T07:07:51+03:00",
+    "first_seen_at": "2026-08-15T13:49:19+03:00",
+    "last_seen_at": "2026-08-15T13:49:19+03:00",
+    "detected_at": "2026-08-15T13:49:19+03:00",
     "discount_percent": 20.11,
     "category": "discount",
     "baseline_price": 4249.48,
@@ -20,28 +20,28 @@
       {
         "store": "amazon",
         "price": 3394.99,
-        "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxoVGIy_X9sLnjvLkXqKnJ9CDeAV95sYI_atkMItT506zHG5k2lIbaJ9oGHYnSwgMCQug8DZou2NOCNegbpRqnHgvy3XmAgq-2ROIAj2EgbnoSMdc-l2HeKTbDUA6BFyTPkCl7rKWz5X5s1RxZYEAUkCUsDj199W_JV31FvylyZHjctuy7zhatZp7SO1cn5X5nrJgCVW8Ms43Ffyab4ez0BQZvdQ-lPkK8oSoi4nfBiphDVzf4wLsouaot_Me9AG0rg9DbSWAdyRCpiT2-JtmR68.RAV5z8HWgavhqlvqdnDtZzEblNWOgvmdweFiZt8XJIQ&dib_tag=se&keywords=indirimli&qid=1786767041&sr=8-12"
+        "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.Fg63tqwEypYU1Vzm36BzdtVLci-eLhn8Ukra-FjBTLOIv2jyRnyEghiMsGLCT7dgbs78nC14SwpjieSluOpnLIM6GCP58Nro1A3693regeyE9mqX6zq55W7FvKHDjFiIBEKu6Tzk0EXOn5AK_YePFRynvok3EImjlIc9F6pvgTbT_I3tFVKHUT6bXB3VhFyAK5Ub0LGIQl0a4wKApL7YrELfwuxwV8QwFqyYA_NlvAwoDqSwhzzcqhQwTzErVvAqFvvcBRyrt66f1eP9XncoQA9DbSWAdyRCpiT2-JtmR68.wyqcr9dOh0JfjE9cdWo_BV_HcVWbJbTyUGemEbD0KrQ&dib_tag=se&keywords=indirimli&qid=1786791078&sr=8-11"
       }
     ],
     "reason": "magaza-eski-fiyat: 4249.48 TL -> 3394.99 TL (%20.1 indirim)",
     "seller_name": "",
     "seller_rating": 3.9,
     "seller_reliable": false,
-    "verified_at": "2026-08-15T07:11:05+03:00",
+    "verified_at": "2026-08-15T13:51:41+03:00",
     "flash": 0
   },
   {
-    "id": "3192aaae365ff416",
+    "id": "04e9e3e9fd0403c5",
     "store": "amazon",
     "name": "Under Armour UA Charged Edge Spor AyakkabıErkek",
-    "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxoVGIy_X9sLnjvLkXqKnJ9CDeAV95sYI_atkMItT506zHG5k2lIbaJ9oGHYnSwgMCQug8DZou2NOCNegbpRqnHgvy3XmAgq-2ROIAj2EgbnoSMdc-l2HeKTbDUA6BFyTPkCl7rKWz5X5s1RxZYEAUkCUsDj199W_JV31FvylyZHjctuy7zhatZp7SO1cn5X5nrJgCVW8Ms43Ffyab4ez0BQZvdQ-lPkK8oSoi4nfBiphDVzf4wLsouaot_Me9AG0rg9DbSWAdyRCpiT2-JtmR68.RAV5z8HWgavhqlvqdnDtZzEblNWOgvmdweFiZt8XJIQ&dib_tag=se&keywords=indirimli&qid=1786767041&sr=8-12",
+    "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.Fg63tqwEypYU1Vzm36BzdtVLci-eLhn8Ukra-FjBTLOIv2jyRnyEghiMsGLCT7dgbs78nC14SwpjieSluOpnLIM6GCP58Nro1A3693regeyE9mqX6zq55W7FvKHDjFiIBEKu6Tzk0EXOn5AK_YePFRynvok3EImjlIc9F6pvgTbT_I3tFVKHUT6bXB3VhFyAK5Ub0LGIQl0a4wKApL7YrELfwuxwV8QwFqyYA_NlvAwoDqSwhzzcqhQwTzErVvAqFvvcBRyrt66f1eP9XncoQA9DbSWAdyRCpiT2-JtmR68.wyqcr9dOh0JfjE9cdWo_BV_HcVWbJbTyUGemEbD0KrQ&dib_tag=se&keywords=indirimli&qid=1786791078&sr=8-11",
     "image": "",
     "price": 3394.99,
     "old_price": 4249.48,
     "query": "indirim",
-    "first_seen_at": "2026-08-15T07:07:51+03:00",
-    "last_seen_at": "2026-08-15T07:07:51+03:00",
-    "detected_at": "2026-08-15T07:07:51+03:00",
+    "first_seen_at": "2026-08-15T13:49:19+03:00",
+    "last_seen_at": "2026-08-15T13:49:19+03:00",
+    "detected_at": "2026-08-15T13:49:19+03:00",
     "discount_percent": 20.11,
     "category": "discount",
     "baseline_price": 4249.48,
@@ -51,14 +51,14 @@
       {
         "store": "amazon",
         "price": 3394.99,
-        "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_12?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxoVGIy_X9sLnjvLkXqKnJ9CDeAV95sYI_atkMItT506zHG5k2lIbaJ9oGHYnSwgMCQug8DZou2NOCNegbpRqnHgvy3XmAgq-2ROIAj2EgbnoSMdc-l2HeKTbDUA6BFyTPkCl7rKWz5X5s1RxZYEAUkCUsDj199W_JV31FvylyZHjctuy7zhatZp7SO1cn5X5nrJgCVW8Ms43Ffyab4ez0BQZvdQ-lPkK8oSoi4nfBiphDVzf4wLsouaot_Me9AG0rg9DbSWAdyRCpiT2-JtmR68.RAV5z8HWgavhqlvqdnDtZzEblNWOgvmdweFiZt8XJIQ&dib_tag=se&keywords=indirimli&qid=1786767041&sr=8-12"
+        "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_11?dib=eyJ2IjoiMSJ9.Fg63tqwEypYU1Vzm36BzdtVLci-eLhn8Ukra-FjBTLOIv2jyRnyEghiMsGLCT7dgbs78nC14SwpjieSluOpnLIM6GCP58Nro1A3693regeyE9mqX6zq55W7FvKHDjFiIBEKu6Tzk0EXOn5AK_YePFRynvok3EImjlIc9F6pvgTbT_I3tFVKHUT6bXB3VhFyAK5Ub0LGIQl0a4wKApL7YrELfwuxwV8QwFqyYA_NlvAwoDqSwhzzcqhQwTzErVvAqFvvcBRyrt66f1eP9XncoQA9DbSWAdyRCpiT2-JtmR68.wyqcr9dOh0JfjE9cdWo_BV_HcVWbJbTyUGemEbD0KrQ&dib_tag=se&keywords=indirimli&qid=1786791078&sr=8-11"
       }
     ],
     "reason": "magaza-eski-fiyat: 4249.48 TL -> 3394.99 TL (%20.1 indirim)",
     "seller_name": "",
     "seller_rating": 3.9,
     "seller_reliable": false,
-    "verified_at": "2026-08-15T07:11:05+03:00",
+    "verified_at": "2026-08-15T13:51:41+03:00",
     "flash": 0
   }
 ]
