@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T01:52:52+03:00",
+  "generated_at": "2026-08-16T02:39:59+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -61,14 +61,14 @@
       "message": "0 urun (indirim yok olabilir)"
     },
     "teknosa": {
-      "ok": true,
+      "ok": false,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": "gece trick ile tarandi (proxysiz)"
+      "message": "gece: proxysiz trick 12 dk sonra"
     },
     "vatan": {
       "ok": false,
@@ -100,9 +100,9 @@
     }
   },
   "critical": {
-    "selected": 16,
-    "checked": 5,
-    "updated": 5,
+    "selected": 15,
+    "checked": 8,
+    "updated": 8,
     "flash": 0
   }
 }
