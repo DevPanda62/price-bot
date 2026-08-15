@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-15T08:58:46+03:00",
-  "heartbeat_at": "2026-08-15T09:08:39+03:00",
+  "last_run": "2026-08-15T10:41:37+03:00",
+  "heartbeat_at": "2026-08-15T10:44:17+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -70,7 +70,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi (ultra trick mode de basarisiz)"
+      "message": "pas gecildi"
     },
     "amazon": {
       "ok": true,
