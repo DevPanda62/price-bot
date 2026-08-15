@@ -1,20 +1,72 @@
 {
-  "generated_at": "2026-08-15T05:41:33+03:00",
-  "added_count": 0,
-  "removed_count": 2,
+  "generated_at": "2026-08-15T07:07:51+03:00",
+  "added_count": 2,
+  "removed_count": 0,
   "reclassified_count": 0,
-  "added": [],
-  "removed": [
+  "added": [
     {
-      "id": "0015edaa2d39fd7e",
+      "id": "cd1983b65ac97deb",
       "store": "amazon",
-      "name": "Under Armour UA Charged Edge Spor AyakkabıErkek"
+      "name": "Under Armour UA Charged Edge Spor AyakkabıErkek",
+      "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_12?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxoVGIy_X9sLnjvLkXqKnJ9CDeAV95sYI_atkMItT506zHG5k2lIbaJ9oGHYnSwgMCQug8DZou2NOCNegbpRqnHgvy3XmAgq-2ROIAj2EgbnoSMdc-l2HeKTbDUA6BFyTPkCl7rKWz5X5s1RxZYEAUkCUsDj199W_JV31FvylyZHjctuy7zhatZp7SO1cn5X5nrJgCVW8Ms43Ffyab4ez0BQZvdQ-lPkK8oSoi4nfBiphDVzf4wLsouaot_Me9AG0rg9DbSWAdyRCpiT2-JtmR68.RAV5z8HWgavhqlvqdnDtZzEblNWOgvmdweFiZt8XJIQ&dib_tag=se&keywords=indirimli&qid=1786767041&sr=8-12",
+      "image": "https://m.media-amazon.com/images/I/41pfnNBmxXL._AC_UL320_.jpg",
+      "price": 3394.99,
+      "old_price": 4249.48,
+      "query": "indirim",
+      "first_seen_at": "2026-08-15T07:07:51+03:00",
+      "last_seen_at": "2026-08-15T07:07:51+03:00",
+      "detected_at": "2026-08-15T07:07:51+03:00",
+      "discount_percent": 20.11,
+      "category": "discount",
+      "baseline_price": 4249.48,
+      "baseline_source": "magaza-eski-fiyat",
+      "match_group": "g00001",
+      "matched_stores": [
+        {
+          "store": "amazon",
+          "price": 3394.99,
+          "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxoVGIy_X9sLnjvLkXqKnJ9CDeAV95sYI_atkMItT506zHG5k2lIbaJ9oGHYnSwgMCQug8DZou2NOCNegbpRqnHgvy3XmAgq-2ROIAj2EgbnoSMdc-l2HeKTbDUA6BFyTPkCl7rKWz5X5s1RxZYEAUkCUsDj199W_JV31FvylyZHjctuy7zhatZp7SO1cn5X5nrJgCVW8Ms43Ffyab4ez0BQZvdQ-lPkK8oSoi4nfBiphDVzf4wLsouaot_Me9AG0rg9DbSWAdyRCpiT2-JtmR68.RAV5z8HWgavhqlvqdnDtZzEblNWOgvmdweFiZt8XJIQ&dib_tag=se&keywords=indirimli&qid=1786767041&sr=8-12"
+        }
+      ],
+      "reason": "magaza-eski-fiyat: 4249.48 TL -> 3394.99 TL (%20.1 indirim)",
+      "seller_name": "",
+      "seller_rating": 3.9,
+      "seller_reliable": false,
+      "verified_at": "2026-08-15T07:11:05+03:00",
+      "flash": 0
     },
     {
-      "id": "f6d51adb08b842bd",
+      "id": "3192aaae365ff416",
       "store": "amazon",
-      "name": "Under Armour UA Charged Edge Spor AyakkabıErkek"
+      "name": "Under Armour UA Charged Edge Spor AyakkabıErkek",
+      "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxoVGIy_X9sLnjvLkXqKnJ9CDeAV95sYI_atkMItT506zHG5k2lIbaJ9oGHYnSwgMCQug8DZou2NOCNegbpRqnHgvy3XmAgq-2ROIAj2EgbnoSMdc-l2HeKTbDUA6BFyTPkCl7rKWz5X5s1RxZYEAUkCUsDj199W_JV31FvylyZHjctuy7zhatZp7SO1cn5X5nrJgCVW8Ms43Ffyab4ez0BQZvdQ-lPkK8oSoi4nfBiphDVzf4wLsouaot_Me9AG0rg9DbSWAdyRCpiT2-JtmR68.RAV5z8HWgavhqlvqdnDtZzEblNWOgvmdweFiZt8XJIQ&dib_tag=se&keywords=indirimli&qid=1786767041&sr=8-12",
+      "image": "",
+      "price": 3394.99,
+      "old_price": 4249.48,
+      "query": "indirim",
+      "first_seen_at": "2026-08-15T07:07:51+03:00",
+      "last_seen_at": "2026-08-15T07:07:51+03:00",
+      "detected_at": "2026-08-15T07:07:51+03:00",
+      "discount_percent": 20.11,
+      "category": "discount",
+      "baseline_price": 4249.48,
+      "baseline_source": "magaza-eski-fiyat",
+      "match_group": "g00001",
+      "matched_stores": [
+        {
+          "store": "amazon",
+          "price": 3394.99,
+          "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_12?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxoVGIy_X9sLnjvLkXqKnJ9CDeAV95sYI_atkMItT506zHG5k2lIbaJ9oGHYnSwgMCQug8DZou2NOCNegbpRqnHgvy3XmAgq-2ROIAj2EgbnoSMdc-l2HeKTbDUA6BFyTPkCl7rKWz5X5s1RxZYEAUkCUsDj199W_JV31FvylyZHjctuy7zhatZp7SO1cn5X5nrJgCVW8Ms43Ffyab4ez0BQZvdQ-lPkK8oSoi4nfBiphDVzf4wLsouaot_Me9AG0rg9DbSWAdyRCpiT2-JtmR68.RAV5z8HWgavhqlvqdnDtZzEblNWOgvmdweFiZt8XJIQ&dib_tag=se&keywords=indirimli&qid=1786767041&sr=8-12"
+        }
+      ],
+      "reason": "magaza-eski-fiyat: 4249.48 TL -> 3394.99 TL (%20.1 indirim)",
+      "seller_name": "",
+      "seller_rating": 3.9,
+      "seller_reliable": false,
+      "verified_at": "2026-08-15T07:11:05+03:00",
+      "flash": 0
     }
   ],
+  "removed": [],
   "reclassified": []
 }
