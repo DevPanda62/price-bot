@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T19:50:04+03:00",
+  "generated_at": "2026-08-16T20:39:59+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -82,27 +82,27 @@
     },
     "amazon": {
       "ok": true,
-      "product_count": 2,
+      "product_count": 0,
       "categories": {
         "normal": 0,
-        "discount": 2,
+        "discount": 0,
         "error": 0
       },
       "message": ""
     }
   },
   "totals": {
-    "products": 4,
+    "products": 2,
     "categories": {
       "normal": 0,
-      "discount": 4,
+      "discount": 2,
       "error": 0
     }
   },
   "critical": {
-    "selected": 18,
-    "checked": 11,
-    "updated": 11,
+    "selected": 16,
+    "checked": 7,
+    "updated": 7,
     "flash": 0
   }
 }
