@@ -1,9 +1,72 @@
 {
-  "generated_at": "2026-08-16T16:45:49+03:00",
-  "added_count": 0,
+  "generated_at": "2026-08-16T17:47:03+03:00",
+  "added_count": 2,
   "removed_count": 0,
   "reclassified_count": 0,
-  "added": [],
+  "added": [
+    {
+      "id": "d6d82d377de314d1",
+      "store": "amazon",
+      "name": "Under Armour UA Charged Edge Spor AyakkabıErkek",
+      "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_10?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxoVGIy_X9sLnjvLkXqKnJ9CDeAV95sYI_atkMItT506z7rO7VYoCZColbwVnfAK_e2cybSGD1fUW_keetf0UykaswTdCNDo1TMXlLuVMQGdrHt0p3DzHIVSGp_0_0WzF054NusVq6-e9ITSmSV_MoyQLUUr4RCxeczVuzwcQxGBdjFrIAXoP6V5FQoFULjg36vzTwcEGeq88g4MmTToVMLxN613Qh_1nhZBI_Vz1FlXrVAGrrbNHTWJwGHQ0rZHHCWqgW3Gp3myBSHRSXm3F2Qw.KMhhY32cqEXe3lKCtuPAoBi4dOrA5cXD1srdiMqhQ7Q&dib_tag=se&keywords=indirimli&qid=1786891807&sr=8-10",
+      "image": "https://m.media-amazon.com/images/I/41pfnNBmxXL._AC_UL320_.jpg",
+      "price": 3394.99,
+      "old_price": 4249.48,
+      "query": "indirim",
+      "first_seen_at": "2026-08-16T17:47:03+03:00",
+      "last_seen_at": "2026-08-16T17:47:03+03:00",
+      "detected_at": "2026-08-16T17:47:03+03:00",
+      "discount_percent": 20.11,
+      "category": "discount",
+      "baseline_price": 4249.48,
+      "baseline_source": "magaza-eski-fiyat",
+      "match_group": "g00002",
+      "matched_stores": [
+        {
+          "store": "amazon",
+          "price": 3394.99,
+          "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxoVGIy_X9sLnjvLkXqKnJ9CDeAV95sYI_atkMItT506z7rO7VYoCZColbwVnfAK_e2cybSGD1fUW_keetf0UykaswTdCNDo1TMXlLuVMQGdrHt0p3DzHIVSGp_0_0WzF054NusVq6-e9ITSmSV_MoyQLUUr4RCxeczVuzwcQxGBdjFrIAXoP6V5FQoFULjg36vzTwcEGeq88g4MmTToVMLxN613Qh_1nhZBI_Vz1FlXrVAGrrbNHTWJwGHQ0rZHHCWqgW3Gp3myBSHRSXm3F2Qw.KMhhY32cqEXe3lKCtuPAoBi4dOrA5cXD1srdiMqhQ7Q&dib_tag=se&keywords=indirimli&qid=1786891807&sr=8-10"
+        }
+      ],
+      "reason": "magaza-eski-fiyat: 4249.48 TL -> 3394.99 TL (%20.1 indirim)",
+      "seller_name": "",
+      "seller_rating": 3.9,
+      "seller_reliable": false,
+      "verified_at": "2026-08-16T17:50:33+03:00",
+      "flash": 0
+    },
+    {
+      "id": "f730aa9f2127bcdc",
+      "store": "amazon",
+      "name": "Under Armour UA Charged Edge Spor AyakkabıErkek",
+      "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxoVGIy_X9sLnjvLkXqKnJ9CDeAV95sYI_atkMItT506z7rO7VYoCZColbwVnfAK_e2cybSGD1fUW_keetf0UykaswTdCNDo1TMXlLuVMQGdrHt0p3DzHIVSGp_0_0WzF054NusVq6-e9ITSmSV_MoyQLUUr4RCxeczVuzwcQxGBdjFrIAXoP6V5FQoFULjg36vzTwcEGeq88g4MmTToVMLxN613Qh_1nhZBI_Vz1FlXrVAGrrbNHTWJwGHQ0rZHHCWqgW3Gp3myBSHRSXm3F2Qw.KMhhY32cqEXe3lKCtuPAoBi4dOrA5cXD1srdiMqhQ7Q&dib_tag=se&keywords=indirimli&qid=1786891807&sr=8-10",
+      "image": "",
+      "price": 3394.99,
+      "old_price": 4249.48,
+      "query": "indirim",
+      "first_seen_at": "2026-08-16T17:47:03+03:00",
+      "last_seen_at": "2026-08-16T17:47:03+03:00",
+      "detected_at": "2026-08-16T17:47:03+03:00",
+      "discount_percent": 20.11,
+      "category": "discount",
+      "baseline_price": 4249.48,
+      "baseline_source": "magaza-eski-fiyat",
+      "match_group": "g00002",
+      "matched_stores": [
+        {
+          "store": "amazon",
+          "price": 3394.99,
+          "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_10?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxoVGIy_X9sLnjvLkXqKnJ9CDeAV95sYI_atkMItT506z7rO7VYoCZColbwVnfAK_e2cybSGD1fUW_keetf0UykaswTdCNDo1TMXlLuVMQGdrHt0p3DzHIVSGp_0_0WzF054NusVq6-e9ITSmSV_MoyQLUUr4RCxeczVuzwcQxGBdjFrIAXoP6V5FQoFULjg36vzTwcEGeq88g4MmTToVMLxN613Qh_1nhZBI_Vz1FlXrVAGrrbNHTWJwGHQ0rZHHCWqgW3Gp3myBSHRSXm3F2Qw.KMhhY32cqEXe3lKCtuPAoBi4dOrA5cXD1srdiMqhQ7Q&dib_tag=se&keywords=indirimli&qid=1786891807&sr=8-10"
+        }
+      ],
+      "reason": "magaza-eski-fiyat: 4249.48 TL -> 3394.99 TL (%20.1 indirim)",
+      "seller_name": "",
+      "seller_rating": 3.9,
+      "seller_reliable": false,
+      "verified_at": "2026-08-16T17:50:33+03:00",
+      "flash": 0
+    }
+  ],
   "removed": [],
   "reclassified": []
 }
