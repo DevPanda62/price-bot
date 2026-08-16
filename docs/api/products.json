@@ -1,67 +1,5 @@
 [
   {
-    "id": "6aa684c738cc2158",
-    "store": "amazon",
-    "name": "Under Armour UA Charged Edge Spor AyakkabıErkek",
-    "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_10?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxs_y7EJlj0IQq3J2kylMUoKaDEGNjlFLemh8JTKPsfm2M67GPIq8vB5TXXS3wvuQDhfgES8E2lKANdW3FbGJk7iswTdCNDo1TMXlLuVMQGdrHt0p3DzHIVSGp_0_0WzF02xxsDMRTM8FlXrql319GJQiMAlnWWcqlWEL6Tn6YLN56YBonR7bKsr-Ll83gdEKWA6-ra_pcjs1APfECzDAQvVuX4BMi04xFUckNnwkwRXP2A8Vyr1A33l3J6UJuOOqmY4KAq2Na6zVvchucP0kBOI.ZyQGa7TfEXsBZhQF6Rb28umw6JeAIVDHoUkrjEI9DEs&dib_tag=se&keywords=indirimli&qid=1786909559&sr=8-10",
-    "image": "https://m.media-amazon.com/images/I/41pfnNBmxXL._AC_UL320_.jpg",
-    "price": 3394.99,
-    "old_price": 4249.48,
-    "query": "indirim",
-    "first_seen_at": "2026-08-16T22:44:05+03:00",
-    "last_seen_at": "2026-08-16T22:44:05+03:00",
-    "detected_at": "2026-08-16T22:44:05+03:00",
-    "discount_percent": 20.11,
-    "category": "discount",
-    "baseline_price": 4249.48,
-    "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00002",
-    "matched_stores": [
-      {
-        "store": "amazon",
-        "price": 3394.99,
-        "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxs_y7EJlj0IQq3J2kylMUoKaDEGNjlFLemh8JTKPsfm2M67GPIq8vB5TXXS3wvuQDhfgES8E2lKANdW3FbGJk7iswTdCNDo1TMXlLuVMQGdrHt0p3DzHIVSGp_0_0WzF02xxsDMRTM8FlXrql319GJQiMAlnWWcqlWEL6Tn6YLN56YBonR7bKsr-Ll83gdEKWA6-ra_pcjs1APfECzDAQvVuX4BMi04xFUckNnwkwRXP2A8Vyr1A33l3J6UJuOOqmY4KAq2Na6zVvchucP0kBOI.ZyQGa7TfEXsBZhQF6Rb28umw6JeAIVDHoUkrjEI9DEs&dib_tag=se&keywords=indirimli&qid=1786909559&sr=8-10"
-      }
-    ],
-    "reason": "magaza-eski-fiyat: 4249.48 TL -> 3394.99 TL (%20.1 indirim)",
-    "seller_name": "",
-    "seller_rating": 3.9,
-    "seller_reliable": false,
-    "verified_at": "2026-08-16T22:46:21+03:00",
-    "flash": 0
-  },
-  {
-    "id": "3e4a469df9e4139b",
-    "store": "amazon",
-    "name": "Under Armour UA Charged Edge Spor AyakkabıErkek",
-    "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxs_y7EJlj0IQq3J2kylMUoKaDEGNjlFLemh8JTKPsfm2M67GPIq8vB5TXXS3wvuQDhfgES8E2lKANdW3FbGJk7iswTdCNDo1TMXlLuVMQGdrHt0p3DzHIVSGp_0_0WzF02xxsDMRTM8FlXrql319GJQiMAlnWWcqlWEL6Tn6YLN56YBonR7bKsr-Ll83gdEKWA6-ra_pcjs1APfECzDAQvVuX4BMi04xFUckNnwkwRXP2A8Vyr1A33l3J6UJuOOqmY4KAq2Na6zVvchucP0kBOI.ZyQGa7TfEXsBZhQF6Rb28umw6JeAIVDHoUkrjEI9DEs&dib_tag=se&keywords=indirimli&qid=1786909559&sr=8-10",
-    "image": "",
-    "price": 3394.99,
-    "old_price": 4249.48,
-    "query": "indirim",
-    "first_seen_at": "2026-08-16T22:44:05+03:00",
-    "last_seen_at": "2026-08-16T22:44:05+03:00",
-    "detected_at": "2026-08-16T22:44:05+03:00",
-    "discount_percent": 20.11,
-    "category": "discount",
-    "baseline_price": 4249.48,
-    "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00002",
-    "matched_stores": [
-      {
-        "store": "amazon",
-        "price": 3394.99,
-        "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_10?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxs_y7EJlj0IQq3J2kylMUoKaDEGNjlFLemh8JTKPsfm2M67GPIq8vB5TXXS3wvuQDhfgES8E2lKANdW3FbGJk7iswTdCNDo1TMXlLuVMQGdrHt0p3DzHIVSGp_0_0WzF02xxsDMRTM8FlXrql319GJQiMAlnWWcqlWEL6Tn6YLN56YBonR7bKsr-Ll83gdEKWA6-ra_pcjs1APfECzDAQvVuX4BMi04xFUckNnwkwRXP2A8Vyr1A33l3J6UJuOOqmY4KAq2Na6zVvchucP0kBOI.ZyQGa7TfEXsBZhQF6Rb28umw6JeAIVDHoUkrjEI9DEs&dib_tag=se&keywords=indirimli&qid=1786909559&sr=8-10"
-      }
-    ],
-    "reason": "magaza-eski-fiyat: 4249.48 TL -> 3394.99 TL (%20.1 indirim)",
-    "seller_name": "",
-    "seller_rating": 3.9,
-    "seller_reliable": false,
-    "verified_at": "2026-08-16T22:46:21+03:00",
-    "flash": 0
-  },
-  {
     "id": "d8d6755b84eabb5d",
     "store": "hepsiburada",
     "name": "İYİSİYOK Çift Piston Hava Kompresörü Araba Bot Bisiklet Top Balon Lastik Şişirme Pompası",
@@ -71,8 +9,8 @@
     "old_price": 4999.0,
     "query": "cok satan",
     "first_seen_at": "2026-08-16T10:45:41+03:00",
-    "last_seen_at": "2026-08-16T22:44:05+03:00",
-    "detected_at": "2026-08-16T22:44:05+03:00",
+    "last_seen_at": "2026-08-16T23:00:19+03:00",
+    "detected_at": "2026-08-16T23:00:19+03:00",
     "discount_percent": 10.0,
     "category": "discount",
     "baseline_price": 4999.0,
@@ -83,7 +21,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-08-16T22:46:21+03:00"
+    "verified_at": "2026-08-16T23:02:34+03:00"
   },
   {
     "id": "f1f20fa1479df9d6",
@@ -95,8 +33,8 @@
     "old_price": 429.6,
     "query": "kampanya",
     "first_seen_at": "2026-08-14T20:23:00+03:00",
-    "last_seen_at": "2026-08-16T22:44:05+03:00",
-    "detected_at": "2026-08-16T22:44:05+03:00",
+    "last_seen_at": "2026-08-16T23:00:19+03:00",
+    "detected_at": "2026-08-16T23:00:19+03:00",
     "discount_percent": 12.0,
     "category": "discount",
     "baseline_price": 429.6,
@@ -107,6 +45,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-08-16T22:46:21+03:00"
+    "verified_at": "2026-08-16T23:02:34+03:00"
   }
 ]
