@@ -1,9 +1,78 @@
 {
-  "generated_at": "2026-08-16T08:03:41+03:00",
-  "added_count": 0,
-  "removed_count": 0,
+  "generated_at": "2026-08-16T08:59:26+03:00",
+  "added_count": 2,
+  "removed_count": 1,
   "reclassified_count": 0,
-  "added": [],
-  "removed": [],
+  "added": [
+    {
+      "id": "bbf22820c519ac72",
+      "store": "amazon",
+      "name": "Under Armour UA Charged Edge Spor AyakkabıErkek",
+      "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_10?dib=eyJ2IjoiMSJ9.Fg63tqwEypYU1Vzm36BzdtVLci-eLhn8Ukra-FjBTLODeAV95sYI_atkMItT506zXYIdjZ9gp1kTOCsDM4Xdg4M6GCP58Nro1A3693regeyE9mqX6zq55W7FvKHDjFiIGuvtv7va4Hq-yuMXIvR15z4mLOrC5lIBmml4aBVX5a7n9U_cJoQWJHj0-vwkqk_2Mk321onKF9lg2BkEy0Hq_KTOfD9KJislJPOq41ElIcRiFYcNieCThJqxehWVRvRn2AtzTAKb52027Y_o1UI8hEBA6N8MJrElAh0ESL6fGGA.4-s_rg-qZkPnpJeFEn2W6JekDUStkGv8Ff4FqYSjYHM&dib_tag=se&keywords=indirimli&qid=1786860147&sr=8-10",
+      "image": "https://m.media-amazon.com/images/I/41pfnNBmxXL._AC_UL320_.jpg",
+      "price": 3394.99,
+      "old_price": 4249.48,
+      "query": "indirim",
+      "first_seen_at": "2026-08-16T08:59:26+03:00",
+      "last_seen_at": "2026-08-16T08:59:26+03:00",
+      "detected_at": "2026-08-16T08:59:26+03:00",
+      "discount_percent": 20.11,
+      "category": "discount",
+      "baseline_price": 4249.48,
+      "baseline_source": "magaza-eski-fiyat",
+      "match_group": "g00002",
+      "matched_stores": [
+        {
+          "store": "amazon",
+          "price": 3394.99,
+          "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.Fg63tqwEypYU1Vzm36BzdtVLci-eLhn8Ukra-FjBTLODeAV95sYI_atkMItT506zXYIdjZ9gp1kTOCsDM4Xdg4M6GCP58Nro1A3693regeyE9mqX6zq55W7FvKHDjFiIGuvtv7va4Hq-yuMXIvR15z4mLOrC5lIBmml4aBVX5a7n9U_cJoQWJHj0-vwkqk_2Mk321onKF9lg2BkEy0Hq_KTOfD9KJislJPOq41ElIcRiFYcNieCThJqxehWVRvRn2AtzTAKb52027Y_o1UI8hEBA6N8MJrElAh0ESL6fGGA.4-s_rg-qZkPnpJeFEn2W6JekDUStkGv8Ff4FqYSjYHM&dib_tag=se&keywords=indirimli&qid=1786860147&sr=8-10"
+        }
+      ],
+      "reason": "magaza-eski-fiyat: 4249.48 TL -> 3394.99 TL (%20.1 indirim)",
+      "seller_name": "",
+      "seller_rating": 3.9,
+      "seller_reliable": false,
+      "verified_at": "2026-08-16T09:02:51+03:00",
+      "flash": 0
+    },
+    {
+      "id": "97d61728acee0cf4",
+      "store": "amazon",
+      "name": "Under Armour UA Charged Edge Spor AyakkabıErkek",
+      "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.Fg63tqwEypYU1Vzm36BzdtVLci-eLhn8Ukra-FjBTLODeAV95sYI_atkMItT506zXYIdjZ9gp1kTOCsDM4Xdg4M6GCP58Nro1A3693regeyE9mqX6zq55W7FvKHDjFiIGuvtv7va4Hq-yuMXIvR15z4mLOrC5lIBmml4aBVX5a7n9U_cJoQWJHj0-vwkqk_2Mk321onKF9lg2BkEy0Hq_KTOfD9KJislJPOq41ElIcRiFYcNieCThJqxehWVRvRn2AtzTAKb52027Y_o1UI8hEBA6N8MJrElAh0ESL6fGGA.4-s_rg-qZkPnpJeFEn2W6JekDUStkGv8Ff4FqYSjYHM&dib_tag=se&keywords=indirimli&qid=1786860147&sr=8-10",
+      "image": "",
+      "price": 3394.99,
+      "old_price": 4249.48,
+      "query": "indirim",
+      "first_seen_at": "2026-08-16T08:59:26+03:00",
+      "last_seen_at": "2026-08-16T08:59:26+03:00",
+      "detected_at": "2026-08-16T08:59:26+03:00",
+      "discount_percent": 20.11,
+      "category": "discount",
+      "baseline_price": 4249.48,
+      "baseline_source": "magaza-eski-fiyat",
+      "match_group": "g00002",
+      "matched_stores": [
+        {
+          "store": "amazon",
+          "price": 3394.99,
+          "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_10?dib=eyJ2IjoiMSJ9.Fg63tqwEypYU1Vzm36BzdtVLci-eLhn8Ukra-FjBTLODeAV95sYI_atkMItT506zXYIdjZ9gp1kTOCsDM4Xdg4M6GCP58Nro1A3693regeyE9mqX6zq55W7FvKHDjFiIGuvtv7va4Hq-yuMXIvR15z4mLOrC5lIBmml4aBVX5a7n9U_cJoQWJHj0-vwkqk_2Mk321onKF9lg2BkEy0Hq_KTOfD9KJislJPOq41ElIcRiFYcNieCThJqxehWVRvRn2AtzTAKb52027Y_o1UI8hEBA6N8MJrElAh0ESL6fGGA.4-s_rg-qZkPnpJeFEn2W6JekDUStkGv8Ff4FqYSjYHM&dib_tag=se&keywords=indirimli&qid=1786860147&sr=8-10"
+        }
+      ],
+      "reason": "magaza-eski-fiyat: 4249.48 TL -> 3394.99 TL (%20.1 indirim)",
+      "seller_name": "",
+      "seller_rating": 3.9,
+      "seller_reliable": false,
+      "verified_at": "2026-08-16T09:02:51+03:00",
+      "flash": 0
+    }
+  ],
+  "removed": [
+    {
+      "id": "d8d6755b84eabb5d",
+      "store": "hepsiburada",
+      "name": "İYİSİYOK Çift Piston Hava Kompresörü Araba Bot Bisiklet Top Balon Lastik Şişirme Pompası"
+    }
+  ],
   "reclassified": []
 }
