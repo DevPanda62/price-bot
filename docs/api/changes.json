@@ -1,9 +1,15 @@
 {
-  "generated_at": "2026-08-17T20:10:32+03:00",
+  "generated_at": "2026-08-17T20:43:02+03:00",
   "added_count": 0,
-  "removed_count": 0,
+  "removed_count": 1,
   "reclassified_count": 0,
   "added": [],
-  "removed": [],
+  "removed": [
+    {
+      "id": "c4d97e96ae8f530f",
+      "store": "amazon",
+      "name": "Under Armour UA Charged Edge Spor AyakkabıErkek"
+    }
+  ],
   "reclassified": []
 }
