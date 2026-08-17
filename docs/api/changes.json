@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-17T21:54:24+03:00",
+  "generated_at": "2026-08-17T22:21:36+03:00",
   "added_count": 1,
-  "removed_count": 0,
+  "removed_count": 1,
   "reclassified_count": 0,
   "added": [
     {
-      "id": "eee430a4ab4aec03",
+      "id": "aa1fdf4920c41bdb",
       "store": "amazon",
       "name": "Under Armour UA Charged Edge Spor AyakkabıErkek",
-      "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_11?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxoBDgwy_D2KTEDryA_djRpVGBBFYNjnREeK7WSmP_oO0S8RxFWvrDgOS7M6JitP2XRhzpkutJrBXHH4G0ogrnSIU_NVQw8WXdbsnJ4FxjcaXS3FD_NbqGitjVVD_DmohSH8A4gmd27c2umR5upKb3OSQJIMwJcwtn43g3RNOREFp1NLwZw5t6qystbDNULuqNaduHoxslkGgG5gv-FG05F0gb4nWX4sIrYtwHQgMM8VeOjgTToHUifAHyIxID3zZQQ9DbSWAdyRCpiT2-JtmR68.TW7loyOuVrI9Giu0M9RKyO6rFKcH5xvdaMiKXk3SYd8&dib_tag=se&keywords=indirimli&qid=1786992988&sr=8-11",
+      "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_11?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxoBDgwy_D2KTEDryA_djRpXezek8svpaN39noEQWjm8nTdZzUMlT8H5w8CQKhpjBcrEXExUIa4rLR5fXSRlvtZ_za3yCiTHWuhVQ6T1AugTxu4dlGM6jl9sUSeWQWH9I2gtWYEw7t9qMWtT_OqgTrrq-LZ25DsWn2OeXUA6ZYz5MfXgois8e3WkKLmYnJod5iqduHoxslkGgG5gv-FG05F1pvTTLuXIOMHsvSof69hdKcehDHfc_j_WjqE0OjQe9v_3R7cCHELmhp9a84Rem714.naejb7DPRF5SPJEOD6ER_qBFGAM3j2aE9YpahiUlqPI&dib_tag=se&keywords=indirimli&qid=1786994614&sr=8-11",
       "image": "https://m.media-amazon.com/images/I/41pfnNBmxXL._AC_UL320_.jpg",
       "price": 3394.99,
       "old_price": 4249.48,
       "query": "indirim",
-      "first_seen_at": "2026-08-17T21:54:24+03:00",
-      "last_seen_at": "2026-08-17T21:54:24+03:00",
-      "detected_at": "2026-08-17T21:54:24+03:00",
+      "first_seen_at": "2026-08-17T22:21:36+03:00",
+      "last_seen_at": "2026-08-17T22:21:36+03:00",
+      "detected_at": "2026-08-17T22:21:36+03:00",
       "discount_percent": 20.11,
       "category": "discount",
       "baseline_price": 4249.48,
@@ -26,10 +26,16 @@
       "seller_name": "",
       "seller_rating": 3.9,
       "seller_reliable": false,
-      "verified_at": "2026-08-17T21:56:54+03:00",
+      "verified_at": "2026-08-17T22:23:55+03:00",
       "flash": 0
     }
   ],
-  "removed": [],
+  "removed": [
+    {
+      "id": "eee430a4ab4aec03",
+      "store": "amazon",
+      "name": "Under Armour UA Charged Edge Spor AyakkabıErkek"
+    }
+  ],
   "reclassified": []
 }
