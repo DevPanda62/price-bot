@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-18T00:00:46+03:00",
+  "generated_at": "2026-08-18T00:33:17+03:00",
   "added_count": 1,
   "removed_count": 1,
   "reclassified_count": 0,
   "added": [
     {
-      "id": "a2d28b7bf91bb2a0",
+      "id": "21ecee6f6770f19a",
       "store": "amazon",
       "name": "Under Armour UA Charged Edge Spor AyakkabıErkek",
-      "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_11?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxoBDgwy_D2KTEDryA_djRpVtjK-zOF1NsGkxlMSSSpyKRGKPAE68BcWemW-JkUc9QSIClWmf64QgKWA7Y_3lb3X0LPx5n3rsghDr5LUztrpiO3KsnMBy02Di88E6BwmGovUcz3jqoYy_pPkN89w2VwXHf1iVwBQmvAg_tkRSost8pcOH3QvpzBXAsXqPGmDIkO7X4nx-bJ9bxF7KtnT6z2fZQ4hEn-SyXdBnE73RrIe20FevtHZjS7GVFTWe8qGRnRO8aSN3qi6VWyi5AdzIwcA.K_j86JfqVUNKYwArPDNpsEWQSvu6UNTa5tXI6uL3COs&dib_tag=se&keywords=indirimli&qid=1787000559&sr=8-11",
+      "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_11?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxoBDgwy_D2KTEDryA_djRpXezek8svpaN39noEQWjm8n7XiL1oKz_-Qn3huuft4JTTOu4wKM8OpUQu_Vj5lDeJ4A9jzbUNZJpSHIelp6xGwvu4dlGM6jl9sUSeWQWH9I2vUcz3jqoYy_pPkN89w2VwX9b_Pq9PlUay-H1FIGPQPdgtuJt3e_lKMHsPX7hX9v5rJgCVW8Ms43Ffyab4ez0BQj_VALoSOwh_3XhQDVpWs1A4d8uhRdSImifZPIIAPGtP3R7cCHELmhp9a84Rem714.hf3NiHlnwDYZjS6qNe4ySKz44WO_Nea3kAYG_tp_7lQ&dib_tag=se&keywords=indirimli&qid=1787002510&sr=8-11",
       "image": "https://m.media-amazon.com/images/I/41pfnNBmxXL._AC_UL320_.jpg",
       "price": 3394.99,
       "old_price": 4249.48,
       "query": "indirim",
-      "first_seen_at": "2026-08-18T00:00:46+03:00",
-      "last_seen_at": "2026-08-18T00:00:46+03:00",
-      "detected_at": "2026-08-18T00:00:46+03:00",
+      "first_seen_at": "2026-08-18T00:33:17+03:00",
+      "last_seen_at": "2026-08-18T00:33:17+03:00",
+      "detected_at": "2026-08-18T00:33:17+03:00",
       "discount_percent": 20.11,
       "category": "discount",
       "baseline_price": 4249.48,
@@ -26,15 +26,15 @@
       "seller_name": "",
       "seller_rating": 3.9,
       "seller_reliable": false,
-      "verified_at": "2026-08-18T00:03:00+03:00",
+      "verified_at": "2026-08-18T00:35:35+03:00",
       "flash": 0
     }
   ],
   "removed": [
     {
-      "id": "d08e06cc8805592e",
-      "store": "hepsiburada",
-      "name": "TCL 24G54 Ofis ve Çalışma Monitörü 24\" 100Hz Fhd Mini LED Va Panel Ev, Okul ve Iş Ekranı (Hdmı+Vga, 400 Nits, Göz Koruma) Ürün puanı 4, 1 değerlendirme 4 ( 1 ) Sepete özel 5.999 TL 5.699 ,05 TL"
+      "id": "a2d28b7bf91bb2a0",
+      "store": "amazon",
+      "name": "Under Armour UA Charged Edge Spor AyakkabıErkek"
     }
   ],
   "reclassified": []
