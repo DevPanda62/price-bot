@@ -1,44 +1,39 @@
 {
-  "generated_at": "2026-08-17T07:59:04+03:00",
+  "generated_at": "2026-08-17T08:39:07+03:00",
   "added_count": 1,
-  "removed_count": 2,
+  "removed_count": 1,
   "reclassified_count": 0,
   "added": [
     {
-      "id": "0ab8e75c1ebbb4ae",
-      "store": "n11",
-      "name": "Lenovo Uyumlu M10 Fhd Plus Tb_X606F 10.3 Dönerli Standlı Tablet Kılıfı",
-      "url": "https://www.n11.com/urun/lenovo-uyumlu-m10-fhd-plus-tbx606f-103-donerli-standli-tablet-kilifi-20313977",
-      "image": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2016%2016'%3E%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'%23ffffff'%2F%3E%3C%2Fsvg%3E",
-      "price": 363.26,
-      "old_price": 412.8,
-      "query": "kampanya",
-      "first_seen_at": "2026-08-17T07:59:04+03:00",
-      "last_seen_at": "2026-08-17T07:59:04+03:00",
-      "detected_at": "2026-08-17T07:59:04+03:00",
+      "id": "786539b2d23ceafe",
+      "store": "hepsiburada",
+      "name": "İYİSİYOK 108 Parça Cırcır Seti  Pc 72 Diş Lokma TAKIMI108 Pcs Parça Lokma Takımı Tam",
+      "url": "https://www.hepsiburada.com/108-parca-circir-seti-pc-72-dis-lokma-takimi108-pcs-parca-lokma-takimi-tam-pm-HBC00009GRKK6?magaza=ÇOK SATAN",
+      "image": "https://productimages.hepsiburada.net/s/777/222-222/110001123224918.jpg",
+      "price": 4399.12,
+      "old_price": 4999.0,
+      "query": "cok satan",
+      "first_seen_at": "2026-08-17T08:39:07+03:00",
+      "last_seen_at": "2026-08-17T08:39:07+03:00",
+      "detected_at": "2026-08-17T08:39:07+03:00",
       "discount_percent": 12.0,
       "category": "discount",
-      "baseline_price": 412.8,
+      "baseline_price": 4999.0,
       "baseline_source": "magaza-eski-fiyat",
       "match_group": null,
       "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 412.80 TL -> 363.26 TL (%12.0 indirim)",
+      "reason": "magaza-eski-fiyat: 4999.00 TL -> 4399.12 TL (%12.0 indirim)",
       "seller_name": "",
       "seller_rating": null,
       "seller_reliable": null,
-      "verified_at": "2026-08-17T08:01:26+03:00"
+      "verified_at": "2026-08-17T08:48:16+03:00"
     }
   ],
   "removed": [
     {
-      "id": "b7ce6a63ad3c3659",
-      "store": "amazon",
-      "name": "Under Armour UA Charged Edge Spor AyakkabıErkek"
-    },
-    {
-      "id": "c0b677a86d56cd3c",
-      "store": "amazon",
-      "name": "Under Armour UA Charged Edge Spor AyakkabıErkek"
+      "id": "0ab8e75c1ebbb4ae",
+      "store": "n11",
+      "name": "Lenovo Uyumlu M10 Fhd Plus Tb_X606F 10.3 Dönerli Standlı Tablet Kılıfı"
     }
   ],
   "reclassified": []
