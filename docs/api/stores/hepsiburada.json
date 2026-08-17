@@ -9,8 +9,8 @@
     "old_price": 415.0,
     "query": "indirim",
     "first_seen_at": "2026-08-17T23:37:50+03:00",
-    "last_seen_at": "2026-08-18T00:33:17+03:00",
-    "detected_at": "2026-08-18T00:33:17+03:00",
+    "last_seen_at": "2026-08-18T00:54:43+03:00",
+    "detected_at": "2026-08-18T00:54:43+03:00",
     "discount_percent": 40.0,
     "category": "discount",
     "baseline_price": 415.0,
@@ -21,7 +21,7 @@
     "seller_name": "İndirim Var",
     "seller_rating": 4.5,
     "seller_reliable": true,
-    "verified_at": "2026-08-18T00:35:35+03:00",
+    "verified_at": "2026-08-18T00:56:59+03:00",
     "flash": 0
   },
   {
@@ -34,8 +34,8 @@
     "old_price": 4749.05,
     "query": "cok satan",
     "first_seen_at": "2026-08-16T10:45:41+03:00",
-    "last_seen_at": "2026-08-18T00:33:17+03:00",
-    "detected_at": "2026-08-18T00:33:17+03:00",
+    "last_seen_at": "2026-08-18T00:54:43+03:00",
+    "detected_at": "2026-08-18T00:54:43+03:00",
     "discount_percent": 10.0,
     "category": "discount",
     "baseline_price": 4749.05,
@@ -46,7 +46,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-08-18T00:35:35+03:00"
+    "verified_at": "2026-08-18T00:56:59+03:00"
   },
   {
     "id": "786539b2d23ceafe",
@@ -58,8 +58,8 @@
     "old_price": 4999.0,
     "query": "cok satan",
     "first_seen_at": "2026-08-17T08:39:07+03:00",
-    "last_seen_at": "2026-08-18T00:33:17+03:00",
-    "detected_at": "2026-08-18T00:33:17+03:00",
+    "last_seen_at": "2026-08-18T00:54:43+03:00",
+    "detected_at": "2026-08-18T00:54:43+03:00",
     "discount_percent": 12.0,
     "category": "discount",
     "baseline_price": 4999.0,
@@ -70,6 +70,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-08-18T00:35:35+03:00"
+    "verified_at": "2026-08-18T00:56:59+03:00"
   }
 ]
