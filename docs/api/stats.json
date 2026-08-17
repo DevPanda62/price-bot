@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T17:58:22+03:00",
+  "generated_at": "2026-08-17T18:27:37+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -18,7 +18,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (3 dk)"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "hepsiburada": {
       "ok": true,
@@ -81,14 +81,14 @@
       "message": "pas gecildi"
     },
     "amazon": {
-      "ok": true,
+      "ok": false,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": ""
+      "message": "0 urun (indirim yok olabilir)"
     }
   },
   "totals": {
@@ -100,9 +100,9 @@
     }
   },
   "critical": {
-    "selected": 16,
-    "checked": 10,
-    "updated": 10,
+    "selected": 13,
+    "checked": 7,
+    "updated": 7,
     "flash": 0
   }
 }
