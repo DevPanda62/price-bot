@@ -1,27 +1,38 @@
 [
   {
-    "id": "2d6978c66b6d5009",
+    "id": "22d91a640394388b",
     "store": "amazon",
     "name": "Under Armour UA Charged Edge Spor AyakkabıErkek",
-    "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_11?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxs_y7EJlj0IQq3J2kylMUoID2G2DCNWxWWPjOEQEyEKcS8RxFWvrDgOS7M6JitP2XRhzpkutJrBXHH4G0ogrnSIU_NVQw8WXdbsnJ4FxjcaXS3FD_NbqGitjVVD_DmohSPUcz3jqoYy_pPkN89w2VwXHf1iVwBQmvAg_tkRSost84PpKWqx148owVUj5ezhIBGjaCXqlbe0r51bRYixzs5MHZyFcNSgW0Y-BmIl0Xv2f1R_s1iiFc7ltW3p8BC8N1fi-pbDYRAnRqy5l-D7s9c0.BKZh7aRasrwowSCbGlUjSWZn2k3jQTMQ3-lg8xzd0fI&dib_tag=se&keywords=indirimli&qid=1786967978&sr=8-11",
+    "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_11?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxoBDgwy_D2KTEDryA_djRpVGBBFYNjnREeK7WSmP_oO0SRxIdJxtddXJ7tua5Vyog7o6-k1Ras6KklvVUsXHyofza3yCiTHWuhVQ6T1AugTxu4dlGM6jl9sUSeWQWH9I2vUcz3jqoYy_pPkN89w2VwXHf1iVwBQmvAg_tkRSost84PpKWqx148owVUj5ezhIBGjaCXqlbe0r51bRYixzs5Pp1c8taqLSr7BB8GJRFHKq2AtzTAKb52027Y_o1UI8hFQkrQMDVG6WkzJDuSX-VV0.ZulCDxvpRdUon7SIKArx4xOMAHyku2ajJ-spn0t6fiA&dib_tag=se&keywords=indirimli&qid=1786973369&sr=8-11",
     "image": "https://m.media-amazon.com/images/I/41pfnNBmxXL._AC_UL320_.jpg",
     "price": 3394.99,
     "old_price": 4249.48,
     "query": "indirim",
-    "first_seen_at": "2026-08-17T14:57:45+03:00",
-    "last_seen_at": "2026-08-17T14:57:45+03:00",
-    "detected_at": "2026-08-17T14:57:45+03:00",
+    "first_seen_at": "2026-08-17T16:27:30+03:00",
+    "last_seen_at": "2026-08-17T16:27:30+03:00",
+    "detected_at": "2026-08-17T16:27:30+03:00",
     "discount_percent": 20.11,
     "category": "discount",
     "baseline_price": 4249.48,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": null,
-    "matched_stores": [],
+    "match_group": "g00002",
+    "matched_stores": [
+      {
+        "store": "amazon",
+        "price": 3271.8,
+        "url": "https://www.amazon.com.tr/Under-Armour-E%C5%9Fofman-Castlerock-Heather/dp/B0CC33M7FG/ref=sr_1_47?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxoBDgwy_D2KTEDryA_djRpVGBBFYNjnREeK7WSmP_oO0SRxIdJxtddXJ7tua5Vyog7o6-k1Ras6KklvVUsXHyofza3yCiTHWuhVQ6T1AugTxu4dlGM6jl9sUSeWQWH9I2vUcz3jqoYy_pPkN89w2VwXHf1iVwBQmvAg_tkRSost84PpKWqx148owVUj5ezhIBGjaCXqlbe0r51bRYixzs5Pp1c8taqLSr7BB8GJRFHKq2AtzTAKb52027Y_o1UI8hFQkrQMDVG6WkzJDuSX-VV0.ZulCDxvpRdUon7SIKArx4xOMAHyku2ajJ-spn0t6fiA&dib_tag=se&keywords=indirimli&qid=1786973369&sr=8-47"
+      },
+      {
+        "store": "amazon",
+        "price": 3271.8,
+        "url": "https://www.amazon.com.tr/Under-Armour-E%C5%9Fofman-Castlerock-Heather/dp/B0CC33M7FG/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxoBDgwy_D2KTEDryA_djRpVGBBFYNjnREeK7WSmP_oO0SRxIdJxtddXJ7tua5Vyog7o6-k1Ras6KklvVUsXHyofza3yCiTHWuhVQ6T1AugTxu4dlGM6jl9sUSeWQWH9I2vUcz3jqoYy_pPkN89w2VwXHf1iVwBQmvAg_tkRSost84PpKWqx148owVUj5ezhIBGjaCXqlbe0r51bRYixzs5Pp1c8taqLSr7BB8GJRFHKq2AtzTAKb52027Y_o1UI8hFQkrQMDVG6WkzJDuSX-VV0.ZulCDxvpRdUon7SIKArx4xOMAHyku2ajJ-spn0t6fiA&dib_tag=se&keywords=indirimli&qid=1786973369&sr=8-47"
+      }
+    ],
     "reason": "magaza-eski-fiyat: 4249.48 TL -> 3394.99 TL (%20.1 indirim)",
     "seller_name": "",
     "seller_rating": 5.0,
     "seller_reliable": true,
-    "verified_at": "2026-08-17T15:00:02+03:00",
+    "verified_at": "2026-08-17T16:29:54+03:00",
     "flash": 0
   }
 ]
