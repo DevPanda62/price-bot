@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T11:00:58+03:00",
+  "generated_at": "2026-08-17T11:54:05+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -68,7 +68,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (11 dk)"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "vatan": {
       "ok": false,
