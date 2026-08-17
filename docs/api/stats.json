@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17T08:39:07+03:00",
+  "generated_at": "2026-08-17T09:04:34+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 69162467,
+    "used_bytes": 69650761,
     "quota_bytes": 943718400
   },
   "sites": {
@@ -68,7 +68,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi"
+      "message": "utm yanit verdi ama 0 urun"
     },
     "vatan": {
       "ok": false,
@@ -78,7 +78,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi (ultra trick mode de basarisiz)"
+      "message": "pas gecildi"
     },
     "amazon": {
       "ok": true,
@@ -101,8 +101,8 @@
   },
   "critical": {
     "selected": 17,
-    "checked": 8,
-    "updated": 8,
+    "checked": 10,
+    "updated": 10,
     "flash": 0
   }
 }

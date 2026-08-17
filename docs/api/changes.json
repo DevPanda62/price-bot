@@ -1,40 +1,9 @@
 {
-  "generated_at": "2026-08-17T08:39:07+03:00",
-  "added_count": 1,
-  "removed_count": 1,
+  "generated_at": "2026-08-17T09:04:34+03:00",
+  "added_count": 0,
+  "removed_count": 0,
   "reclassified_count": 0,
-  "added": [
-    {
-      "id": "786539b2d23ceafe",
-      "store": "hepsiburada",
-      "name": "İYİSİYOK 108 Parça Cırcır Seti  Pc 72 Diş Lokma TAKIMI108 Pcs Parça Lokma Takımı Tam",
-      "url": "https://www.hepsiburada.com/108-parca-circir-seti-pc-72-dis-lokma-takimi108-pcs-parca-lokma-takimi-tam-pm-HBC00009GRKK6?magaza=ÇOK SATAN",
-      "image": "https://productimages.hepsiburada.net/s/777/222-222/110001123224918.jpg",
-      "price": 4399.12,
-      "old_price": 4999.0,
-      "query": "cok satan",
-      "first_seen_at": "2026-08-17T08:39:07+03:00",
-      "last_seen_at": "2026-08-17T08:39:07+03:00",
-      "detected_at": "2026-08-17T08:39:07+03:00",
-      "discount_percent": 12.0,
-      "category": "discount",
-      "baseline_price": 4999.0,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": null,
-      "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 4999.00 TL -> 4399.12 TL (%12.0 indirim)",
-      "seller_name": "",
-      "seller_rating": null,
-      "seller_reliable": null,
-      "verified_at": "2026-08-17T08:48:16+03:00"
-    }
-  ],
-  "removed": [
-    {
-      "id": "0ab8e75c1ebbb4ae",
-      "store": "n11",
-      "name": "Lenovo Uyumlu M10 Fhd Plus Tb_X606F 10.3 Dönerli Standlı Tablet Kılıfı"
-    }
-  ],
+  "added": [],
+  "removed": [],
   "reclassified": []
 }
