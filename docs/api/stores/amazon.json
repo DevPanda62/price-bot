@@ -1,16 +1,16 @@
 [
   {
-    "id": "71266211170355e5",
+    "id": "7b1c6cb0a6ad2d22",
     "store": "amazon",
     "name": "Under Armour UA Charged Edge Spor AyakkabıErkek",
-    "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_11?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxoBDgwy_D2KTEDryA_djRpXezek8svpaN39noEQWjm8n7XiL1oKz_-Qn3huuft4JTRW23pKntWto3fvhqvGUZhHYWalRUzLP3DJv5Ir5MiKdu4dlGM6jl9sUSeWQWH9I2vUcz3jqoYy_pPkN89w2VwWTU1tKzbXYE4kvl8OpgVKILCeSFGTeJXM7DTfzlCK_TrJgCVW8Ms43Ffyab4ez0BQj_VALoSOwh_3XhQDVpWs1A4d8uhRdSImifZPIIAPGtP3R7cCHELmhp9a84Rem714.4-nAA-eyZiQEGGlYHeGSHSLkN7ZReZqRWkE_3Ka87FI&dib_tag=se&keywords=indirimli&qid=1787003796&sr=8-11",
+    "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_11?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxoBDgwy_D2KTEDryA_djRpVtjK-zOF1NsGkxlMSSSpyK89bWCPZmladLAOQNDC83neVfTYaAGoIPu1ZNwGgrcEMBSZYqVq-zPFYthOmtjqzJKaBaDsYlaVuLGbsRGaaaqRIJaiciQ6oZTtc7VMmc9akGT4C1RM7tSPEws0LsahmOpcOH3QvpzBXAsXqPGmDIkO7X4nx-bJ9bxF7KtnT6z2fg541_8saDzVI9IM4Tzb5uI4xt5bIN2QGCwGSw0QBufdS4oPEcuKEM7X0aXbdugBs.3FEfq-3tRxoz8-bHsHfPFKpcvxxIqRPM3m6x6RbQGZo&dib_tag=se&keywords=indirimli&qid=1787009588&sr=8-11",
     "image": "https://m.media-amazon.com/images/I/41pfnNBmxXL._AC_UL320_.jpg",
     "price": 3394.99,
     "old_price": 4249.48,
     "query": "indirim",
-    "first_seen_at": "2026-08-18T00:54:43+03:00",
-    "last_seen_at": "2026-08-18T00:54:43+03:00",
-    "detected_at": "2026-08-18T00:54:43+03:00",
+    "first_seen_at": "2026-08-18T02:31:09+03:00",
+    "last_seen_at": "2026-08-18T02:31:09+03:00",
+    "detected_at": "2026-08-18T02:31:09+03:00",
     "discount_percent": 20.11,
     "category": "discount",
     "baseline_price": 4249.48,
@@ -21,7 +21,7 @@
     "seller_name": "",
     "seller_rating": 3.9,
     "seller_reliable": false,
-    "verified_at": "2026-08-18T00:56:59+03:00",
+    "verified_at": "2026-08-18T02:33:30+03:00",
     "flash": 0
   }
 ]

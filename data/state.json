@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-18T01:44:20+03:00",
-  "heartbeat_at": "2026-08-18T02:01:32+03:00",
+  "last_run": "2026-08-18T02:31:09+03:00",
+  "heartbeat_at": "2026-08-18T02:33:58+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -74,20 +74,20 @@
     },
     "amazon": {
       "ok": true,
-      "product_count": 0,
+      "product_count": 1,
       "categories": {
         "normal": 0,
-        "discount": 0,
+        "discount": 1,
         "error": 0
       },
       "message": ""
     }
   },
   "totals": {
-    "products": 3,
+    "products": 4,
     "categories": {
       "normal": 0,
-      "discount": 3,
+      "discount": 4,
       "error": 0
     }
   },
@@ -123,9 +123,9 @@
     "teknosa": "chrome124"
   },
   "critical": {
-    "selected": 16,
-    "checked": 10,
-    "updated": 9,
+    "selected": 18,
+    "checked": 12,
+    "updated": 11,
     "flash": 1
   }
 }
