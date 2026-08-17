@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-17T19:10:41+03:00",
-  "heartbeat_at": "2026-08-17T19:13:32+03:00",
+  "last_run": "2026-08-17T19:44:49+03:00",
+  "heartbeat_at": "2026-08-17T19:47:29+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -73,14 +73,14 @@
       "message": "pas gecildi"
     },
     "amazon": {
-      "ok": true,
+      "ok": false,
       "product_count": 1,
       "categories": {
         "normal": 0,
         "discount": 1,
         "error": 0
       },
-      "message": ""
+      "message": "0 urun (indirim yok olabilir)"
     }
   },
   "totals": {
@@ -123,9 +123,9 @@
     "teknosa": "chrome124"
   },
   "critical": {
-    "selected": 18,
-    "checked": 12,
-    "updated": 12,
-    "flash": 0
+    "selected": 14,
+    "checked": 7,
+    "updated": 7,
+    "flash": 1
   }
 }
