@@ -1,5 +1,30 @@
 [
   {
+    "id": "082228d482929d7d",
+    "store": "amazon",
+    "name": "Under Armour UA Charged Edge Spor AyakkabıErkek",
+    "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_11?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxs_y7EJlj0IQq3J2kylMUoK5G-f4rbjp-Sz-Ji155VR-DBg-7Sr-UJ6ZINwov7iqKBW23pKntWto3fvhqvGUZhEvy3XmAgq-2ROIAj2EgbnoSMdc-l2HeKTbDUA6BFyTPn8A4gmd27c2umR5upKb3OSQJIMwJcwtn43g3RNOREFp4PpKWqx148owVUj5ezhIBGjaCXqlbe0r51bRYixzs5MHZyFcNSgW0Y-BmIl0Xv2fnqHVYR3RT-8qmzHyTTfNEQ9DbSWAdyRCpiT2-JtmR68.eu8iEvuQC_Z3VST3jLbgyoQnNuG1QB7oclw0bqmL5uQ&dib_tag=se&keywords=indirimli&qid=1786977610&sr=8-11",
+    "image": "https://m.media-amazon.com/images/I/41pfnNBmxXL._AC_UL320_.jpg",
+    "price": 3394.99,
+    "old_price": 4249.48,
+    "query": "indirim",
+    "first_seen_at": "2026-08-17T17:37:28+03:00",
+    "last_seen_at": "2026-08-17T17:37:28+03:00",
+    "detected_at": "2026-08-17T17:37:28+03:00",
+    "discount_percent": 20.11,
+    "category": "discount",
+    "baseline_price": 4249.48,
+    "baseline_source": "magaza-eski-fiyat",
+    "match_group": null,
+    "matched_stores": [],
+    "reason": "magaza-eski-fiyat: 4249.48 TL -> 3394.99 TL (%20.1 indirim)",
+    "seller_name": "",
+    "seller_rating": 5.0,
+    "seller_reliable": true,
+    "verified_at": "2026-08-17T17:40:31+03:00",
+    "flash": 0
+  },
+  {
     "id": "d8d6755b84eabb5d",
     "store": "hepsiburada",
     "name": "İYİSİYOK Çift Piston Hava Kompresörü Araba Bot Bisiklet Top Balon Lastik Şişirme Pompası",
@@ -9,8 +34,8 @@
     "old_price": 4749.05,
     "query": "cok satan",
     "first_seen_at": "2026-08-16T10:45:41+03:00",
-    "last_seen_at": "2026-08-17T17:01:36+03:00",
-    "detected_at": "2026-08-17T17:01:36+03:00",
+    "last_seen_at": "2026-08-17T17:37:28+03:00",
+    "detected_at": "2026-08-17T17:37:28+03:00",
     "discount_percent": 10.0,
     "category": "discount",
     "baseline_price": 4749.05,
@@ -21,7 +46,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-08-17T17:07:38+03:00"
+    "verified_at": "2026-08-17T17:40:31+03:00"
   },
   {
     "id": "786539b2d23ceafe",
@@ -33,8 +58,8 @@
     "old_price": 4999.0,
     "query": "cok satan",
     "first_seen_at": "2026-08-17T08:39:07+03:00",
-    "last_seen_at": "2026-08-17T17:01:36+03:00",
-    "detected_at": "2026-08-17T17:01:36+03:00",
+    "last_seen_at": "2026-08-17T17:37:28+03:00",
+    "detected_at": "2026-08-17T17:37:28+03:00",
     "discount_percent": 12.0,
     "category": "discount",
     "baseline_price": 4999.0,
@@ -45,6 +70,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-08-17T17:07:38+03:00"
+    "verified_at": "2026-08-17T17:40:31+03:00"
   }
 ]
