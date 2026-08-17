@@ -1,35 +1,15 @@
 {
-  "generated_at": "2026-08-17T17:37:28+03:00",
-  "added_count": 1,
-  "removed_count": 0,
+  "generated_at": "2026-08-17T17:58:22+03:00",
+  "added_count": 0,
+  "removed_count": 1,
   "reclassified_count": 0,
-  "added": [
+  "added": [],
+  "removed": [
     {
       "id": "082228d482929d7d",
       "store": "amazon",
-      "name": "Under Armour UA Charged Edge Spor AyakkabıErkek",
-      "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_11?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxs_y7EJlj0IQq3J2kylMUoK5G-f4rbjp-Sz-Ji155VR-DBg-7Sr-UJ6ZINwov7iqKBW23pKntWto3fvhqvGUZhEvy3XmAgq-2ROIAj2EgbnoSMdc-l2HeKTbDUA6BFyTPn8A4gmd27c2umR5upKb3OSQJIMwJcwtn43g3RNOREFp4PpKWqx148owVUj5ezhIBGjaCXqlbe0r51bRYixzs5MHZyFcNSgW0Y-BmIl0Xv2fnqHVYR3RT-8qmzHyTTfNEQ9DbSWAdyRCpiT2-JtmR68.eu8iEvuQC_Z3VST3jLbgyoQnNuG1QB7oclw0bqmL5uQ&dib_tag=se&keywords=indirimli&qid=1786977610&sr=8-11",
-      "image": "https://m.media-amazon.com/images/I/41pfnNBmxXL._AC_UL320_.jpg",
-      "price": 3394.99,
-      "old_price": 4249.48,
-      "query": "indirim",
-      "first_seen_at": "2026-08-17T17:37:28+03:00",
-      "last_seen_at": "2026-08-17T17:37:28+03:00",
-      "detected_at": "2026-08-17T17:37:28+03:00",
-      "discount_percent": 20.11,
-      "category": "discount",
-      "baseline_price": 4249.48,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": null,
-      "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 4249.48 TL -> 3394.99 TL (%20.1 indirim)",
-      "seller_name": "",
-      "seller_rating": 5.0,
-      "seller_reliable": true,
-      "verified_at": "2026-08-17T17:40:31+03:00",
-      "flash": 0
+      "name": "Under Armour UA Charged Edge Spor AyakkabıErkek"
     }
   ],
-  "removed": [],
   "reclassified": []
 }
