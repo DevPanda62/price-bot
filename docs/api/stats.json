@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T05:54:22+03:00",
+  "generated_at": "2026-08-18T06:37:09+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -31,14 +31,14 @@
       "message": ""
     },
     "n11": {
-      "ok": false,
-      "product_count": 1,
+      "ok": true,
+      "product_count": 2,
       "categories": {
         "normal": 0,
-        "discount": 0,
+        "discount": 1,
         "error": 1
       },
-      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
+      "message": ""
     },
     "ciceksepeti": {
       "ok": false,
@@ -92,17 +92,17 @@
     }
   },
   "totals": {
-    "products": 4,
+    "products": 5,
     "categories": {
       "normal": 0,
-      "discount": 3,
+      "discount": 4,
       "error": 1
     }
   },
   "critical": {
-    "selected": 12,
-    "checked": 9,
-    "updated": 8,
+    "selected": 18,
+    "checked": 10,
+    "updated": 9,
     "flash": 0
   }
 }
