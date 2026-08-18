@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-18T16:49:36+03:00",
+  "generated_at": "2026-08-18T17:18:45+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 74002632,
+    "used_bytes": 75048794,
     "quota_bytes": 943718400
   },
   "sites": {
@@ -18,7 +18,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi"
+      "message": "utm yanit verdi ama 0 urun"
     },
     "hepsiburada": {
       "ok": true,
@@ -100,9 +100,9 @@
     }
   },
   "critical": {
-    "selected": 15,
-    "checked": 9,
-    "updated": 9,
+    "selected": 12,
+    "checked": 6,
+    "updated": 6,
     "flash": 0
   }
 }
