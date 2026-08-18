@@ -1,38 +1,37 @@
 {
-  "generated_at": "2026-08-18T03:25:05+03:00",
+  "generated_at": "2026-08-18T05:00:51+03:00",
   "added_count": 1,
   "removed_count": 1,
   "reclassified_count": 0,
   "added": [
     {
-      "id": "39564b9c27317c68",
-      "store": "amazon",
-      "name": "Under Armour UA Charged Edge Spor AyakkabıErkek",
-      "url": "https://www.amazon.com.tr/Under-Armour-Erkek-Charged-Sneaker/dp/B0CJT3TXS3/ref=sr_1_11?dib=eyJ2IjoiMSJ9.wbgVd_z4O2eKoWGlVnLOxoBDgwy_D2KTEDryA_djRpVtjK-zOF1NsGkxlMSSSpyK32XMUIiHveF8oID0o8ARUM8IGLDrZSVGNz3Y2ftmHiPYWalRUzLP3DJv5Ir5MiKdu4dlGM6jl9sUSeWQWH9I2hIJaiciQ6oZTtc7VMmc9akGT4C1RM7tSPEws0LsahmOrEuP-nHW9cXiEEqbm0WW45JnFHfyU6u06pfEifbiH2kHZyFcNSgW0Y-BmIl0Xv2fYHcLPxNMEMFXZkza_bfHa2qgW3Gp3myBSHRSXm3F2Qw.t2mx2V9vQqOMB29uhCmcfUrGsHONEevQkGuNlyrmh3s&dib_tag=se&keywords=indirimli&qid=1787012836&sr=8-11",
-      "image": "https://m.media-amazon.com/images/I/41pfnNBmxXL._AC_UL320_.jpg",
-      "price": 3394.99,
-      "old_price": 4249.48,
-      "query": "indirim",
-      "first_seen_at": "2026-08-18T03:25:05+03:00",
-      "last_seen_at": "2026-08-18T03:25:05+03:00",
-      "detected_at": "2026-08-18T03:25:05+03:00",
-      "discount_percent": 20.11,
-      "category": "discount",
-      "baseline_price": 4249.48,
+      "id": "5a1aa0b66b4e83a8",
+      "store": "n11",
+      "name": "Ücretsiz Kargo Ceponya Xiaomi Redmi Note 9 Deri Desenli Kamera Korumali Silikon Kilif 300006850 - Renk-Kampanya / Siyah-Ekrani Full Kaplayan 3D Cam Siyah(+45 Tl (3) 599,78 TL SEPETTE 509,81 TL",
+      "url": "https://www.n11.com/urun/xiaomi-redmi-note-9-deri-desenli-kamera-korumali-silikon-kilif-300006850-renk-kampanya-siyah-ekrani-full-kaplayan-3d-cam-siyah45-tl-31825380?magaza=ceponya&adBidding=true",
+      "image": "https://n11scdn.akamaized.net/a1/216/02/17/55/60/IMG-6737066708056099868.jpg",
+      "price": 45.0,
+      "old_price": 599.78,
+      "query": "kampanya",
+      "first_seen_at": "2026-08-18T05:00:51+03:00",
+      "last_seen_at": "2026-08-18T05:00:51+03:00",
+      "detected_at": "2026-08-18T05:00:51+03:00",
+      "discount_percent": 92.5,
+      "category": "error",
+      "baseline_price": 599.78,
       "baseline_source": "magaza-eski-fiyat",
       "match_group": null,
       "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 4249.48 TL -> 3394.99 TL (%20.1 indirim)",
+      "reason": "magaza-eski-fiyat: 599.78 TL -> 45.00 TL (%92.5 indirim)",
       "seller_name": "",
-      "seller_rating": 3.9,
-      "seller_reliable": false,
-      "verified_at": "2026-08-18T03:27:40+03:00",
-      "flash": 0
+      "seller_rating": null,
+      "seller_reliable": null,
+      "verified_at": "2026-08-18T05:03:17+03:00"
     }
   ],
   "removed": [
     {
-      "id": "7b1c6cb0a6ad2d22",
+      "id": "39564b9c27317c68",
       "store": "amazon",
       "name": "Under Armour UA Charged Edge Spor AyakkabıErkek"
     }
