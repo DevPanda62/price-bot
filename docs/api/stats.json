@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T00:54:57+03:00",
+  "generated_at": "2026-08-20T01:33:57+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -22,10 +22,10 @@
     },
     "hepsiburada": {
       "ok": true,
-      "product_count": 2,
+      "product_count": 1,
       "categories": {
         "normal": 0,
-        "discount": 2,
+        "discount": 1,
         "error": 0
       },
       "message": ""
@@ -92,17 +92,17 @@
     }
   },
   "totals": {
-    "products": 2,
+    "products": 1,
     "categories": {
       "normal": 0,
-      "discount": 2,
+      "discount": 1,
       "error": 0
     }
   },
   "critical": {
-    "selected": 13,
-    "checked": 7,
-    "updated": 7,
+    "selected": 14,
+    "checked": 5,
+    "updated": 5,
     "flash": 0
   }
 }

@@ -9,8 +9,8 @@
     "old_price": 4999.0,
     "query": "cok satan",
     "first_seen_at": "2026-08-16T10:45:41+03:00",
-    "last_seen_at": "2026-08-20T00:54:57+03:00",
-    "detected_at": "2026-08-20T00:54:57+03:00",
+    "last_seen_at": "2026-08-20T01:33:57+03:00",
+    "detected_at": "2026-08-20T01:33:57+03:00",
     "discount_percent": 10.0,
     "category": "discount",
     "baseline_price": 4999.0,
@@ -21,29 +21,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-08-20T00:57:20+03:00"
-  },
-  {
-    "id": "569e54453b292520",
-    "store": "hepsiburada",
-    "name": "Lenovo Ideapad Slim 3 AMD Ryzen 5 40 16GB 512GB SSD Freedos 15.6\" FHD Taşınabilir Bilgisayar 82XQ01D3TX Kampanya: Peşin fiyatına 6 x 4.666 TL Peşin fiyatına 6 x 4.666 TL Sepete özel 29.472,64 TL 27.999 ,01 TL",
-    "url": "https://www.hepsiburada.com/lenovo-ideapad-slim-3-amd-ryzen-5-40-16gb-512gb-ssd-freedos-15-6-fhd-tasinabilir-bilgisayar-82xq01d3tx-p-HBCV0000FHFBWA?magaza=Hepsiburada",
-    "image": "",
-    "price": 27996.0,
-    "old_price": 27999.01,
-    "query": "kampanya",
-    "first_seen_at": "2026-08-18T22:44:05+03:00",
-    "last_seen_at": "2026-08-20T00:54:57+03:00",
-    "detected_at": "2026-08-20T00:54:57+03:00",
-    "discount_percent": 5.01,
-    "category": "discount",
-    "baseline_price": 29472.64,
-    "baseline_source": "onceki-fiyat",
-    "match_group": null,
-    "matched_stores": [],
-    "reason": "onceki-fiyat: 29472.64 TL -> 27996.00 TL (%5.0 indirim)",
-    "seller_name": "Lenovo",
-    "seller_rating": null,
-    "seller_reliable": null
+    "verified_at": "2026-08-20T01:36:17+03:00"
   }
 ]
