@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T06:02:59+03:00",
+  "generated_at": "2026-08-19T06:52:12+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -78,7 +78,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
+      "message": "utm bekliyor (59 dk)"
     },
     "amazon": {
       "ok": true,
