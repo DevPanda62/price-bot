@@ -1,9 +1,40 @@
 {
-  "generated_at": "2026-08-20T18:47:01+03:00",
-  "added_count": 0,
+  "generated_at": "2026-08-20T19:15:51+03:00",
+  "added_count": 1,
   "removed_count": 0,
   "reclassified_count": 0,
-  "added": [],
+  "added": [
+    {
+      "id": "bc247c470eaa67d7",
+      "store": "n11",
+      "name": "Ücretsiz Kargo NOVATECNO Bestway 34106 Kruvazor/Uzay Gemisi Çocuk Bot Firsat Çok Renkli (0) 1.349 TL SEPETTE 1.187,12 TL",
+      "url": "https://www.n11.com/urun/bestway-34106-kruvazoruzay-gemisi-cocuk-bot-firsat-cok-renkli-4006584?magaza=novatecno&adBidding=true",
+      "image": "https://n11scdn.akamaized.net/a1/216/15/37/91/08/IMG-1986106494640716337.jpg",
+      "price": 1187.12,
+      "old_price": 1349.0,
+      "query": "firsat",
+      "first_seen_at": "2026-08-20T19:15:51+03:00",
+      "last_seen_at": "2026-08-20T19:15:51+03:00",
+      "detected_at": "2026-08-20T19:15:51+03:00",
+      "discount_percent": 12.0,
+      "category": "discount",
+      "baseline_price": 1349.0,
+      "baseline_source": "magaza-eski-fiyat",
+      "match_group": "g00004",
+      "matched_stores": [
+        {
+          "store": "n11",
+          "price": 1260.56,
+          "url": "https://www.n11.com/urun/bestway-34106-kruvazoruzay-gemisi-cocuk-bot-firsat-cok-renkli-4006584?magaza=nicolebaby&adBidding=true"
+        }
+      ],
+      "reason": "magaza-eski-fiyat: 1349.00 TL -> 1187.12 TL (%12.0 indirim)",
+      "seller_name": "",
+      "seller_rating": null,
+      "seller_reliable": null,
+      "verified_at": "2026-08-20T19:19:36+03:00"
+    }
+  ],
   "removed": [],
   "reclassified": []
 }
