@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T01:58:43+03:00",
+  "generated_at": "2026-08-21T02:27:16+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -68,7 +68,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece: proxysiz trick 32 dk sonra"
+      "message": "gece: proxysiz trick 4 dk sonra"
     },
     "vatan": {
       "ok": false,
@@ -100,7 +100,7 @@
     }
   },
   "critical": {
-    "selected": 12,
+    "selected": 14,
     "checked": 5,
     "updated": 5,
     "flash": 0
