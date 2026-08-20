@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-20T08:18:30+03:00",
-  "heartbeat_at": "2026-08-20T08:21:17+03:00",
+  "last_run": "2026-08-20T08:50:56+03:00",
+  "heartbeat_at": "2026-08-20T08:53:35+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -123,9 +123,9 @@
     "teknosa": "chrome124"
   },
   "critical": {
-    "selected": 13,
-    "checked": 5,
-    "updated": 5,
+    "selected": 11,
+    "checked": 6,
+    "updated": 6,
     "flash": 0
   }
 }
