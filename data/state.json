@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-21T02:27:16+03:00",
-  "heartbeat_at": "2026-08-21T02:29:43+03:00",
+  "last_run": "2026-08-21T02:51:21+03:00",
+  "heartbeat_at": "2026-08-21T02:56:20+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -53,14 +53,14 @@
       "message": "0 urun (indirim yok olabilir)"
     },
     "teknosa": {
-      "ok": false,
+      "ok": true,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": "gece: proxysiz trick 4 dk sonra"
+      "message": "gece trick ile tarandi (proxysiz)"
     },
     "vatan": {
       "ok": false,
@@ -114,7 +114,7 @@
     "trendyol": "2026-08-20T18:08:05+03:00",
     "n11": "2026-08-18T05:54:22+03:00",
     "ciceksepeti": "2026-08-14T02:27:16+03:00",
-    "teknosa": "2026-08-21T01:31:34+03:00"
+    "teknosa": "2026-08-21T02:51:21+03:00"
   },
   "utm_prof": {
     "trendyol": "safari17_0",
@@ -123,7 +123,7 @@
     "teknosa": "safari17_0"
   },
   "critical": {
-    "selected": 14,
+    "selected": 16,
     "checked": 5,
     "updated": 5,
     "flash": 0
