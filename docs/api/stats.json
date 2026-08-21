@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T18:53:03+03:00",
+  "generated_at": "2026-08-21T19:18:09+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -18,7 +18,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (26 dk)"
+      "message": "utm bekliyor (1 dk)"
     },
     "hepsiburada": {
       "ok": true,
