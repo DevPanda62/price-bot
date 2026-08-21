@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-21T02:51:21+03:00",
-  "heartbeat_at": "2026-08-21T02:56:20+03:00",
+  "last_run": "2026-08-21T03:27:10+03:00",
+  "heartbeat_at": "2026-08-21T03:29:39+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -53,14 +53,14 @@
       "message": "0 urun (indirim yok olabilir)"
     },
     "teknosa": {
-      "ok": true,
+      "ok": false,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": "gece trick ile tarandi (proxysiz)"
+      "message": "gece: proxysiz trick 24 dk sonra"
     },
     "vatan": {
       "ok": false,
@@ -123,7 +123,7 @@
     "teknosa": "safari17_0"
   },
   "critical": {
-    "selected": 16,
+    "selected": 14,
     "checked": 5,
     "updated": 5,
     "flash": 0
