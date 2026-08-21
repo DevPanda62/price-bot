@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-21T13:58:16+03:00",
-  "heartbeat_at": "2026-08-21T14:00:44+03:00",
+  "last_run": "2026-08-21T14:29:10+03:00",
+  "heartbeat_at": "2026-08-21T14:31:38+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -122,7 +122,7 @@
     "ciceksepeti": "chrome124"
   },
   "critical": {
-    "selected": 11,
+    "selected": 13,
     "checked": 4,
     "updated": 4,
     "flash": 0
