@@ -1,12 +1,12 @@
 {
   "name": "firsat-api",
   "description": "Trendyol, Hepsiburada, N11, CicekSepeti, MediaMarkt, Teknosa, Vatan Bilgisayar, Amazon taramasi",
-  "generated_at": "2026-08-21T15:29:21+03:00",
+  "generated_at": "2026-08-21T16:27:12+03:00",
   "totals": {
-    "products": 2,
+    "products": 1,
     "categories": {
       "normal": 0,
-      "discount": 2,
+      "discount": 1,
       "error": 0
     }
   },
