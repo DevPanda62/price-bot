@@ -1,9 +1,35 @@
 {
-  "generated_at": "2026-08-21T08:52:39+03:00",
-  "added_count": 0,
+  "generated_at": "2026-08-21T09:22:52+03:00",
+  "added_count": 1,
   "removed_count": 0,
   "reclassified_count": 0,
-  "added": [],
+  "added": [
+    {
+      "id": "14c1bcded6c33ea9",
+      "store": "hepsiburada",
+      "name": "Kioxia 32GB Exceria MicroSDHC UHS-1 Class-10 100MB/sn Hafıza Kartı (LMEX1L032GG2)",
+      "url": "https://www.hepsiburada.com/kioxia-32gb-exceria-microsdhc-uhs-1-class-10-100mb-sn-hafiza-karti-lmex1l032gg2-p-HBV00001BUQ6N?magaza=Hepsiburada",
+      "image": "",
+      "price": 699.0,
+      "old_price": 746.71,
+      "query": "kampanya",
+      "first_seen_at": "2026-08-21T09:22:52+03:00",
+      "last_seen_at": "2026-08-21T09:22:52+03:00",
+      "detected_at": "2026-08-21T09:22:52+03:00",
+      "discount_percent": 6.39,
+      "category": "discount",
+      "baseline_price": 746.71,
+      "baseline_source": "magaza-eski-fiyat",
+      "match_group": null,
+      "matched_stores": [],
+      "reason": "magaza-eski-fiyat: 746.71 TL -> 699.00 TL (%6.4 indirim)",
+      "seller_name": "Kioxia",
+      "seller_rating": 4.8,
+      "seller_reliable": true,
+      "verified_at": "2026-08-21T09:25:13+03:00",
+      "flash": 0
+    }
+  ],
   "removed": [],
   "reclassified": []
 }
