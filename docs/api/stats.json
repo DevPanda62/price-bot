@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T06:14:16+03:00",
+  "generated_at": "2026-08-21T07:03:12+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -68,7 +68,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
+      "message": "utm bekliyor (59 dk)"
     },
     "vatan": {
       "ok": false,
@@ -78,7 +78,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
+      "message": "utm bekliyor (59 dk)"
     },
     "amazon": {
       "ok": true,
@@ -100,9 +100,9 @@
     }
   },
   "critical": {
-    "selected": 14,
-    "checked": 9,
-    "updated": 9,
+    "selected": 12,
+    "checked": 6,
+    "updated": 6,
     "flash": 0
   }
 }
