@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-22T20:38:22+03:00",
-  "heartbeat_at": "2026-08-22T20:43:19+03:00",
+  "last_run": "2026-08-22T20:56:14+03:00",
+  "heartbeat_at": "2026-08-22T20:58:49+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -80,7 +80,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "proxy ile tarandi"
+      "message": ""
     }
   },
   "totals": {
@@ -107,7 +107,7 @@
     "teknosa": "skipped",
     "vatan": "skipped",
     "mediamarkt": "normal",
-    "amazon": "proxy"
+    "amazon": "normal"
   },
   "utm_last": {
     "hepsiburada": "2026-08-11T23:19:37+03:00",
@@ -126,8 +126,8 @@
   },
   "critical": {
     "selected": 13,
-    "checked": 5,
-    "updated": 5,
+    "checked": 6,
+    "updated": 6,
     "flash": 0
   }
 }
