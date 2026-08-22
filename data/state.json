@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-22T18:28:10+03:00",
-  "heartbeat_at": "2026-08-22T18:34:58+03:00",
+  "last_run": "2026-08-22T18:47:58+03:00",
+  "heartbeat_at": "2026-08-22T18:51:38+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -10,7 +10,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm yanit verdi ama 0 urun"
+      "message": "utm bekliyor (40 dk)"
     },
     "hepsiburada": {
       "ok": true,
