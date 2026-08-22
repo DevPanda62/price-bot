@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-22T08:42:46+03:00",
-  "heartbeat_at": "2026-08-22T08:46:06+03:00",
+  "last_run": "2026-08-22T09:01:26+03:00",
+  "heartbeat_at": "2026-08-22T09:04:16+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -14,13 +14,13 @@
     },
     "hepsiburada": {
       "ok": true,
-      "product_count": 0,
+      "product_count": 1,
       "categories": {
         "normal": 0,
-        "discount": 0,
+        "discount": 1,
         "error": 0
       },
-      "message": "proxy ile tarandi"
+      "message": ""
     },
     "n11": {
       "ok": true,
@@ -84,10 +84,10 @@
     }
   },
   "totals": {
-    "products": 0,
+    "products": 1,
     "categories": {
       "normal": 0,
-      "discount": 0,
+      "discount": 1,
       "error": 0
     }
   },
@@ -100,7 +100,7 @@
   },
   "modes": {
     "trendyol": "skipped",
-    "hepsiburada": "proxy",
+    "hepsiburada": "normal",
     "n11": "normal",
     "ciceksepeti": "proxy",
     "teknosa": "skipped",
@@ -124,7 +124,7 @@
     "teknosa": "chrome124"
   },
   "critical": {
-    "selected": 12,
+    "selected": 13,
     "checked": 8,
     "updated": 8,
     "flash": 0
