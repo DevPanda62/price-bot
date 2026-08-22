@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "d8d6755b84eabb5d",
+    "store": "hepsiburada",
+    "name": "İYİSİYOK Çift Piston Hava Kompresörü Araba Bot Bisiklet Top Balon Lastik Şişirme Pompası",
+    "url": "https://www.hepsiburada.com/cift-piston-hava-kompresoru-araba-bot-bisiklet-top-balon-lastik-sisirme-pompasi-pm-HBC00009HSF44?magaza=ÇOK SATAN",
+    "image": "https://productimages.hepsiburada.net/s/777/222-222/110001125664185.jpg",
+    "price": 4499.1,
+    "old_price": 4999.0,
+    "query": "cok satan",
+    "first_seen_at": "2026-08-22T23:44:25+03:00",
+    "last_seen_at": "2026-08-22T23:44:25+03:00",
+    "detected_at": "2026-08-22T23:44:25+03:00",
+    "discount_percent": 10.0,
+    "category": "discount",
+    "baseline_price": 4999.0,
+    "baseline_source": "magaza-eski-fiyat",
+    "match_group": null,
+    "matched_stores": [],
+    "reason": "magaza-eski-fiyat: 4999.00 TL -> 4499.10 TL (%10.0 indirim)",
+    "seller_name": "",
+    "seller_rating": null,
+    "seller_reliable": null,
+    "verified_at": "2026-08-22T23:46:57+03:00"
+  }
+]
