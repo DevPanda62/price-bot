@@ -1,34 +1,9 @@
 {
-  "generated_at": "2026-08-23T00:30:23+03:00",
-  "added_count": 1,
+  "generated_at": "2026-08-23T00:49:27+03:00",
+  "added_count": 0,
   "removed_count": 0,
   "reclassified_count": 0,
-  "added": [
-    {
-      "id": "5f62fe26217cd5e1",
-      "store": "n11",
-      "name": "Ücretsiz Kargo GURKSTORE Siyah 2 Kademeli Katlanabilir Ve Yapışkanlı Laptop Standı (0) 430 TL SEPETTE 391,30 TL",
-      "url": "https://www.n11.com/urun/siyah-2-kademeli-katlanabilir-ve-yapiskanli-laptop-standi-121471006?magaza=gurkstore&adBidding=true",
-      "image": "https://n11scdn.akamaized.net/a1/216/07/79/99/20/IMG-5430157896611392878.jpg",
-      "price": 391.3,
-      "old_price": 430.0,
-      "query": "firsat",
-      "first_seen_at": "2026-08-23T00:30:23+03:00",
-      "last_seen_at": "2026-08-23T00:30:23+03:00",
-      "detected_at": "2026-08-23T00:30:23+03:00",
-      "discount_percent": 9.0,
-      "category": "discount",
-      "baseline_price": 430.0,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": null,
-      "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 430.00 TL -> 391.30 TL (%9.0 indirim)",
-      "seller_name": "",
-      "seller_rating": null,
-      "seller_reliable": null,
-      "verified_at": "2026-08-23T00:32:52+03:00"
-    }
-  ],
+  "added": [],
   "removed": [],
   "reclassified": []
 }

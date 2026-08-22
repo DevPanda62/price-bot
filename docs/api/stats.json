@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-23T00:30:23+03:00",
+  "generated_at": "2026-08-23T00:49:27+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 102236492,
+    "used_bytes": 103593515,
     "quota_bytes": 943718400
   },
   "sites": {
@@ -88,7 +88,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": ""
+      "message": "proxy ile tarandi"
     }
   },
   "totals": {
@@ -100,9 +100,9 @@
     }
   },
   "critical": {
-    "selected": 14,
-    "checked": 5,
-    "updated": 5,
+    "selected": 13,
+    "checked": 4,
+    "updated": 4,
     "flash": 0
   }
 }
