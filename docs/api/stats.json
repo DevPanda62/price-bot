@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T00:49:27+03:00",
+  "generated_at": "2026-08-23T01:01:36+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -81,14 +81,14 @@
       "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "amazon": {
-      "ok": true,
+      "ok": false,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": "proxy ile tarandi"
+      "message": "proxy taramasi bekleniyor (17 dk)"
     }
   },
   "totals": {
@@ -100,7 +100,7 @@
     }
   },
   "critical": {
-    "selected": 13,
+    "selected": 10,
     "checked": 4,
     "updated": 4,
     "flash": 0
