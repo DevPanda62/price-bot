@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-24T01:12:26+03:00",
-  "heartbeat_at": "2026-08-24T01:15:00+03:00",
+  "last_run": "2026-08-24T01:38:26+03:00",
+  "heartbeat_at": "2026-08-24T01:41:05+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -27,8 +27,8 @@
       "product_count": 1,
       "categories": {
         "normal": 0,
-        "discount": 0,
-        "error": 1
+        "discount": 1,
+        "error": 0
       },
       "message": ""
     },
@@ -87,8 +87,8 @@
     "products": 2,
     "categories": {
       "normal": 0,
-      "discount": 1,
-      "error": 1
+      "discount": 2,
+      "error": 0
     }
   },
   "proxy_last": {

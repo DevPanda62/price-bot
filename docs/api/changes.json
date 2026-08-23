@@ -1,9 +1,18 @@
 {
-  "generated_at": "2026-08-24T01:12:26+03:00",
+  "generated_at": "2026-08-24T01:38:26+03:00",
   "added_count": 0,
   "removed_count": 0,
-  "reclassified_count": 0,
+  "reclassified_count": 1,
   "added": [],
   "removed": [],
-  "reclassified": []
+  "reclassified": [
+    {
+      "id": "5f62fe26217cd5e1",
+      "store": "n11",
+      "name": "Ücretsiz Kargo GURKSTORE Siyah 2 Kademeli Katlanabilir Ve Yapışkanlı Laptop Standı (0) 430 TL SEPETTE 391,30 TL",
+      "from": "error",
+      "to": "discount",
+      "discount_percent": 9.0
+    }
+  ]
 }
