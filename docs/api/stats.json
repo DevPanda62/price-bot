@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T07:47:43+03:00",
+  "generated_at": "2026-08-23T08:16:12+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -68,7 +68,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm yanit verdi ama 0 urun"
+      "message": "utm bekliyor (31 dk)"
     },
     "vatan": {
       "ok": false,
@@ -78,7 +78,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (14 dk)"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "amazon": {
       "ok": true,
@@ -100,7 +100,7 @@
     }
   },
   "critical": {
-    "selected": 12,
+    "selected": 13,
     "checked": 4,
     "updated": 4,
     "flash": 0
