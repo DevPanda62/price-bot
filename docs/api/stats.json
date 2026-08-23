@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T20:29:41+03:00",
+  "generated_at": "2026-08-23T20:49:06+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -18,7 +18,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi (ultra trick mode de basarisiz)"
+      "message": "pas gecildi"
     },
     "hepsiburada": {
       "ok": true,
@@ -100,7 +100,7 @@
     }
   },
   "critical": {
-    "selected": 11,
+    "selected": 12,
     "checked": 4,
     "updated": 4,
     "flash": 0
