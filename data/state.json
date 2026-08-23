@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-23T08:16:12+03:00",
-  "heartbeat_at": "2026-08-23T08:25:49+03:00",
+  "last_run": "2026-08-23T08:48:14+03:00",
+  "heartbeat_at": "2026-08-23T08:51:14+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -60,7 +60,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (31 dk)"
+      "message": "utm yanit verdi ama 0 urun"
     },
     "vatan": {
       "ok": false,
@@ -70,7 +70,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi (ultra trick mode de basarisiz)"
+      "message": "pas gecildi"
     },
     "amazon": {
       "ok": true,
@@ -95,7 +95,7 @@
     "trendyol": "2026-08-22T18:28:10+03:00",
     "n11": "2026-08-22T10:52:13+03:00",
     "ciceksepeti": "2026-08-14T14:59:31+03:00",
-    "teknosa": "2026-08-23T07:47:43+03:00",
+    "teknosa": "2026-08-23T08:48:14+03:00",
     "hepsiburada": "2026-08-22T08:42:46+03:00",
     "amazon": "2026-08-23T00:49:27+03:00"
   },
@@ -116,7 +116,7 @@
     "trendyol": "2026-08-22T18:28:10+03:00",
     "n11": "2026-08-18T05:54:22+03:00",
     "ciceksepeti": "2026-08-14T02:27:16+03:00",
-    "teknosa": "2026-08-23T07:47:43+03:00"
+    "teknosa": "2026-08-23T08:48:14+03:00"
   },
   "utm_prof": {
     "trendyol": "safari17_0",
@@ -125,7 +125,7 @@
     "teknosa": "chrome124"
   },
   "critical": {
-    "selected": 13,
+    "selected": 12,
     "checked": 4,
     "updated": 4,
     "flash": 0
