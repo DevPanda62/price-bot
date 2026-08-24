@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T06:35:19+03:00",
+  "generated_at": "2026-08-24T07:25:42+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -78,7 +78,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "amazon": {
       "ok": true,
