@@ -9,8 +9,8 @@
     "old_price": 429.6,
     "query": "kampanya",
     "first_seen_at": "2026-08-24T22:39:19+03:00",
-    "last_seen_at": "2026-08-24T23:01:30+03:00",
-    "detected_at": "2026-08-24T23:01:30+03:00",
+    "last_seen_at": "2026-08-24T23:40:50+03:00",
+    "detected_at": "2026-08-24T23:40:50+03:00",
     "discount_percent": 14.0,
     "category": "discount",
     "baseline_price": 429.6,
@@ -18,9 +18,10 @@
     "match_group": null,
     "matched_stores": [],
     "reason": "magaza-eski-fiyat: 429.60 TL -> 369.46 TL (%14.0 indirim)",
-    "seller_name": "",
-    "seller_rating": null,
-    "seller_reliable": null,
-    "verified_at": "2026-08-24T23:04:09+03:00"
+    "seller_name": "heptekaksesuar",
+    "seller_rating": 4.5,
+    "seller_reliable": true,
+    "verified_at": "2026-08-24T23:44:44+03:00",
+    "flash": 0
   }
 ]
