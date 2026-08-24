@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T20:20:39+03:00",
+  "generated_at": "2026-08-24T20:52:07+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -18,7 +18,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (32 dk)"
+      "message": "utm bekliyor (1 dk)"
     },
     "hepsiburada": {
       "ok": true,
@@ -32,10 +32,10 @@
     },
     "n11": {
       "ok": true,
-      "product_count": 1,
+      "product_count": 0,
       "categories": {
         "normal": 0,
-        "discount": 1,
+        "discount": 0,
         "error": 0
       },
       "message": ""
@@ -92,17 +92,17 @@
     }
   },
   "totals": {
-    "products": 2,
+    "products": 1,
     "categories": {
       "normal": 0,
-      "discount": 2,
+      "discount": 1,
       "error": 0
     }
   },
   "critical": {
     "selected": 15,
-    "checked": 5,
-    "updated": 5,
+    "checked": 7,
+    "updated": 7,
     "flash": 0
   }
 }
