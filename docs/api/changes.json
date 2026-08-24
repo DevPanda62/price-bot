@@ -1,9 +1,15 @@
 {
-  "generated_at": "2026-08-24T13:49:40+03:00",
+  "generated_at": "2026-08-24T14:15:07+03:00",
   "added_count": 0,
-  "removed_count": 0,
+  "removed_count": 1,
   "reclassified_count": 0,
   "added": [],
-  "removed": [],
+  "removed": [
+    {
+      "id": "f1f20fa1479df9d6",
+      "store": "n11",
+      "name": "Samsung Uyumlu Galaxy Tab A7 Lite T220 Kılıf Çocuklara Özel Tablet Kılıf (521889297)"
+    }
+  ],
   "reclassified": []
 }
