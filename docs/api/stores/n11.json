@@ -4,13 +4,13 @@
     "store": "n11",
     "name": "Samsung Uyumlu Galaxy Tab A7 Lite T220 Kılıf Çocuklara Özel Tablet Kılıf (521889297)",
     "url": "https://www.n11.com/urun/samsung-uyumlu-galaxy-tab-a7-lite-t220-kilif-cocuklara-ozel-tablet-kilif-521889297-20294020",
-    "image": "https://n11scdn.akamaized.net/a1/org/25/10/15/65/47/15/92/47/06/78/14/12/5549709177890585707.png",
+    "image": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2016%2016'%3E%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'%23ffffff'%2F%3E%3C%2Fsvg%3E",
     "price": 369.46,
     "old_price": 429.6,
     "query": "kampanya",
     "first_seen_at": "2026-08-24T22:39:19+03:00",
-    "last_seen_at": "2026-08-25T01:57:33+03:00",
-    "detected_at": "2026-08-25T01:57:33+03:00",
+    "last_seen_at": "2026-08-25T02:23:08+03:00",
+    "detected_at": "2026-08-25T02:23:08+03:00",
     "discount_percent": 14.0,
     "category": "discount",
     "baseline_price": 429.6,
@@ -21,6 +21,6 @@
     "seller_name": "heptekaksesuar",
     "seller_rating": 4.5,
     "seller_reliable": true,
-    "verified_at": "2026-08-25T01:59:36+03:00"
+    "verified_at": "2026-08-25T02:25:17+03:00"
   }
 ]
