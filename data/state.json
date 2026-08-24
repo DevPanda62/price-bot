@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-24T17:06:06+03:00",
-  "heartbeat_at": "2026-08-24T17:08:58+03:00",
+  "last_run": "2026-08-24T17:55:28+03:00",
+  "heartbeat_at": "2026-08-24T17:58:28+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -24,10 +24,10 @@
     },
     "n11": {
       "ok": true,
-      "product_count": 1,
+      "product_count": 0,
       "categories": {
         "normal": 0,
-        "discount": 1,
+        "discount": 0,
         "error": 0
       },
       "message": ""
@@ -84,10 +84,10 @@
     }
   },
   "totals": {
-    "products": 2,
+    "products": 1,
     "categories": {
       "normal": 0,
-      "discount": 2,
+      "discount": 1,
       "error": 0
     }
   },
