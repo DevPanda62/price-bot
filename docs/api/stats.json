@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-24T08:10:40+03:00",
+  "generated_at": "2026-08-24T08:53:03+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 105563742,
+    "used_bytes": 106089526,
     "quota_bytes": 943718400
   },
   "sites": {
@@ -68,7 +68,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi"
+      "message": "utm yanit verdi ama 0 urun"
     },
     "vatan": {
       "ok": false,
