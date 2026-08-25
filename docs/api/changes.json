@@ -1,9 +1,40 @@
 {
-  "generated_at": "2026-08-26T00:57:43+03:00",
-  "added_count": 0,
-  "removed_count": 0,
+  "generated_at": "2026-08-26T01:27:35+03:00",
+  "added_count": 1,
+  "removed_count": 1,
   "reclassified_count": 0,
-  "added": [],
-  "removed": [],
+  "added": [
+    {
+      "id": "3eb6781ccb8045d2",
+      "store": "n11",
+      "name": "Ücretsiz Kargo TRENDYPAZARS Kablosuz Kulaklık Ve Pembe Askılı Çanta Charm Analog Saat Kampanya Seti - Lisinya (0) 1.709,75 TL SEPETTE 1.538,77 TL",
+      "url": "https://www.n11.com/urun/kablosuz-kulaklik-ve-pembe-askili-canta-charm-analog-saat-kampanya-seti-lisinya-135985361?magaza=trendypazars&adBidding=true",
+      "image": "https://n11scdn.akamaized.net/a1/216/03/52/22/03/IMG-7216647562937096450.jpg",
+      "price": 1538.77,
+      "old_price": 1709.75,
+      "query": "kampanya",
+      "first_seen_at": "2026-08-26T01:27:35+03:00",
+      "last_seen_at": "2026-08-26T01:27:35+03:00",
+      "detected_at": "2026-08-26T01:27:35+03:00",
+      "discount_percent": 10.0,
+      "category": "discount",
+      "baseline_price": 1709.75,
+      "baseline_source": "magaza-eski-fiyat",
+      "match_group": null,
+      "matched_stores": [],
+      "reason": "magaza-eski-fiyat: 1709.75 TL -> 1538.77 TL (%10.0 indirim)",
+      "seller_name": "",
+      "seller_rating": null,
+      "seller_reliable": null,
+      "verified_at": "2026-08-26T01:29:55+03:00"
+    }
+  ],
+  "removed": [
+    {
+      "id": "f1f20fa1479df9d6",
+      "store": "n11",
+      "name": "Samsung Uyumlu Galaxy Tab A7 Lite T220 Kılıf Çocuklara Özel Tablet Kılıf (521889297)"
+    }
+  ],
   "reclassified": []
 }
