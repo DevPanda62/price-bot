@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T12:33:20+03:00",
+  "generated_at": "2026-08-25T13:03:49+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -68,7 +68,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm yanit verdi ama 0 urun"
+      "message": "utm bekliyor (29 dk)"
     },
     "vatan": {
       "ok": false,

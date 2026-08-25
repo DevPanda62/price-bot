@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-25T12:33:20+03:00",
-  "heartbeat_at": "2026-08-25T12:36:41+03:00",
+  "last_run": "2026-08-25T13:03:49+03:00",
+  "heartbeat_at": "2026-08-25T13:06:54+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -60,7 +60,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm yanit verdi ama 0 urun"
+      "message": "utm bekliyor (29 dk)"
     },
     "vatan": {
       "ok": false,
