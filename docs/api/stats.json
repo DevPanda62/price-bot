@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-25T20:52:44+03:00",
+  "generated_at": "2026-08-25T21:20:13+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 114296921,
+    "used_bytes": 128495592,
     "quota_bytes": 943718400
   },
   "sites": {
@@ -18,24 +18,24 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (1 dk)"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "hepsiburada": {
       "ok": true,
-      "product_count": 1,
+      "product_count": 2,
       "categories": {
         "normal": 0,
-        "discount": 1,
+        "discount": 2,
         "error": 0
       },
-      "message": ""
+      "message": "proxy ile tarandi"
     },
     "n11": {
       "ok": true,
-      "product_count": 1,
+      "product_count": 0,
       "categories": {
         "normal": 0,
-        "discount": 1,
+        "discount": 0,
         "error": 0
       },
       "message": ""
@@ -100,9 +100,9 @@
     }
   },
   "critical": {
-    "selected": 17,
-    "checked": 7,
-    "updated": 7,
+    "selected": 15,
+    "checked": 3,
+    "updated": 3,
     "flash": 0
   }
 }
