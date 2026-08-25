@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-08-26T02:21:40+03:00",
+  "generated_at": "2026-08-26T02:44:35+03:00",
   "added_count": 1,
   "removed_count": 1,
   "reclassified_count": 0,
   "added": [
     {
-      "id": "f1f20fa1479df9d6",
+      "id": "3aa8e802bd10711d",
       "store": "n11",
-      "name": "Samsung Uyumlu Galaxy Tab A7 Lite T220 Kılıf Çocuklara Özel Tablet Kılıf (521889297)",
-      "url": "https://www.n11.com/urun/samsung-uyumlu-galaxy-tab-a7-lite-t220-kilif-cocuklara-ozel-tablet-kilif-521889297-20294020",
-      "image": "https://n11scdn.akamaized.net/a1/org/25/10/15/65/47/15/92/47/06/78/14/12/5549709177890585707.png",
-      "price": 369.46,
-      "old_price": 429.6,
-      "query": "kampanya",
-      "first_seen_at": "2026-08-26T02:21:40+03:00",
-      "last_seen_at": "2026-08-26T02:21:40+03:00",
-      "detected_at": "2026-08-26T02:21:40+03:00",
-      "discount_percent": 14.0,
+      "name": "Ücretsiz Kargo hepuygunn Pilli Işıklı Müzikli Kar Küresi-iki Geyikli Yeşil Figürlü Eğlenceli Masaüstü Biblo, Led Aydınlatmalı Dekoratif Hediyelik Kar Küresi (0) 708,70 TL",
+      "url": "https://www.n11.com/urun/pilli-isikli-muzikli-kar-kuresi-iki-geyikli-yesil-figurlu-eglenceli-masaustu-biblo-led-aydinlatmali-dekoratif-hediyelik-kar-kuresi-119177969?magaza=hepuygunn&adBidding=true",
+      "image": "https://n11scdn.akamaized.net/a1/216/15/87/39/62/IMG-6897148043540956309.jpg",
+      "price": 405.06,
+      "old_price": 599.0,
+      "query": "firsat",
+      "first_seen_at": "2026-08-26T02:44:35+03:00",
+      "last_seen_at": "2026-08-26T02:44:35+03:00",
+      "detected_at": "2026-08-26T02:44:35+03:00",
+      "discount_percent": 32.38,
       "category": "discount",
-      "baseline_price": 429.6,
+      "baseline_price": 599.0,
       "baseline_source": "magaza-eski-fiyat",
       "match_group": null,
       "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 429.60 TL -> 369.46 TL (%14.0 indirim)",
+      "reason": "magaza-eski-fiyat: 599.00 TL -> 405.06 TL (%32.4 indirim)",
       "seller_name": "",
       "seller_rating": null,
       "seller_reliable": null,
-      "verified_at": "2026-08-26T02:24:21+03:00"
+      "verified_at": "2026-08-26T02:46:57+03:00"
     }
   ],
   "removed": [
     {
-      "id": "77fb003859faed25",
+      "id": "f1f20fa1479df9d6",
       "store": "n11",
-      "name": "Ücretsiz Kargo KılıfFuarı Apple Uyumlu iPhone 14 Kilif Cüzdanli Standli Miknatisli Kapak 412765899 - Renk-Kampanya / Kirmizi-25 Tl Farkla 1 Adet Kılıf 31839237 (0) 499,90 TL"
+      "name": "Samsung Uyumlu Galaxy Tab A7 Lite T220 Kılıf Çocuklara Özel Tablet Kılıf (521889297)"
     }
   ],
   "reclassified": []
