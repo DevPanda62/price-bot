@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T17:50:47+03:00",
+  "generated_at": "2026-08-25T18:30:18+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -32,10 +32,10 @@
     },
     "n11": {
       "ok": true,
-      "product_count": 1,
+      "product_count": 0,
       "categories": {
         "normal": 0,
-        "discount": 1,
+        "discount": 0,
         "error": 0
       },
       "message": ""
@@ -92,15 +92,15 @@
     }
   },
   "totals": {
-    "products": 2,
+    "products": 1,
     "categories": {
       "normal": 0,
-      "discount": 2,
+      "discount": 1,
       "error": 0
     }
   },
   "critical": {
-    "selected": 12,
+    "selected": 14,
     "checked": 5,
     "updated": 5,
     "flash": 0
