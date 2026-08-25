@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "77fb003859faed25",
+    "store": "n11",
+    "name": "Ücretsiz Kargo KılıfFuarı Apple Uyumlu iPhone 14 Kilif Cüzdanli Standli Miknatisli Kapak 412765899 - Renk-Kampanya / Kirmizi-25 Tl Farkla 1 Adet Kılıf 31839237 (0) 499,90 TL",
+    "url": "https://www.n11.com/urun/apple-uyumlu-iphone-14-kilif-cuzdanli-standli-miknatisli-kapak-412765899-renk-kampanya-kirmizi-25-tl-farkla-1-adet-kilif-31839237-31839237?magaza=kiliffuari&adBidding=true",
+    "image": "https://n11scdn.akamaized.net/a1/216/06/55/81/28/IMG-2553804394844060988.jpg",
+    "price": 25.0,
+    "old_price": 499.9,
+    "query": "kampanya",
+    "first_seen_at": "2026-08-26T01:56:11+03:00",
+    "last_seen_at": "2026-08-26T01:56:11+03:00",
+    "detected_at": "2026-08-26T01:56:11+03:00",
+    "discount_percent": 95.0,
+    "category": "error",
+    "baseline_price": 499.9,
+    "baseline_source": "magaza-eski-fiyat",
+    "match_group": null,
+    "matched_stores": [],
+    "reason": "magaza-eski-fiyat: 499.90 TL -> 25.00 TL (%95.0 indirim)",
+    "seller_name": "",
+    "seller_rating": null,
+    "seller_reliable": null,
+    "verified_at": "2026-08-26T01:58:28+03:00"
+  }
+]
