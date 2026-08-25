@@ -1,39 +1,14 @@
 {
-  "generated_at": "2026-08-25T21:20:13+03:00",
-  "added_count": 1,
+  "generated_at": "2026-08-25T22:05:05+03:00",
+  "added_count": 0,
   "removed_count": 1,
   "reclassified_count": 0,
-  "added": [
+  "added": [],
+  "removed": [
     {
       "id": "d392c863dd7e1652",
       "store": "hepsiburada",
-      "name": "Fırsat Sende Metal Pantolon Eşarp Askısı 5 Katlı Askı",
-      "url": "https://www.hepsiburada.com/firsat-sende-metal-pantolon-esarp-askisi-5-katli-aski-pm-HBC00005VN15X",
-      "image": "https://productimages.hepsiburada.net/s/561/300-400/110000624241920.jpg",
-      "price": 165.71,
-      "old_price": 194.95,
-      "query": "firsat",
-      "first_seen_at": "2026-08-25T21:20:13+03:00",
-      "last_seen_at": "2026-08-25T21:20:13+03:00",
-      "detected_at": "2026-08-25T21:20:13+03:00",
-      "discount_percent": 15.0,
-      "category": "discount",
-      "baseline_price": 194.95,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": null,
-      "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 194.95 TL -> 165.71 TL (%15.0 indirim)",
-      "seller_name": "",
-      "seller_rating": null,
-      "seller_reliable": null,
-      "verified_at": "2026-08-25T21:24:00+03:00"
-    }
-  ],
-  "removed": [
-    {
-      "id": "f1f20fa1479df9d6",
-      "store": "n11",
-      "name": "Samsung Uyumlu Galaxy Tab A7 Lite T220 Kılıf Çocuklara Özel Tablet Kılıf (521889297)"
+      "name": "Fırsat Sende Metal Pantolon Eşarp Askısı 5 Katlı Askı"
     }
   ],
   "reclassified": []
