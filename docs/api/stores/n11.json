@@ -9,8 +9,8 @@
     "old_price": 429.6,
     "query": "kampanya",
     "first_seen_at": "2026-08-26T17:12:34+03:00",
-    "last_seen_at": "2026-08-26T17:12:34+03:00",
-    "detected_at": "2026-08-26T17:12:34+03:00",
+    "last_seen_at": "2026-08-26T18:54:04+03:00",
+    "detected_at": "2026-08-26T18:54:04+03:00",
     "discount_percent": 14.0,
     "category": "discount",
     "baseline_price": 429.6,
@@ -21,6 +21,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-08-26T17:15:16+03:00"
+    "verified_at": "2026-08-26T18:57:35+03:00"
   }
 ]

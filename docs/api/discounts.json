@@ -1,5 +1,52 @@
 [
   {
+    "id": "06259c96212b2edb",
+    "store": "hepsiburada",
+    "name": "Asus ASUS TUF GAMING M3 GEN II AURA SYNC RGB 8000 DPI SENSOR 60 MİLYON TIKLAMA ÖMRÜ 59 GRAM HAFIF TASARIM OYUNCU MOUSE Ürün puanı 4.7, 1742 değerlendirme 4,7 ( 1742 ) Premium ile 699 TL 599 TL",
+    "url": "https://www.hepsiburada.com/asus-tuf-gaming-m3-gen-ii-aura-sync-rgb-8000-dpi-sensor-60-milyon-tiklama-omru-59-gram-hafif-tasarim-oyuncu-mouse-p-HBCV00004Z7585?magaza=Hepsiburada",
+    "image": "",
+    "price": 599.0,
+    "old_price": 699.0,
+    "query": "kampanya",
+    "first_seen_at": "2026-08-26T18:54:04+03:00",
+    "last_seen_at": "2026-08-26T18:54:04+03:00",
+    "detected_at": "2026-08-26T18:54:04+03:00",
+    "discount_percent": 14.31,
+    "category": "discount",
+    "baseline_price": 699.0,
+    "baseline_source": "magaza-eski-fiyat",
+    "match_group": null,
+    "matched_stores": [],
+    "reason": "magaza-eski-fiyat: 699.00 TL -> 599.00 TL (%14.3 indirim)",
+    "seller_name": "",
+    "seller_rating": null,
+    "seller_reliable": null
+  },
+  {
+    "id": "57a2cfc98eab8bdd",
+    "store": "hepsiburada",
+    "name": "Casper Excalibur G870 Intel Core i7 13620H 24GB 1TB SSD RTX5060 Freedos 15.6\" 165Hz Taşınabilir Bilgisayar G870.1362-CF60X-C",
+    "url": "https://www.hepsiburada.com/casper-excalibur-g870-intel-core-i7-13620h-24gb-1tb-ssd-rtx5060-freedos-15-6-165hz-tasinabilir-bilgisayar-g870-1362-cf60x-c-p-HBCV0000A9HHKX?magaza=Hepsiburada",
+    "image": "",
+    "price": 60249.0,
+    "old_price": 69999.0,
+    "query": "kampanya",
+    "first_seen_at": "2026-08-26T18:54:04+03:00",
+    "last_seen_at": "2026-08-26T18:54:04+03:00",
+    "detected_at": "2026-08-26T18:54:04+03:00",
+    "discount_percent": 13.93,
+    "category": "discount",
+    "baseline_price": 69999.0,
+    "baseline_source": "magaza-eski-fiyat",
+    "match_group": null,
+    "matched_stores": [],
+    "reason": "magaza-eski-fiyat: 69999.00 TL -> 60249.00 TL (%13.9 indirim)",
+    "seller_name": "Casper",
+    "seller_rating": 4.8,
+    "seller_reliable": true,
+    "verified_at": "2026-08-26T18:57:35+03:00"
+  },
+  {
     "id": "d8d6755b84eabb5d",
     "store": "hepsiburada",
     "name": "İYİSİYOK Çift Piston Hava Kompresörü Araba Bot Bisiklet Top Balon Lastik Şişirme Pompası",
@@ -9,8 +56,8 @@
     "old_price": 4999.0,
     "query": "cok satan",
     "first_seen_at": "2026-08-22T23:44:25+03:00",
-    "last_seen_at": "2026-08-26T17:12:34+03:00",
-    "detected_at": "2026-08-26T17:12:34+03:00",
+    "last_seen_at": "2026-08-26T18:54:04+03:00",
+    "detected_at": "2026-08-26T18:54:04+03:00",
     "discount_percent": 10.0,
     "category": "discount",
     "baseline_price": 4999.0,
@@ -20,8 +67,7 @@
     "reason": "magaza-eski-fiyat: 4999.00 TL -> 4499.10 TL (%10.0 indirim)",
     "seller_name": "",
     "seller_rating": null,
-    "seller_reliable": null,
-    "verified_at": "2026-08-26T17:15:16+03:00"
+    "seller_reliable": null
   },
   {
     "id": "f1f20fa1479df9d6",
@@ -33,8 +79,8 @@
     "old_price": 429.6,
     "query": "kampanya",
     "first_seen_at": "2026-08-26T17:12:34+03:00",
-    "last_seen_at": "2026-08-26T17:12:34+03:00",
-    "detected_at": "2026-08-26T17:12:34+03:00",
+    "last_seen_at": "2026-08-26T18:54:04+03:00",
+    "detected_at": "2026-08-26T18:54:04+03:00",
     "discount_percent": 14.0,
     "category": "discount",
     "baseline_price": 429.6,
@@ -45,6 +91,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-08-26T17:15:16+03:00"
+    "verified_at": "2026-08-26T18:57:35+03:00"
   }
 ]
