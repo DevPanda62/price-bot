@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T05:54:38+03:00",
+  "generated_at": "2026-08-26T06:46:37+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -32,10 +32,10 @@
     },
     "n11": {
       "ok": true,
-      "product_count": 1,
+      "product_count": 0,
       "categories": {
         "normal": 0,
-        "discount": 1,
+        "discount": 0,
         "error": 0
       },
       "message": ""
@@ -78,7 +78,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "amazon": {
       "ok": true,
@@ -92,17 +92,17 @@
     }
   },
   "totals": {
-    "products": 2,
+    "products": 1,
     "categories": {
       "normal": 0,
-      "discount": 2,
+      "discount": 1,
       "error": 0
     }
   },
   "critical": {
-    "selected": 15,
-    "checked": 5,
-    "updated": 5,
+    "selected": 14,
+    "checked": 6,
+    "updated": 6,
     "flash": 0
   }
 }
