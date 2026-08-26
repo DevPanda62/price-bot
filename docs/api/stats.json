@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-26T19:41:55+03:00",
+  "generated_at": "2026-08-26T23:19:46+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 130989017,
+    "used_bytes": 132585036,
     "quota_bytes": 943718400
   },
   "sites": {
@@ -18,14 +18,14 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi"
+      "message": "utm yanit verdi ama 0 urun"
     },
     "hepsiburada": {
       "ok": true,
-      "product_count": 8,
+      "product_count": 10,
       "categories": {
         "normal": 0,
-        "discount": 3,
+        "discount": 5,
         "error": 5
       },
       "message": ""
@@ -68,7 +68,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (12 dk)"
+      "message": "utm yanit verdi ama 0 urun"
     },
     "vatan": {
       "ok": false,
@@ -92,10 +92,10 @@
     }
   },
   "totals": {
-    "products": 8,
+    "products": 10,
     "categories": {
       "normal": 0,
-      "discount": 3,
+      "discount": 5,
       "error": 5
     }
   },
