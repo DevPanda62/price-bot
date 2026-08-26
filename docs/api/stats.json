@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T18:54:04+03:00",
+  "generated_at": "2026-08-26T19:41:55+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -32,10 +32,10 @@
     },
     "n11": {
       "ok": true,
-      "product_count": 1,
+      "product_count": 0,
       "categories": {
         "normal": 0,
-        "discount": 1,
+        "discount": 0,
         "error": 0
       },
       "message": ""
@@ -68,7 +68,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm yanit verdi ama 0 urun"
+      "message": "utm bekliyor (12 dk)"
     },
     "vatan": {
       "ok": false,
@@ -92,15 +92,15 @@
     }
   },
   "totals": {
-    "products": 9,
+    "products": 8,
     "categories": {
       "normal": 0,
-      "discount": 4,
+      "discount": 3,
       "error": 5
     }
   },
   "critical": {
-    "selected": 18,
+    "selected": 17,
     "checked": 9,
     "updated": 9,
     "flash": 0
