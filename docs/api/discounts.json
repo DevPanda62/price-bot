@@ -9,8 +9,8 @@
     "old_price": 4999.0,
     "query": "cok satan",
     "first_seen_at": "2026-08-22T23:44:25+03:00",
-    "last_seen_at": "2026-08-26T02:44:35+03:00",
-    "detected_at": "2026-08-26T02:44:35+03:00",
+    "last_seen_at": "2026-08-26T04:51:54+03:00",
+    "detected_at": "2026-08-26T04:51:54+03:00",
     "discount_percent": 10.0,
     "category": "discount",
     "baseline_price": 4999.0,
@@ -21,30 +21,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-08-26T02:46:57+03:00"
-  },
-  {
-    "id": "3aa8e802bd10711d",
-    "store": "n11",
-    "name": "Ücretsiz Kargo hepuygunn Pilli Işıklı Müzikli Kar Küresi-iki Geyikli Yeşil Figürlü Eğlenceli Masaüstü Biblo, Led Aydınlatmalı Dekoratif Hediyelik Kar Küresi (0) 708,70 TL",
-    "url": "https://www.n11.com/urun/pilli-isikli-muzikli-kar-kuresi-iki-geyikli-yesil-figurlu-eglenceli-masaustu-biblo-led-aydinlatmali-dekoratif-hediyelik-kar-kuresi-119177969?magaza=hepuygunn&adBidding=true",
-    "image": "https://n11scdn.akamaized.net/a1/216/15/87/39/62/IMG-6897148043540956309.jpg",
-    "price": 405.06,
-    "old_price": 599.0,
-    "query": "firsat",
-    "first_seen_at": "2026-08-26T02:44:35+03:00",
-    "last_seen_at": "2026-08-26T02:44:35+03:00",
-    "detected_at": "2026-08-26T02:44:35+03:00",
-    "discount_percent": 32.38,
-    "category": "discount",
-    "baseline_price": 599.0,
-    "baseline_source": "magaza-eski-fiyat",
-    "match_group": null,
-    "matched_stores": [],
-    "reason": "magaza-eski-fiyat: 599.00 TL -> 405.06 TL (%32.4 indirim)",
-    "seller_name": "",
-    "seller_rating": null,
-    "seller_reliable": null,
-    "verified_at": "2026-08-26T02:46:57+03:00"
+    "verified_at": "2026-08-26T04:54:18+03:00"
   }
 ]
