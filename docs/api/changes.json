@@ -1,9 +1,34 @@
 {
-  "generated_at": "2026-08-27T08:07:35+03:00",
-  "added_count": 0,
+  "generated_at": "2026-08-27T19:28:43+03:00",
+  "added_count": 1,
   "removed_count": 0,
   "reclassified_count": 0,
-  "added": [],
+  "added": [
+    {
+      "id": "a50390aa71414d5c",
+      "store": "hepsiburada",
+      "name": "İndirim Sevinci Şarjlı Kablosuz LED Şişe Başlıklı Lamba - 15 cm Siyah Dokunmatik Dekoratif Masa ve Gece Lambası",
+      "url": "https://www.hepsiburada.com/sarjli-kablosuz-led-sise-baslikli-lamba-3-renk-modlu-dokunmatik-dekoratif-masa-ve-gece-lambasi-pm-HBC0000BA1FOH",
+      "image": "https://productimages.hepsiburada.net/s/777/222-222/110001340104404.jpg",
+      "price": 500.0,
+      "old_price": 541.36,
+      "query": "indirim",
+      "first_seen_at": "2026-08-27T19:28:43+03:00",
+      "last_seen_at": "2026-08-27T19:28:43+03:00",
+      "detected_at": "2026-08-27T19:28:43+03:00",
+      "discount_percent": 7.64,
+      "category": "discount",
+      "baseline_price": 541.36,
+      "baseline_source": "magaza-eski-fiyat",
+      "match_group": null,
+      "matched_stores": [],
+      "reason": "magaza-eski-fiyat: 541.36 TL -> 500.00 TL (%7.6 indirim)",
+      "seller_name": "İndirim Sevinci",
+      "seller_rating": 4.7,
+      "seller_reliable": true,
+      "verified_at": "2026-08-27T19:42:32+03:00"
+    }
+  ],
   "removed": [],
   "reclassified": []
 }
