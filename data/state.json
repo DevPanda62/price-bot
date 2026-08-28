@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-08-27T19:28:43+03:00",
-  "heartbeat_at": "2026-08-27T19:42:46+03:00",
+  "last_run": "2026-08-28T04:04:04+03:00",
+  "heartbeat_at": "2026-08-28T04:12:37+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -10,7 +10,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm yanit verdi ama 0 urun"
+      "message": "gece trick yanit verdi ama 0 urun"
     },
     "hepsiburada": {
       "ok": true,
@@ -24,10 +24,10 @@
     },
     "n11": {
       "ok": true,
-      "product_count": 0,
+      "product_count": 1,
       "categories": {
         "normal": 0,
-        "discount": 0,
+        "discount": 1,
         "error": 0
       },
       "message": ""
@@ -53,14 +53,14 @@
       "message": "0 urun (indirim yok olabilir)"
     },
     "teknosa": {
-      "ok": false,
+      "ok": true,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": "proxy acik ama 0 urun"
+      "message": "gece trick ile tarandi (proxysiz)"
     },
     "vatan": {
       "ok": false,
@@ -70,7 +70,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi (ultra trick mode de basarisiz)"
+      "message": "pas gecildi"
     },
     "amazon": {
       "ok": true,
@@ -84,10 +84,10 @@
     }
   },
   "totals": {
-    "products": 2,
+    "products": 3,
     "categories": {
       "normal": 0,
-      "discount": 2,
+      "discount": 3,
       "error": 0
     }
   },
@@ -104,7 +104,7 @@
     "hepsiburada": "normal",
     "n11": "normal",
     "ciceksepeti": "proxy",
-    "teknosa": "proxy",
+    "teknosa": "normal",
     "vatan": "skipped",
     "mediamarkt": "normal",
     "amazon": "normal"
@@ -113,21 +113,21 @@
     "hepsiburada": "2026-08-11T23:19:37+03:00",
     "vatan": "2026-08-27T08:07:35+03:00",
     "amazon": "2026-08-11T23:39:52+03:00",
-    "trendyol": "2026-08-27T19:28:43+03:00",
+    "trendyol": "2026-08-28T04:04:04+03:00",
     "n11": "2026-08-18T05:54:22+03:00",
     "ciceksepeti": "2026-08-14T02:27:16+03:00",
-    "teknosa": "2026-08-27T02:45:58+03:00"
+    "teknosa": "2026-08-28T04:04:04+03:00"
   },
   "utm_prof": {
     "trendyol": "safari17_0",
     "n11": "chrome124",
     "ciceksepeti": "chrome124",
-    "teknosa": "firefox133"
+    "teknosa": "safari17_0"
   },
   "critical": {
-    "selected": 13,
-    "checked": 5,
-    "updated": 5,
+    "selected": 18,
+    "checked": 6,
+    "updated": 6,
     "flash": 0
   }
 }
