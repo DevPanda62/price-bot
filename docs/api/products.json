@@ -9,8 +9,8 @@
     "old_price": 541.36,
     "query": "indirim",
     "first_seen_at": "2026-08-27T19:28:43+03:00",
-    "last_seen_at": "2026-08-29T21:36:42+03:00",
-    "detected_at": "2026-08-29T21:36:42+03:00",
+    "last_seen_at": "2026-08-30T00:11:18+03:00",
+    "detected_at": "2026-08-30T00:11:18+03:00",
     "discount_percent": 7.64,
     "category": "discount",
     "baseline_price": 541.36,
@@ -21,7 +21,7 @@
     "seller_name": "İndirim Sevinci",
     "seller_rating": 4.7,
     "seller_reliable": true,
-    "verified_at": "2026-08-29T21:39:01+03:00"
+    "verified_at": "2026-08-30T00:13:35+03:00"
   },
   {
     "id": "d8d6755b84eabb5d",
@@ -33,8 +33,8 @@
     "old_price": 4999.0,
     "query": "cok satan",
     "first_seen_at": "2026-08-22T23:44:25+03:00",
-    "last_seen_at": "2026-08-29T21:36:42+03:00",
-    "detected_at": "2026-08-29T21:36:42+03:00",
+    "last_seen_at": "2026-08-30T00:11:18+03:00",
+    "detected_at": "2026-08-30T00:11:18+03:00",
     "discount_percent": 10.0,
     "category": "discount",
     "baseline_price": 4999.0,
@@ -45,7 +45,31 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-08-29T21:39:01+03:00"
+    "verified_at": "2026-08-30T00:13:35+03:00"
+  },
+  {
+    "id": "4ace76660d355b95",
+    "store": "n11",
+    "name": "Ücretsiz Kargo Ceponya Huawei P40 Lite Kilif Lüx Kamera Koruma Çikintili Soft Silikon 233462712 - Kampanya / Istemiyorum (6) 10 günün en düşük fiyatı! 314,80 TL SEPETTE 267,58 TL",
+    "url": "https://www.n11.com/urun/huawei-p40-lite-kilif-lux-kamera-koruma-cikintili-soft-silikon-233462712-kampanya-istemiyorum-31821801?magaza=ceponya&adBidding=true",
+    "image": "https://n11scdn.akamaized.net/a1/216/01/76/65/71/IMG-3074169182578106902.jpg",
+    "price": 267.58,
+    "old_price": 314.8,
+    "query": "kampanya",
+    "first_seen_at": "2026-08-30T00:11:18+03:00",
+    "last_seen_at": "2026-08-30T00:11:18+03:00",
+    "detected_at": "2026-08-30T00:11:18+03:00",
+    "discount_percent": 15.0,
+    "category": "discount",
+    "baseline_price": 314.8,
+    "baseline_source": "magaza-eski-fiyat",
+    "match_group": null,
+    "matched_stores": [],
+    "reason": "magaza-eski-fiyat: 314.80 TL -> 267.58 TL (%15.0 indirim)",
+    "seller_name": "",
+    "seller_rating": null,
+    "seller_reliable": null,
+    "verified_at": "2026-08-30T00:13:35+03:00"
   },
   {
     "id": "f1f20fa1479df9d6",
@@ -57,8 +81,8 @@
     "old_price": 429.6,
     "query": "kampanya",
     "first_seen_at": "2026-08-29T21:36:42+03:00",
-    "last_seen_at": "2026-08-29T21:36:42+03:00",
-    "detected_at": "2026-08-29T21:36:42+03:00",
+    "last_seen_at": "2026-08-30T00:11:18+03:00",
+    "detected_at": "2026-08-30T00:11:18+03:00",
     "discount_percent": 15.0,
     "category": "discount",
     "baseline_price": 429.6,
@@ -69,6 +93,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-08-29T21:39:01+03:00"
+    "verified_at": "2026-08-30T00:13:35+03:00"
   }
 ]
