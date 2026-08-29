@@ -1,40 +1,16 @@
 [
   {
-    "id": "4ace76660d355b95",
-    "store": "n11",
-    "name": "Ücretsiz Kargo Ceponya Huawei P40 Lite Kilif Lüx Kamera Koruma Çikintili Soft Silikon 233462712 - Kampanya / Istemiyorum (6) 10 günün en düşük fiyatı! 314,80 TL SEPETTE 267,58 TL",
-    "url": "https://www.n11.com/urun/huawei-p40-lite-kilif-lux-kamera-koruma-cikintili-soft-silikon-233462712-kampanya-istemiyorum-31821801?magaza=ceponya&adBidding=true",
-    "image": "https://n11scdn.akamaized.net/a1/216/01/76/65/71/IMG-3074169182578106902.jpg",
-    "price": 267.58,
-    "old_price": 314.8,
-    "query": "kampanya",
-    "first_seen_at": "2026-08-30T00:11:18+03:00",
-    "last_seen_at": "2026-08-30T00:11:18+03:00",
-    "detected_at": "2026-08-30T00:11:18+03:00",
-    "discount_percent": 15.0,
-    "category": "discount",
-    "baseline_price": 314.8,
-    "baseline_source": "magaza-eski-fiyat",
-    "match_group": null,
-    "matched_stores": [],
-    "reason": "magaza-eski-fiyat: 314.80 TL -> 267.58 TL (%15.0 indirim)",
-    "seller_name": "",
-    "seller_rating": null,
-    "seller_reliable": null,
-    "verified_at": "2026-08-30T00:13:35+03:00"
-  },
-  {
     "id": "f1f20fa1479df9d6",
     "store": "n11",
     "name": "Samsung Uyumlu Galaxy Tab A7 Lite T220 Kılıf Çocuklara Özel Tablet Kılıf (521889297)",
     "url": "https://www.n11.com/urun/samsung-uyumlu-galaxy-tab-a7-lite-t220-kilif-cocuklara-ozel-tablet-kilif-521889297-20294020",
-    "image": "https://n11scdn.akamaized.net/a1/org/25/10/15/65/47/15/92/47/06/78/14/12/5549709177890585707.png",
+    "image": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2016%2016'%3E%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'%23ffffff'%2F%3E%3C%2Fsvg%3E",
     "price": 365.16,
     "old_price": 429.6,
     "query": "kampanya",
     "first_seen_at": "2026-08-29T21:36:42+03:00",
-    "last_seen_at": "2026-08-30T00:11:18+03:00",
-    "detected_at": "2026-08-30T00:11:18+03:00",
+    "last_seen_at": "2026-08-30T02:18:47+03:00",
+    "detected_at": "2026-08-30T02:18:47+03:00",
     "discount_percent": 15.0,
     "category": "discount",
     "baseline_price": 429.6,
@@ -45,6 +21,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-08-30T00:13:35+03:00"
+    "verified_at": "2026-08-30T02:21:01+03:00"
   }
 ]

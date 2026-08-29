@@ -1,34 +1,15 @@
 {
-  "generated_at": "2026-08-30T00:11:18+03:00",
-  "added_count": 1,
-  "removed_count": 0,
+  "generated_at": "2026-08-30T02:18:47+03:00",
+  "added_count": 0,
+  "removed_count": 1,
   "reclassified_count": 0,
-  "added": [
+  "added": [],
+  "removed": [
     {
       "id": "4ace76660d355b95",
       "store": "n11",
-      "name": "Ücretsiz Kargo Ceponya Huawei P40 Lite Kilif Lüx Kamera Koruma Çikintili Soft Silikon 233462712 - Kampanya / Istemiyorum (6) 10 günün en düşük fiyatı! 314,80 TL SEPETTE 267,58 TL",
-      "url": "https://www.n11.com/urun/huawei-p40-lite-kilif-lux-kamera-koruma-cikintili-soft-silikon-233462712-kampanya-istemiyorum-31821801?magaza=ceponya&adBidding=true",
-      "image": "https://n11scdn.akamaized.net/a1/216/01/76/65/71/IMG-3074169182578106902.jpg",
-      "price": 267.58,
-      "old_price": 314.8,
-      "query": "kampanya",
-      "first_seen_at": "2026-08-30T00:11:18+03:00",
-      "last_seen_at": "2026-08-30T00:11:18+03:00",
-      "detected_at": "2026-08-30T00:11:18+03:00",
-      "discount_percent": 15.0,
-      "category": "discount",
-      "baseline_price": 314.8,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": null,
-      "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 314.80 TL -> 267.58 TL (%15.0 indirim)",
-      "seller_name": "",
-      "seller_rating": null,
-      "seller_reliable": null,
-      "verified_at": "2026-08-30T00:13:35+03:00"
+      "name": "Ücretsiz Kargo Ceponya Huawei P40 Lite Kilif Lüx Kamera Koruma Çikintili Soft Silikon 233462712 - Kampanya / Istemiyorum (6) 10 günün en düşük fiyatı! 314,80 TL SEPETTE 267,58 TL"
     }
   ],
-  "removed": [],
   "reclassified": []
 }
