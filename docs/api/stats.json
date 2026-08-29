@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T18:16:57+03:00",
+  "generated_at": "2026-08-29T21:36:42+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -18,7 +18,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi (ultra trick mode de basarisiz)"
+      "message": "pas gecildi"
     },
     "hepsiburada": {
       "ok": true,
@@ -32,10 +32,10 @@
     },
     "n11": {
       "ok": true,
-      "product_count": 0,
+      "product_count": 1,
       "categories": {
         "normal": 0,
-        "discount": 0,
+        "discount": 1,
         "error": 0
       },
       "message": ""
@@ -68,7 +68,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi (ultra trick mode de basarisiz)"
+      "message": "pas gecildi"
     },
     "vatan": {
       "ok": false,
@@ -92,17 +92,17 @@
     }
   },
   "totals": {
-    "products": 2,
+    "products": 3,
     "categories": {
       "normal": 0,
-      "discount": 2,
+      "discount": 3,
       "error": 0
     }
   },
   "critical": {
-    "selected": 12,
-    "checked": 4,
-    "updated": 4,
+    "selected": 13,
+    "checked": 5,
+    "updated": 5,
     "flash": 0
   }
 }
