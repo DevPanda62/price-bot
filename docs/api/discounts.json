@@ -9,8 +9,8 @@
     "old_price": 541.36,
     "query": "indirim",
     "first_seen_at": "2026-08-27T19:28:43+03:00",
-    "last_seen_at": "2026-08-30T04:19:07+03:00",
-    "detected_at": "2026-08-30T04:19:07+03:00",
+    "last_seen_at": "2026-08-30T09:48:28+03:00",
+    "detected_at": "2026-08-30T09:48:28+03:00",
     "discount_percent": 7.64,
     "category": "discount",
     "baseline_price": 541.36,
@@ -21,7 +21,7 @@
     "seller_name": "İndirim Sevinci",
     "seller_rating": 4.7,
     "seller_reliable": true,
-    "verified_at": "2026-08-30T04:21:27+03:00"
+    "verified_at": "2026-08-30T09:57:55+03:00"
   },
   {
     "id": "d8d6755b84eabb5d",
@@ -33,8 +33,8 @@
     "old_price": 4999.0,
     "query": "cok satan",
     "first_seen_at": "2026-08-22T23:44:25+03:00",
-    "last_seen_at": "2026-08-30T04:19:07+03:00",
-    "detected_at": "2026-08-30T04:19:07+03:00",
+    "last_seen_at": "2026-08-30T09:48:28+03:00",
+    "detected_at": "2026-08-30T09:48:28+03:00",
     "discount_percent": 10.0,
     "category": "discount",
     "baseline_price": 4999.0,
@@ -45,6 +45,30 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-08-30T04:21:27+03:00"
+    "verified_at": "2026-08-30T09:57:55+03:00"
+  },
+  {
+    "id": "f1f20fa1479df9d6",
+    "store": "n11",
+    "name": "Samsung Uyumlu Galaxy Tab A7 Lite T220 Kılıf Çocuklara Özel Tablet Kılıf (521889297)",
+    "url": "https://www.n11.com/urun/samsung-uyumlu-galaxy-tab-a7-lite-t220-kilif-cocuklara-ozel-tablet-kilif-521889297-20294020",
+    "image": "https://n11scdn.akamaized.net/a1/org/25/10/15/65/47/15/92/47/06/78/14/12/5549709177890585707.png",
+    "price": 365.16,
+    "old_price": 429.6,
+    "query": "kampanya",
+    "first_seen_at": "2026-08-30T09:48:28+03:00",
+    "last_seen_at": "2026-08-30T09:48:28+03:00",
+    "detected_at": "2026-08-30T09:48:28+03:00",
+    "discount_percent": 15.0,
+    "category": "discount",
+    "baseline_price": 429.6,
+    "baseline_source": "magaza-eski-fiyat",
+    "match_group": null,
+    "matched_stores": [],
+    "reason": "magaza-eski-fiyat: 429.60 TL -> 365.16 TL (%15.0 indirim)",
+    "seller_name": "",
+    "seller_rating": null,
+    "seller_reliable": null,
+    "verified_at": "2026-08-30T09:57:55+03:00"
   }
 ]
