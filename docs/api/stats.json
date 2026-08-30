@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T15:18:30+03:00",
+  "generated_at": "2026-08-30T19:47:35+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -18,7 +18,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm yanit verdi ama 0 urun"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "hepsiburada": {
       "ok": true,
@@ -32,10 +32,10 @@
     },
     "n11": {
       "ok": true,
-      "product_count": 0,
+      "product_count": 2,
       "categories": {
         "normal": 0,
-        "discount": 0,
+        "discount": 2,
         "error": 0
       },
       "message": ""
@@ -61,14 +61,14 @@
       "message": "0 urun (indirim yok olabilir)"
     },
     "teknosa": {
-      "ok": true,
+      "ok": false,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": "ultra trick mode ile tarandi"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "vatan": {
       "ok": false,
@@ -92,17 +92,17 @@
     }
   },
   "totals": {
-    "products": 2,
+    "products": 4,
     "categories": {
       "normal": 0,
-      "discount": 2,
+      "discount": 4,
       "error": 0
     }
   },
   "critical": {
-    "selected": 14,
-    "checked": 4,
-    "updated": 4,
+    "selected": 15,
+    "checked": 5,
+    "updated": 5,
     "flash": 0
   }
 }
