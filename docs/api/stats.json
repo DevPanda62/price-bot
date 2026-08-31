@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T03:23:23+03:00",
+  "generated_at": "2026-08-31T08:50:16+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -78,7 +78,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
+      "message": "utm bekliyor (59 dk)"
     },
     "amazon": {
       "ok": true,
@@ -100,7 +100,7 @@
     }
   },
   "critical": {
-    "selected": 10,
+    "selected": 12,
     "checked": 5,
     "updated": 5,
     "flash": 0
