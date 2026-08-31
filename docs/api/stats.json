@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-08-31T21:20:01+03:00",
+  "generated_at": "2026-09-01T01:56:24+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 199932527,
+    "used_bytes": 0,
     "quota_bytes": 943718400
   },
   "sites": {
     "trendyol": {
-      "ok": true,
+      "ok": false,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": "ultra trick mode ile tarandi"
+      "message": "gece trick yanit verdi ama 0 urun"
     },
     "hepsiburada": {
       "ok": true,
@@ -32,10 +32,10 @@
     },
     "n11": {
       "ok": true,
-      "product_count": 1,
+      "product_count": 0,
       "categories": {
         "normal": 0,
-        "discount": 1,
+        "discount": 0,
         "error": 0
       },
       "message": ""
@@ -68,7 +68,7 @@
         "discount": 0,
         "error": 1
       },
-      "message": "ultra trick mode ile tarandi"
+      "message": "gece trick ile tarandi (proxysiz)"
     },
     "vatan": {
       "ok": false,
@@ -81,14 +81,14 @@
       "message": "pas gecildi"
     },
     "amazon": {
-      "ok": false,
-      "product_count": 0,
+      "ok": true,
+      "product_count": 1,
       "categories": {
         "normal": 0,
-        "discount": 0,
+        "discount": 1,
         "error": 0
       },
-      "message": "0 urun (indirim yok olabilir)"
+      "message": ""
     }
   },
   "totals": {
@@ -101,8 +101,8 @@
   },
   "critical": {
     "selected": 19,
-    "checked": 11,
-    "updated": 6,
+    "checked": 5,
+    "updated": 5,
     "flash": 0
   }
 }
