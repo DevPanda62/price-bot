@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T01:56:24+03:00",
+  "generated_at": "2026-09-01T04:36:00+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -61,14 +61,14 @@
       "message": "0 urun (indirim yok olabilir)"
     },
     "teknosa": {
-      "ok": true,
+      "ok": false,
       "product_count": 1,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 1
       },
-      "message": "gece trick ile tarandi (proxysiz)"
+      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
     },
     "vatan": {
       "ok": false,
@@ -82,27 +82,27 @@
     },
     "amazon": {
       "ok": true,
-      "product_count": 1,
+      "product_count": 0,
       "categories": {
         "normal": 0,
-        "discount": 1,
+        "discount": 0,
         "error": 0
       },
       "message": ""
     }
   },
   "totals": {
-    "products": 4,
+    "products": 3,
     "categories": {
       "normal": 0,
-      "discount": 3,
+      "discount": 2,
       "error": 1
     }
   },
   "critical": {
-    "selected": 19,
-    "checked": 5,
-    "updated": 5,
+    "selected": 11,
+    "checked": 2,
+    "updated": 2,
     "flash": 0
   }
 }

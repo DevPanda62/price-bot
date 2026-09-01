@@ -1,68 +1,14 @@
 {
-  "generated_at": "2026-09-01T01:56:24+03:00",
-  "added_count": 2,
-  "removed_count": 2,
+  "generated_at": "2026-09-01T04:36:00+03:00",
+  "added_count": 0,
+  "removed_count": 1,
   "reclassified_count": 0,
-  "added": [
+  "added": [],
+  "removed": [
     {
       "id": "5a7d3781e7538c0f",
       "store": "amazon",
-      "name": "Sudoku Uzman Seviye 4: Dünyanın En Sevilen Bulmacası - 222 Bulmaca",
-      "url": "https://www.amazon.com.tr/Sudoku-Uzman-Seviye-Celal-Kodomano%C4%9Flu/dp/6059609538/ref=sr_1_20?dib=eyJ2IjoiMSJ9.rWYNTImucf15B9e70sSYS0fabNTxAYcbxjeBj1wAn_z6h2uAh3t5QXl0AEbaqGUYifxZCY9I1MrRklcXdynRvhke4myCQedCCm0xLlTGZHq8sMSPWJUP7aXxrvW7-ByR2qtSWw_v5arx33DLqnhY0Ys8RYgqwJ13XqoiTlavJbSXNApFUeb-z9WykFgRkDDT7zN-YBro4QOAIMNzxj-Acqy_XkhfEAk4qaE860FsaIH66tjcpRH10logetKfiVbHhv_NNqLFaFaMtBbi9ro8IIsg10GI2wQt3lGMlenSNac.M5P339KCTvRDb4ZA_WXDNtJtAS0KiV9piWIvz1MQXVw&dib_tag=se&keywords=kampanya&qid=1788217408&sr=8-20",
-      "image": "https://m.media-amazon.com/images/I/61de5C3QCPL._AC_UL320_.jpg",
-      "price": 135.0,
-      "old_price": 150.0,
-      "query": "kampanya",
-      "first_seen_at": "2026-09-01T01:56:24+03:00",
-      "last_seen_at": "2026-09-01T01:56:24+03:00",
-      "detected_at": "2026-09-01T01:56:24+03:00",
-      "discount_percent": 10.0,
-      "category": "discount",
-      "baseline_price": 150.0,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": null,
-      "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 150.00 TL -> 135.00 TL (%10.0 indirim)",
-      "seller_name": "",
-      "seller_rating": null,
-      "seller_reliable": null,
-      "verified_at": "2026-09-01T02:03:52+03:00"
-    },
-    {
-      "id": "76802225275701bb",
-      "store": "teknosa",
-      "name": "Baseus Bipow Overseas Edition 10.000 Mah Digital Display Siyah Powerbank 15w",
-      "url": "https://www.teknosa.com/baseus-bipow-overseas-edition-10000-mah-digital-display-siyah-powerbank-15w-p-125431680",
-      "image": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/125431680/125431680_0_MC/754bf75d176e402fb200b256e78a3bca.png",
-      "price": 50.52,
-      "old_price": 799.0,
-      "query": "sitemap",
-      "first_seen_at": "2026-09-01T01:56:24+03:00",
-      "last_seen_at": "2026-09-01T01:56:24+03:00",
-      "detected_at": "2026-09-01T01:56:24+03:00",
-      "discount_percent": 93.68,
-      "category": "error",
-      "baseline_price": 799.0,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": null,
-      "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 799.00 TL -> 50.52 TL (%93.7 indirim)",
-      "seller_name": "TEKNOSA",
-      "seller_rating": 5.0,
-      "seller_reliable": true,
-      "verified_at": "2026-09-01T02:03:52+03:00"
-    }
-  ],
-  "removed": [
-    {
-      "id": "c06622a55a6c7c5c",
-      "store": "teknosa",
-      "name": "Preo Ultra Dayanıklı 5x iPhone 15 Ekran Koruma"
-    },
-    {
-      "id": "f1f20fa1479df9d6",
-      "store": "n11",
-      "name": "Samsung Uyumlu Galaxy Tab A7 Lite T220 Kılıf Çocuklara Özel Tablet Kılıf (521889297)"
+      "name": "Sudoku Uzman Seviye 4: Dünyanın En Sevilen Bulmacası - 222 Bulmaca"
     }
   ],
   "reclassified": []
