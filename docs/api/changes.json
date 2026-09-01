@@ -1,9 +1,15 @@
 {
-  "generated_at": "2026-09-01T22:31:34+03:00",
+  "generated_at": "2026-09-02T00:57:35+03:00",
   "added_count": 0,
-  "removed_count": 0,
+  "removed_count": 1,
   "reclassified_count": 0,
   "added": [],
-  "removed": [],
+  "removed": [
+    {
+      "id": "a50390aa71414d5c",
+      "store": "hepsiburada",
+      "name": "İndirim Sevinci Şarjlı Kablosuz LED Şişe Başlıklı Lamba - 15 cm Siyah Dokunmatik Dekoratif Masa ve Gece Lambası"
+    }
+  ],
   "reclassified": []
 }
