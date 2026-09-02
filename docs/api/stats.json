@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-02T09:17:09+03:00",
+  "generated_at": "2026-09-02T18:11:45+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 2662305,
+    "used_bytes": 4313226,
     "quota_bytes": 943718400
   },
   "sites": {
@@ -18,7 +18,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi"
+      "message": "utm yanit verdi ama 0 urun"
     },
     "hepsiburada": {
       "ok": true,
@@ -78,7 +78,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (59 dk)"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "amazon": {
       "ok": true,
@@ -100,9 +100,9 @@
     }
   },
   "critical": {
-    "selected": 9,
-    "checked": 4,
-    "updated": 4,
+    "selected": 10,
+    "checked": 5,
+    "updated": 5,
     "flash": 0
   }
 }
