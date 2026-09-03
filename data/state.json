@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-09-03T23:55:02+03:00",
-  "heartbeat_at": "2026-09-04T00:05:58+03:00",
+  "last_run": "2026-09-04T01:55:31+03:00",
+  "heartbeat_at": "2026-09-04T02:03:07+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -10,7 +10,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi (ultra trick mode de basarisiz)"
+      "message": "pas gecildi"
     },
     "hepsiburada": {
       "ok": true,
@@ -54,13 +54,13 @@
     },
     "teknosa": {
       "ok": true,
-      "product_count": 1,
+      "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
-        "error": 1
+        "error": 0
       },
-      "message": "ultra trick mode ile tarandi"
+      "message": "gece trick ile tarandi (proxysiz)"
     },
     "vatan": {
       "ok": false,
@@ -70,7 +70,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi (ultra trick mode de basarisiz)"
+      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
     },
     "amazon": {
       "ok": true,
@@ -84,11 +84,11 @@
     }
   },
   "totals": {
-    "products": 2,
+    "products": 1,
     "categories": {
       "normal": 0,
       "discount": 1,
-      "error": 1
+      "error": 0
     }
   },
   "proxy_last": {
@@ -104,28 +104,28 @@
     "hepsiburada": "normal",
     "n11": "normal",
     "ciceksepeti": "proxy",
-    "teknosa": "utm",
-    "vatan": "skipped",
+    "teknosa": "normal",
+    "vatan": "night",
     "mediamarkt": "normal",
     "amazon": "normal"
   },
   "utm_last": {
     "hepsiburada": "2026-08-11T23:19:37+03:00",
-    "vatan": "2026-09-02T09:17:09+03:00",
+    "vatan": "2026-09-04T01:55:31+03:00",
     "amazon": "2026-09-03T21:00:18+03:00",
     "trendyol": "2026-09-03T21:00:18+03:00",
     "n11": "2026-08-18T05:54:22+03:00",
     "ciceksepeti": "2026-08-14T02:27:16+03:00",
-    "teknosa": "2026-09-03T23:55:02+03:00"
+    "teknosa": "2026-09-04T01:55:31+03:00"
   },
   "utm_prof": {
     "trendyol": "safari17_0",
     "n11": "chrome124",
     "ciceksepeti": "chrome124",
-    "teknosa": "chrome124"
+    "teknosa": "safari17_0"
   },
   "critical": {
-    "selected": 11,
+    "selected": 14,
     "checked": 3,
     "updated": 3,
     "flash": 0
