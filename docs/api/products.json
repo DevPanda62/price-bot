@@ -9,8 +9,8 @@
     "old_price": 4999.0,
     "query": "cok satan",
     "first_seen_at": "2026-09-01T15:04:15+03:00",
-    "last_seen_at": "2026-09-03T13:09:18+03:00",
-    "detected_at": "2026-09-03T13:09:18+03:00",
+    "last_seen_at": "2026-09-03T17:31:54+03:00",
+    "detected_at": "2026-09-03T17:31:54+03:00",
     "discount_percent": 10.0,
     "category": "discount",
     "baseline_price": 4999.0,
@@ -21,7 +21,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-03T13:18:45+03:00"
+    "verified_at": "2026-09-03T17:34:20+03:00"
   },
   {
     "id": "76802225275701bb",
