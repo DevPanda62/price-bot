@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T16:43:53+03:00",
+  "generated_at": "2026-09-04T20:07:15+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -81,14 +81,14 @@
       "message": "pas gecildi"
     },
     "amazon": {
-      "ok": false,
+      "ok": true,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (59 dk)"
+      "message": ""
     }
   },
   "totals": {
@@ -100,9 +100,9 @@
     }
   },
   "critical": {
-    "selected": 6,
-    "checked": 2,
-    "updated": 2,
+    "selected": 8,
+    "checked": 4,
+    "updated": 4,
     "flash": 0
   }
 }
