@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T02:22:20+03:00",
+  "generated_at": "2026-09-05T04:08:03+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -100,7 +100,7 @@
     }
   },
   "critical": {
-    "selected": 8,
+    "selected": 7,
     "checked": 4,
     "updated": 4,
     "flash": 0
