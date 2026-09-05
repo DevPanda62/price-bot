@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-09-05T18:40:20+03:00",
-  "heartbeat_at": "2026-09-05T18:46:31+03:00",
+  "last_run": "2026-09-05T20:39:15+03:00",
+  "heartbeat_at": "2026-09-05T20:42:12+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -10,7 +10,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi (ultra trick mode de basarisiz)"
+      "message": "pas gecildi"
     },
     "hepsiburada": {
       "ok": true,
@@ -80,7 +80,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (59 dk)"
+      "message": "0 urun (indirim yok olabilir)"
     }
   },
   "totals": {
