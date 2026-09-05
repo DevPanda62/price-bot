@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T15:52:14+03:00",
+  "generated_at": "2026-09-05T18:40:20+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -18,7 +18,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm yanit verdi ama 0 urun"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "hepsiburada": {
       "ok": true,
@@ -88,7 +88,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "0 urun (indirim yok olabilir)"
+      "message": "utm bekliyor (59 dk)"
     }
   },
   "totals": {
