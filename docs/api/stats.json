@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-06T04:01:26+03:00",
+  "generated_at": "2026-09-06T08:46:56+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 17273285,
+    "used_bytes": 29136095,
     "quota_bytes": 943718400
   },
   "sites": {
@@ -68,7 +68,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece trick ile tarandi (proxysiz)"
+      "message": "proxy ile tarandi"
     },
     "vatan": {
       "ok": false,
@@ -78,17 +78,17 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
+      "message": "utm bekliyor (59 dk)"
     },
     "amazon": {
-      "ok": true,
+      "ok": false,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": ""
+      "message": "0 urun (indirim yok olabilir)"
     }
   },
   "totals": {
@@ -100,7 +100,7 @@
     }
   },
   "critical": {
-    "selected": 11,
+    "selected": 10,
     "checked": 4,
     "updated": 4,
     "flash": 0
