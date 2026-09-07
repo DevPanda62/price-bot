@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T21:49:42+03:00",
+  "generated_at": "2026-09-08T00:48:52+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -18,7 +18,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm yanit verdi ama 0 urun"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "hepsiburada": {
       "ok": true,
@@ -61,14 +61,14 @@
       "message": "0 urun (indirim yok olabilir)"
     },
     "teknosa": {
-      "ok": true,
+      "ok": false,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": "ultra trick mode ile tarandi"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "vatan": {
       "ok": false,
@@ -88,7 +88,7 @@
         "discount": 2,
         "error": 0
       },
-      "message": "proxy acik ama 0 urun"
+      "message": "utm bekliyor (59 dk)"
     }
   },
   "totals": {
@@ -100,7 +100,7 @@
     }
   },
   "critical": {
-    "selected": 17,
+    "selected": 13,
     "checked": 9,
     "updated": 9,
     "flash": 0
