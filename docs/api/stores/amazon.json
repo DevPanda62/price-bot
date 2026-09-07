@@ -15,7 +15,7 @@
     "category": "discount",
     "baseline_price": 6049.0,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00003",
+    "match_group": "g00001",
     "matched_stores": [
       {
         "store": "amazon",
@@ -45,7 +45,7 @@
     "category": "discount",
     "baseline_price": 6049.0,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00003",
+    "match_group": "g00001",
     "matched_stores": [
       {
         "store": "amazon",

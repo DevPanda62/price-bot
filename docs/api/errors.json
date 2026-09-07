@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "20c9153cde73cd48",
+    "store": "hepsiburada",
+    "name": "Ek 500 TL Kupon Ek 500 TL Kupon Canon E414 Inkjet Yazıcı/ Fotokopi+Tarama (Canon Eurasia Garantili) Ürün puanı 4.4, 1596 değerlendirme 4,4 ( 1596 ) Kampanya: Peşin fiyatına 3 x 899 TL Peşin fiyatına 3 x 899 TL 2.699 TL",
+    "url": "https://www.hepsiburada.com/canon-e414-inkjet-yazici-fotokopi-tarama-canon-eurasia-garantili-p-HBV000001OA7B?magaza=Hepsiburada",
+    "image": "",
+    "price": 500.0,
+    "old_price": 899.0,
+    "query": "kampanya",
+    "first_seen_at": "2026-09-07T21:49:42+03:00",
+    "last_seen_at": "2026-09-07T21:49:42+03:00",
+    "detected_at": "2026-09-07T21:49:42+03:00",
+    "discount_percent": 44.38,
+    "category": "error",
+    "baseline_price": 899.0,
+    "baseline_source": "magaza-eski-fiyat",
+    "match_group": null,
+    "matched_stores": [],
+    "reason": "magaza-eski-fiyat: 899.00 TL -> 500.00 TL (%44.4 indirim)",
+    "seller_name": "",
+    "seller_rating": null,
+    "seller_reliable": null
+  }
+]
