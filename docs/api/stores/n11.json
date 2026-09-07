@@ -1,40 +1,5 @@
 [
   {
-    "id": "53b951b385cc65c2",
-    "store": "n11",
-    "name": "Uyguntarz Unisex Lacivert & Gri Fermuar Kapüşonlu Sweatshirt 2 ' Li Fırsat Paketi Çok Renkli 1.500 TL SEPETTE 689,90 TL",
-    "url": "https://www.n11.com/urun/uyguntarz-unisex-lacivert-gri-fermuar-kapusonlu-sweatshirt-2-li-firsat-paketi-cok-renkli-125012285",
-    "image": "https://n11scdn.akamaized.net/a1/200/15/87/26/94/IMG-3936579815730417353.jpg",
-    "price": 689.9,
-    "old_price": 1500.0,
-    "query": "firsat",
-    "first_seen_at": "2026-09-07T01:16:01+03:00",
-    "last_seen_at": "2026-09-07T01:16:01+03:00",
-    "detected_at": "2026-09-07T01:16:01+03:00",
-    "discount_percent": 54.01,
-    "category": "error",
-    "baseline_price": 1500.0,
-    "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00001",
-    "matched_stores": [
-      {
-        "store": "n11",
-        "price": 689.9,
-        "url": "https://www.n11.com/urun/uyguntarz-unisex-lacivert-lacivert-fermuar-kapusonlu-sweatshirt-2-li-firsat-paketi-cok-renkli-125011990"
-      },
-      {
-        "store": "n11",
-        "price": 689.9,
-        "url": "https://www.n11.com/urun/uyguntarz-unisex-lacivert-siyah-fermuar-kapusonlu-sweatshirt-2-li-firsat-paketi-cok-renkli-125012209"
-      }
-    ],
-    "reason": "magaza-eski-fiyat: 1500.00 TL -> 689.90 TL (%54.0 indirim)",
-    "seller_name": "",
-    "seller_rating": null,
-    "seller_reliable": null,
-    "verified_at": "2026-09-07T01:18:17+03:00"
-  },
-  {
     "id": "de1b639da5d6c9bc",
     "store": "n11",
     "name": "Uyguntarz Unisex Lacivert & Lacivert Fermuar Kapüşonlu Sweatshirt 2 ' Li Fırsat Paketi Çok Renkli 1.500 TL SEPETTE 689,90 TL",
@@ -44,19 +9,14 @@
     "old_price": 1500.0,
     "query": "firsat",
     "first_seen_at": "2026-09-07T01:16:01+03:00",
-    "last_seen_at": "2026-09-07T01:16:01+03:00",
-    "detected_at": "2026-09-07T01:16:01+03:00",
+    "last_seen_at": "2026-09-07T02:59:09+03:00",
+    "detected_at": "2026-09-07T02:59:09+03:00",
     "discount_percent": 54.01,
     "category": "error",
     "baseline_price": 1500.0,
     "baseline_source": "magaza-eski-fiyat",
     "match_group": "g00001",
     "matched_stores": [
-      {
-        "store": "n11",
-        "price": 689.9,
-        "url": "https://www.n11.com/urun/uyguntarz-unisex-lacivert-gri-fermuar-kapusonlu-sweatshirt-2-li-firsat-paketi-cok-renkli-125012285"
-      },
       {
         "store": "n11",
         "price": 689.9,
@@ -67,7 +27,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-07T01:18:17+03:00"
+    "verified_at": "2026-09-07T03:01:30+03:00"
   },
   {
     "id": "b551349d89d38e33",
@@ -79,19 +39,14 @@
     "old_price": 1500.0,
     "query": "firsat",
     "first_seen_at": "2026-09-07T01:16:01+03:00",
-    "last_seen_at": "2026-09-07T01:16:01+03:00",
-    "detected_at": "2026-09-07T01:16:01+03:00",
+    "last_seen_at": "2026-09-07T02:59:09+03:00",
+    "detected_at": "2026-09-07T02:59:09+03:00",
     "discount_percent": 54.01,
     "category": "error",
     "baseline_price": 1500.0,
     "baseline_source": "magaza-eski-fiyat",
     "match_group": "g00001",
     "matched_stores": [
-      {
-        "store": "n11",
-        "price": 689.9,
-        "url": "https://www.n11.com/urun/uyguntarz-unisex-lacivert-gri-fermuar-kapusonlu-sweatshirt-2-li-firsat-paketi-cok-renkli-125012285"
-      },
       {
         "store": "n11",
         "price": 689.9,
@@ -102,7 +57,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-07T01:18:17+03:00"
+    "verified_at": "2026-09-07T03:01:30+03:00"
   },
   {
     "id": "8d8a470cd85d7bc8",
@@ -114,8 +69,8 @@
     "old_price": 1500.0,
     "query": "firsat",
     "first_seen_at": "2026-09-07T01:16:01+03:00",
-    "last_seen_at": "2026-09-07T01:16:01+03:00",
-    "detected_at": "2026-09-07T01:16:01+03:00",
+    "last_seen_at": "2026-09-07T02:59:09+03:00",
+    "detected_at": "2026-09-07T02:59:09+03:00",
     "discount_percent": 54.01,
     "category": "error",
     "baseline_price": 1500.0,
@@ -126,6 +81,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-07T01:18:17+03:00"
+    "verified_at": "2026-09-07T03:01:30+03:00"
   }
 ]
