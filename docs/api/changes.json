@@ -1,14 +1,44 @@
 {
-  "generated_at": "2026-09-07T02:59:09+03:00",
-  "added_count": 0,
-  "removed_count": 1,
+  "generated_at": "2026-09-07T06:54:44+03:00",
+  "added_count": 1,
+  "removed_count": 2,
   "reclassified_count": 0,
-  "added": [],
-  "removed": [
+  "added": [
     {
       "id": "53b951b385cc65c2",
       "store": "n11",
-      "name": "Uyguntarz Unisex Lacivert & Gri Fermuar Kapüşonlu Sweatshirt 2 ' Li Fırsat Paketi Çok Renkli 1.500 TL SEPETTE 689,90 TL"
+      "name": "Uyguntarz Unisex Lacivert & Gri Fermuar Kapüşonlu Sweatshirt 2 ' Li Fırsat Paketi Çok Renkli 1.500 TL SEPETTE 689,90 TL",
+      "url": "https://www.n11.com/urun/uyguntarz-unisex-lacivert-gri-fermuar-kapusonlu-sweatshirt-2-li-firsat-paketi-cok-renkli-125012285",
+      "image": "https://n11scdn.akamaized.net/a1/200/15/87/26/94/IMG-3936579815730417353.jpg",
+      "price": 689.9,
+      "old_price": 1500.0,
+      "query": "firsat",
+      "first_seen_at": "2026-09-07T06:54:44+03:00",
+      "last_seen_at": "2026-09-07T06:54:44+03:00",
+      "detected_at": "2026-09-07T06:54:44+03:00",
+      "discount_percent": 54.01,
+      "category": "error",
+      "baseline_price": 1500.0,
+      "baseline_source": "magaza-eski-fiyat",
+      "match_group": null,
+      "matched_stores": [],
+      "reason": "magaza-eski-fiyat: 1500.00 TL -> 689.90 TL (%54.0 indirim)",
+      "seller_name": "",
+      "seller_rating": null,
+      "seller_reliable": null,
+      "verified_at": "2026-09-07T06:57:01+03:00"
+    }
+  ],
+  "removed": [
+    {
+      "id": "b551349d89d38e33",
+      "store": "n11",
+      "name": "Uyguntarz Unisex Lacivert & Siyah Fermuar Kapüşonlu Sweatshirt 2 ' Li Fırsat Paketi Çok Renkli 1.500 TL SEPETTE 689,90 TL"
+    },
+    {
+      "id": "de1b639da5d6c9bc",
+      "store": "n11",
+      "name": "Uyguntarz Unisex Lacivert & Lacivert Fermuar Kapüşonlu Sweatshirt 2 ' Li Fırsat Paketi Çok Renkli 1.500 TL SEPETTE 689,90 TL"
     }
   ],
   "reclassified": []
