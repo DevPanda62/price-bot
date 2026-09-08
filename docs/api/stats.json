@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-08T21:47:12+03:00",
+  "generated_at": "2026-09-09T00:28:19+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 60371154,
+    "used_bytes": 79132396,
     "quota_bytes": 943718400
   },
   "sites": {
@@ -18,7 +18,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi"
+      "message": "utm yanit verdi ama 0 urun"
     },
     "hepsiburada": {
       "ok": true,
@@ -61,14 +61,14 @@
       "message": "0 urun (indirim yok olabilir)"
     },
     "teknosa": {
-      "ok": false,
+      "ok": true,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi"
+      "message": "ultra trick mode ile tarandi"
     },
     "vatan": {
       "ok": false,
@@ -100,7 +100,7 @@
     }
   },
   "critical": {
-    "selected": 6,
+    "selected": 11,
     "checked": 4,
     "updated": 4,
     "flash": 0

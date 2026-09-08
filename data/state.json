@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-09-08T21:47:12+03:00",
-  "heartbeat_at": "2026-09-08T21:49:51+03:00",
+  "last_run": "2026-09-09T00:28:19+03:00",
+  "heartbeat_at": "2026-09-09T00:41:26+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -10,7 +10,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi"
+      "message": "utm yanit verdi ama 0 urun"
     },
     "hepsiburada": {
       "ok": true,
@@ -53,14 +53,14 @@
       "message": "0 urun (indirim yok olabilir)"
     },
     "teknosa": {
-      "ok": false,
+      "ok": true,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi"
+      "message": "ultra trick mode ile tarandi"
     },
     "vatan": {
       "ok": false,
@@ -92,19 +92,19 @@
     }
   },
   "proxy_last": {
-    "trendyol": "2026-09-07T21:49:42+03:00",
+    "trendyol": "2026-09-09T00:28:19+03:00",
     "n11": "2026-08-29T13:32:14+03:00",
     "ciceksepeti": "2026-08-14T14:59:31+03:00",
-    "teknosa": "2026-09-07T21:49:42+03:00",
+    "teknosa": "2026-09-09T00:28:19+03:00",
     "hepsiburada": "2026-08-25T21:20:13+03:00",
     "amazon": "2026-09-07T21:49:42+03:00"
   },
   "modes": {
-    "trendyol": "skipped",
+    "trendyol": "utm",
     "hepsiburada": "normal",
     "n11": "normal",
     "ciceksepeti": "proxy",
-    "teknosa": "skipped",
+    "teknosa": "utm",
     "vatan": "skipped",
     "mediamarkt": "normal",
     "amazon": "normal"
@@ -113,10 +113,10 @@
     "hepsiburada": "2026-08-11T23:19:37+03:00",
     "vatan": "2026-09-08T09:26:09+03:00",
     "amazon": "2026-09-08T04:29:33+03:00",
-    "trendyol": "2026-09-07T21:49:42+03:00",
+    "trendyol": "2026-09-09T00:28:19+03:00",
     "n11": "2026-08-18T05:54:22+03:00",
     "ciceksepeti": "2026-08-14T02:27:16+03:00",
-    "teknosa": "2026-09-07T21:49:42+03:00"
+    "teknosa": "2026-09-09T00:28:19+03:00"
   },
   "utm_prof": {
     "trendyol": "safari17_0",
@@ -126,7 +126,7 @@
     "amazon": "chrome124"
   },
   "critical": {
-    "selected": 6,
+    "selected": 11,
     "checked": 4,
     "updated": 4,
     "flash": 0
