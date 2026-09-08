@@ -1,25 +1,9 @@
 {
-  "generated_at": "2026-09-08T02:49:19+03:00",
+  "generated_at": "2026-09-08T04:29:33+03:00",
   "added_count": 0,
-  "removed_count": 3,
+  "removed_count": 0,
   "reclassified_count": 0,
   "added": [],
-  "removed": [
-    {
-      "id": "20c9153cde73cd48",
-      "store": "hepsiburada",
-      "name": "Ek 500 TL Kupon Ek 500 TL Kupon Canon E414 Inkjet Yazıcı/ Fotokopi+Tarama (Canon Eurasia Garantili) Ürün puanı 4.4, 1596 değerlendirme 4,4 ( 1596 ) Kampanya: Peşin fiyatına 3 x 899 TL Peşin fiyatına 3 x 899 TL 2.699 TL"
-    },
-    {
-      "id": "b72137f6e7917de1",
-      "store": "amazon",
-      "name": "Tommy Hilfiger"
-    },
-    {
-      "id": "deb0e23574c9c97a",
-      "store": "amazon",
-      "name": "Tommy Hilfiger"
-    }
-  ],
+  "removed": [],
   "reclassified": []
 }
