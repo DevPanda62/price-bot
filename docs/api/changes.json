@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-09-08T04:29:33+03:00",
+  "generated_at": "2026-09-08T09:26:09+03:00",
   "added_count": 0,
-  "removed_count": 0,
+  "removed_count": 4,
   "reclassified_count": 0,
   "added": [],
-  "removed": [],
+  "removed": [
+    {
+      "id": "2631aba8efff93e4",
+      "store": "hepsiburada",
+      "name": "Lenovo IdeaPad Slim 3 AMD Ryzen 7 170 16GB 512GB SSD Freedos 15.3\" Taşınabilir Bilgisayar 83K700PSTR"
+    },
+    {
+      "id": "8243d400833d07ab",
+      "store": "hepsiburada",
+      "name": "Fırsattan LED Ekran Matrix Panel Cama Yapışan En Büyük Boy 16X96 Telefon App Kontrol Digital Araba Yazısı"
+    },
+    {
+      "id": "a50390aa71414d5c",
+      "store": "hepsiburada",
+      "name": "İndirim Sevinci Şarjlı Kablosuz LED Şişe Başlıklı Lamba - 15 cm Siyah Dokunmatik Dekoratif Masa ve Gece Lambası"
+    },
+    {
+      "id": "d392c863dd7e1652",
+      "store": "hepsiburada",
+      "name": "Fırsat Sende Metal Pantolon Eşarp Askısı 5 Katlı Askı"
+    }
+  ],
   "reclassified": []
 }

@@ -9,8 +9,8 @@
     "old_price": 1450.0,
     "query": "firsat",
     "first_seen_at": "2026-09-07T11:48:22+03:00",
-    "last_seen_at": "2026-09-08T04:29:33+03:00",
-    "detected_at": "2026-09-08T04:29:33+03:00",
+    "last_seen_at": "2026-09-08T09:26:09+03:00",
+    "detected_at": "2026-09-08T09:26:09+03:00",
     "discount_percent": 29.31,
     "category": "discount",
     "baseline_price": 1450.0,
@@ -21,6 +21,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-08T04:32:03+03:00"
+    "verified_at": "2026-09-08T09:28:47+03:00"
   }
 ]
