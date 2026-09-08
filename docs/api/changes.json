@@ -1,29 +1,39 @@
 {
-  "generated_at": "2026-09-08T09:26:09+03:00",
-  "added_count": 0,
-  "removed_count": 4,
+  "generated_at": "2026-09-08T14:34:00+03:00",
+  "added_count": 1,
+  "removed_count": 1,
   "reclassified_count": 0,
-  "added": [],
-  "removed": [
-    {
-      "id": "2631aba8efff93e4",
-      "store": "hepsiburada",
-      "name": "Lenovo IdeaPad Slim 3 AMD Ryzen 7 170 16GB 512GB SSD Freedos 15.3\" Taşınabilir Bilgisayar 83K700PSTR"
-    },
-    {
-      "id": "8243d400833d07ab",
-      "store": "hepsiburada",
-      "name": "Fırsattan LED Ekran Matrix Panel Cama Yapışan En Büyük Boy 16X96 Telefon App Kontrol Digital Araba Yazısı"
-    },
-    {
-      "id": "a50390aa71414d5c",
-      "store": "hepsiburada",
-      "name": "İndirim Sevinci Şarjlı Kablosuz LED Şişe Başlıklı Lamba - 15 cm Siyah Dokunmatik Dekoratif Masa ve Gece Lambası"
-    },
+  "added": [
     {
       "id": "d392c863dd7e1652",
       "store": "hepsiburada",
-      "name": "Fırsat Sende Metal Pantolon Eşarp Askısı 5 Katlı Askı"
+      "name": "Fırsat Sende Metal Pantolon Eşarp Askısı 5 Katlı Askı",
+      "url": "https://www.hepsiburada.com/firsat-sende-metal-pantolon-esarp-askisi-5-katli-aski-pm-HBC00005VN15X",
+      "image": "https://productimages.hepsiburada.net/s/561/300-400/110000624241920.jpg",
+      "price": 165.71,
+      "old_price": 194.95,
+      "query": "firsat",
+      "first_seen_at": "2026-09-08T14:34:00+03:00",
+      "last_seen_at": "2026-09-08T14:34:00+03:00",
+      "detected_at": "2026-09-08T14:34:00+03:00",
+      "discount_percent": 15.0,
+      "category": "discount",
+      "baseline_price": 194.95,
+      "baseline_source": "magaza-eski-fiyat",
+      "match_group": null,
+      "matched_stores": [],
+      "reason": "magaza-eski-fiyat: 194.95 TL -> 165.71 TL (%15.0 indirim)",
+      "seller_name": "",
+      "seller_rating": null,
+      "seller_reliable": null,
+      "verified_at": "2026-09-08T14:43:08+03:00"
+    }
+  ],
+  "removed": [
+    {
+      "id": "ec623b6342e8919a",
+      "store": "n11",
+      "name": "Diyar-ı Fırsat Y20 Max Kablosuz Motosiklet Kask Intercom 1.450 TL SEPETTE 1.025 TL"
     }
   ],
   "reclassified": []
