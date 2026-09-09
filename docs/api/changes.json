@@ -1,34 +1,20 @@
 {
-  "generated_at": "2026-09-09T04:29:07+03:00",
-  "added_count": 1,
-  "removed_count": 0,
+  "generated_at": "2026-09-09T09:31:01+03:00",
+  "added_count": 0,
+  "removed_count": 2,
   "reclassified_count": 0,
-  "added": [
+  "added": [],
+  "removed": [
     {
       "id": "5a524cbdca65076a",
       "store": "n11",
-      "name": "Ücretsiz Kargo HayatStore Sevgiliye  Çift Kulaklığı Yeni Nesil Pro Kulaklık Sevgililer Gününe Özel Kampanya - Lisinya Lisinya Yeni Nesil Pro (0) 2.104,11 TL SEPETTE 1.620,16 TL",
-      "url": "https://www.n11.com/urun/sevgiliye-cift-kulakligi-yeni-nesil-pro-kulaklik-sevgililer-gunune-ozel-kampanya-lisinya-lisinya-yeni-nesil-pro-133069898?magaza=hayatstore&adBidding=true",
-      "image": "https://n11scdn.akamaized.net/a1/216/10/72/64/48/IMG-3938663732754116949.jpg",
-      "price": 1620.16,
-      "old_price": 2104.11,
-      "query": "kampanya",
-      "first_seen_at": "2026-09-09T04:29:07+03:00",
-      "last_seen_at": "2026-09-09T04:29:07+03:00",
-      "detected_at": "2026-09-09T04:29:07+03:00",
-      "discount_percent": 23.0,
-      "category": "discount",
-      "baseline_price": 2104.11,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": null,
-      "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 2104.11 TL -> 1620.16 TL (%23.0 indirim)",
-      "seller_name": "",
-      "seller_rating": null,
-      "seller_reliable": null,
-      "verified_at": "2026-09-09T04:35:50+03:00"
+      "name": "Ücretsiz Kargo HayatStore Sevgiliye  Çift Kulaklığı Yeni Nesil Pro Kulaklık Sevgililer Gününe Özel Kampanya - Lisinya Lisinya Yeni Nesil Pro (0) 2.104,11 TL SEPETTE 1.620,16 TL"
+    },
+    {
+      "id": "f1144481e2cc903d",
+      "store": "n11",
+      "name": "Ücretsiz Kargo ELIVORA İphone 11 İle Uyumlu Siyah Carbon Görünümü Veren Fit İnce Yapılı Kamera Korumalı Kampanya Fiyatlı Silikon Kılıf (0) 575,18 TL SEPETTE 506,16 TL"
     }
   ],
-  "removed": [],
   "reclassified": []
 }
