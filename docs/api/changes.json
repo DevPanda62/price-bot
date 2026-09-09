@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-09-09T21:43:14+03:00",
+  "generated_at": "2026-09-10T00:13:35+03:00",
   "added_count": 0,
-  "removed_count": 0,
+  "removed_count": 11,
   "reclassified_count": 0,
   "added": [],
-  "removed": [],
+  "removed": [
+    {
+      "id": "1ed20c43ca943f38",
+      "store": "hepsiburada",
+      "name": "Acer Nitro ANV15-52 Intel Core i5 13420H 16GB 1TB SSD RTX5050 Freedos 15.6'' 165HZ Taşınabilir Bilgisayar NH.QZ7EY.004 Kampanya: Peşin fiyatına 6 x 7.999 TL Peşin fiyatına 6 x 7.999 TL Kampanya: VISA ile 45000 TL'ye 3000 TL indirim VISA ile 45000 TL'ye 3000 TL indirim 49.999 TL % 4 47.999 TL"
+    },
+    {
+      "id": "2631aba8efff93e4",
+      "store": "hepsiburada",
+      "name": "Lenovo IdeaPad Slim 3 AMD Ryzen 7 170 16GB 512GB SSD Freedos 15.3\" Taşınabilir Bilgisayar 83K700PSTR"
+    },
+    {
+      "id": "29ab45cd2e2058fd",
+      "store": "hepsiburada",
+      "name": "HP OmniBook 3 AMD Ryzen 5 7520U 8GB 512GB SSD Freedos 16\" Taşınabilir Bilgisayar DY0G7EA Ürün puanı 4.5, 2 değerlendirme 4,5 ( 2 ) Kampanya: Peşin fiyatına 6 x 3.999 TL Peşin fiyatına 6 x 3.999 TL Kampanya: VISA ile 25000 TL'ye 1500 TL indirim VISA ile 25000 TL'ye 1500 TL indirim 23.999 TL"
+    },
+    {
+      "id": "35c98651c635ef5e",
+      "store": "hepsiburada",
+      "name": "Asus ASUS Vivobook Go 15 E1504FA-BQ4442 AMD Ryzen 5 7520U 8GB 512GB SSD Freedos 15.6\" Taşınabilir Bilgisayar Ürün puanı 4.4, 10 değerlendirme 4,4 ( 10 ) Kampanya: Peşin fiyatına 6 x 3.499 TL Peşin fiyatına 6 x 3.499 TL Kampanya: VISA ile 25000 TL'ye 1500 TL indirim VISA ile 25000 TL'ye 1500 TL indir"
+    },
+    {
+      "id": "786539b2d23ceafe",
+      "store": "hepsiburada",
+      "name": "İYİSİYOK 108 Parça Cırcır Seti  Pc 72 Diş Lokma TAKIMI108 Pcs Parça Lokma Takımı Tam"
+    },
+    {
+      "id": "945d682ea087b3c2",
+      "store": "hepsiburada",
+      "name": "MSI CYBORG 15 A13VE-2268XTRNN Intel Core i5 13420H 16GB 512GB SSD RTX4050 Freedos 15.6\" FHD Taşınabilir Bilgisayar"
+    },
+    {
+      "id": "9fd0e31f7d6cb358",
+      "store": "hepsiburada",
+      "name": "HP 596 Smart Tank - Wıreless All-In-One Renkli Mürekkep Püskürtmeli Tanklı Yazıcı 9B2C6A Ürün puanı 4.3, 143 değerlendirme 4,3 ( 143 ) Kampanya: Peşin fiyatına 6 x 1.205 TL Peşin fiyatına 6 x 1.205 TL Kampanya: VISA ile 5000 TL'ye 500 TL indirim VISA ile 5000 TL'ye 500 TL indirim 7.234 TL"
+    },
+    {
+      "id": "a42111a436733d01",
+      "store": "hepsiburada",
+      "name": "Lenovo Legion Go S AMD Ryzen Z2 Go 32GB 1TB SSD Steamos 8\" El Oyun Bilgisayarı 83L3004ETR Ürün puanı 4.5, 4 değerlendirme 4,5 ( 4 ) Kampanya: Peşin fiyatına 6 x 7.666 TL Peşin fiyatına 6 x 7.666 TL Kampanya: VISA ile 45000 TL'ye 3000 TL indirim VISA ile 45000 TL'ye 3000 TL indirim 46.999 TL % 2 45.9"
+    },
+    {
+      "id": "c96ac3036c1275f5",
+      "store": "hepsiburada",
+      "name": "Canon Pixma G3480 Wi-Fi + Tarayıcı + Fotokopi Renkli Çok Fonksiyonlu Tanklı Mürekkep Püskürtmeli Yazıcı Ürün puanı 4.6, 202 değerlendirme 4,6 ( 202 ) Kampanya: Peşin fiyatına 6 x 1.249 TL Peşin fiyatına 6 x 1.249 TL Kampanya: VISA ile 5000 TL'ye 500 TL indirim VISA ile 5000 TL'ye 500 TL indirim 7.49"
+    },
+    {
+      "id": "df9a1f8d0366a803",
+      "store": "hepsiburada",
+      "name": "Epson Ecotank L3354 A4 Çok Fonksiyonlu Mürekkep Püskürtmeli Yazıcı Ürün puanı 4, 7 değerlendirme 4 ( 7 ) Kampanya: Peşin fiyatına 6 x 1.283 TL Peşin fiyatına 6 x 1.283 TL Kampanya: VISA ile 5000 TL'ye 500 TL indirim VISA ile 5000 TL'ye 500 TL indirim 7.699 TL"
+    },
+    {
+      "id": "e785ae045789046d",
+      "store": "hepsiburada",
+      "name": "Epson Ecotank L3350 Wi-Fi + Tarayıcı + Fotokopi Renkli Çok Fonksiyonlu Tanklı Yazıcı C11CL62413 + Orjinal Siyah Mürekkep Hediyeli Ürün puanı 5, 2 değerlendirme 5 ( 2 ) Kampanya: Peşin fiyatına 6 x 1.333 TL Peşin fiyatına 6 x 1.333 TL Kampanya: VISA ile 5000 TL'ye 500 TL indirim VISA ile 5000 TL'ye 5"
+    }
+  ],
   "reclassified": []
 }
