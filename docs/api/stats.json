@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-09T18:20:29+03:00",
+  "generated_at": "2026-09-09T21:43:14+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 149766014,
+    "used_bytes": 163438258,
     "quota_bytes": 943718400
   },
   "sites": {
@@ -101,7 +101,7 @@
   },
   "critical": {
     "selected": 15,
-    "checked": 12,
+    "checked": 9,
     "updated": 9,
     "flash": 0
   }

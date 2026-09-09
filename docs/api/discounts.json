@@ -9,8 +9,8 @@
     "old_price": 40739.03,
     "query": "kampanya",
     "first_seen_at": "2026-09-09T18:20:29+03:00",
-    "last_seen_at": "2026-09-09T18:20:29+03:00",
-    "detected_at": "2026-09-09T18:20:29+03:00",
+    "last_seen_at": "2026-09-09T21:43:14+03:00",
+    "detected_at": "2026-09-09T21:43:14+03:00",
     "discount_percent": 21.45,
     "category": "discount",
     "baseline_price": 40739.03,
@@ -21,7 +21,7 @@
     "seller_name": "Lenovo",
     "seller_rating": 4.9,
     "seller_reliable": true,
-    "verified_at": "2026-09-09T18:34:14+03:00"
+    "verified_at": "2026-09-09T21:52:46+03:00"
   },
   {
     "id": "945d682ea087b3c2",
@@ -33,8 +33,8 @@
     "old_price": 59999.0,
     "query": "kampanya",
     "first_seen_at": "2026-09-09T18:20:29+03:00",
-    "last_seen_at": "2026-09-09T18:20:29+03:00",
-    "detected_at": "2026-09-09T18:20:29+03:00",
+    "last_seen_at": "2026-09-09T21:43:14+03:00",
+    "detected_at": "2026-09-09T21:43:14+03:00",
     "discount_percent": 23.33,
     "category": "discount",
     "baseline_price": 59999.0,
@@ -45,7 +45,7 @@
     "seller_name": "MSI",
     "seller_rating": 4.7,
     "seller_reliable": true,
-    "verified_at": "2026-09-09T18:34:14+03:00"
+    "verified_at": "2026-09-09T21:52:46+03:00"
   },
   {
     "id": "786539b2d23ceafe",
@@ -57,8 +57,8 @@
     "old_price": 4999.0,
     "query": "cok satan",
     "first_seen_at": "2026-09-07T17:29:22+03:00",
-    "last_seen_at": "2026-09-09T18:20:29+03:00",
-    "detected_at": "2026-09-09T18:20:29+03:00",
+    "last_seen_at": "2026-09-09T21:43:14+03:00",
+    "detected_at": "2026-09-09T21:43:14+03:00",
     "discount_percent": 12.0,
     "category": "discount",
     "baseline_price": 4999.0,
