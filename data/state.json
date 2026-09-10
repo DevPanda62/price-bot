@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-09-10T13:39:30+03:00",
-  "heartbeat_at": "2026-09-10T13:52:56+03:00",
+  "last_run": "2026-09-10T17:38:19+03:00",
+  "heartbeat_at": "2026-09-10T17:44:00+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -10,7 +10,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm yanit verdi ama 0 urun"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "hepsiburada": {
       "ok": true,
@@ -70,17 +70,17 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi (ultra trick mode de basarisiz)"
+      "message": "pas gecildi"
     },
     "amazon": {
-      "ok": true,
+      "ok": false,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": ""
+      "message": "proxy acik ama 0 urun"
     }
   },
   "totals": {
@@ -97,17 +97,17 @@
     "ciceksepeti": "2026-08-14T14:59:31+03:00",
     "teknosa": "2026-09-09T21:43:14+03:00",
     "hepsiburada": "2026-08-25T21:20:13+03:00",
-    "amazon": "2026-09-10T08:56:46+03:00"
+    "amazon": "2026-09-10T17:38:19+03:00"
   },
   "modes": {
-    "trendyol": "utm",
+    "trendyol": "skipped",
     "hepsiburada": "normal",
     "n11": "normal",
     "ciceksepeti": "proxy",
     "teknosa": "skipped",
     "vatan": "skipped",
     "mediamarkt": "normal",
-    "amazon": "normal"
+    "amazon": "proxy"
   },
   "utm_last": {
     "hepsiburada": "2026-08-11T23:19:37+03:00",
@@ -126,7 +126,7 @@
     "teknosa": "chrome124"
   },
   "critical": {
-    "selected": 13,
+    "selected": 9,
     "checked": 7,
     "updated": 7,
     "flash": 0
