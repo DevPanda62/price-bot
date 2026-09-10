@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T02:16:46+03:00",
+  "generated_at": "2026-09-10T04:09:09+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -88,7 +88,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "0 urun (indirim yok olabilir)"
+      "message": "gece trick yanit verdi ama 0 urun"
     }
   },
   "totals": {

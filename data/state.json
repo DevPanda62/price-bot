@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-09-10T02:16:46+03:00",
-  "heartbeat_at": "2026-09-10T02:20:22+03:00",
+  "last_run": "2026-09-10T04:09:09+03:00",
+  "heartbeat_at": "2026-09-10T04:12:22+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -80,7 +80,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "0 urun (indirim yok olabilir)"
+      "message": "gece trick yanit verdi ama 0 urun"
     }
   },
   "totals": {
@@ -112,7 +112,7 @@
   "utm_last": {
     "hepsiburada": "2026-08-11T23:19:37+03:00",
     "vatan": "2026-09-10T02:16:46+03:00",
-    "amazon": "2026-09-08T04:29:33+03:00",
+    "amazon": "2026-09-10T04:09:09+03:00",
     "trendyol": "2026-09-09T09:31:01+03:00",
     "n11": "2026-08-18T05:54:22+03:00",
     "ciceksepeti": "2026-08-14T02:27:16+03:00",
@@ -122,7 +122,7 @@
     "trendyol": "safari17_0",
     "n11": "chrome124",
     "ciceksepeti": "chrome124",
-    "amazon": "chrome124",
+    "amazon": "safari17_0",
     "teknosa": "chrome124"
   },
   "critical": {
