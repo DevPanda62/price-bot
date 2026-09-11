@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-09-11T12:33:25+03:00",
+  "generated_at": "2026-09-11T16:47:06+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 165656329,
+    "used_bytes": 172973157,
     "quota_bytes": 943718400
   },
   "sites": {
     "trendyol": {
-      "ok": false,
+      "ok": true,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi"
+      "message": "ultra trick mode ile tarandi"
     },
     "hepsiburada": {
       "ok": true,
@@ -68,7 +68,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi (ultra trick mode de basarisiz)"
+      "message": "pas gecildi"
     },
     "vatan": {
       "ok": false,
@@ -88,7 +88,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": ""
+      "message": "proxy ile tarandi"
     }
   },
   "totals": {
@@ -100,7 +100,7 @@
     }
   },
   "critical": {
-    "selected": 12,
+    "selected": 16,
     "checked": 6,
     "updated": 6,
     "flash": 0
