@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-09-13T00:40:17+03:00",
-  "heartbeat_at": "2026-09-13T00:47:20+03:00",
+  "last_run": "2026-09-13T02:22:27+03:00",
+  "heartbeat_at": "2026-09-13T02:26:47+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -10,24 +10,24 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm yanit verdi ama 0 urun"
+      "message": "gece trick yanit verdi ama 0 urun"
     },
     "hepsiburada": {
       "ok": true,
-      "product_count": 0,
+      "product_count": 1,
       "categories": {
         "normal": 0,
-        "discount": 0,
+        "discount": 1,
         "error": 0
       },
       "message": ""
     },
     "n11": {
       "ok": true,
-      "product_count": 1,
+      "product_count": 0,
       "categories": {
         "normal": 0,
-        "discount": 1,
+        "discount": 0,
         "error": 0
       },
       "message": ""
@@ -40,7 +40,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (59 dk)"
+      "message": "0 urun (indirim yok olabilir)"
     },
     "mediamarkt": {
       "ok": false,
@@ -113,7 +113,7 @@
     "hepsiburada": "2026-08-11T23:19:37+03:00",
     "vatan": "2026-09-12T07:30:26+03:00",
     "amazon": "2026-09-12T07:30:26+03:00",
-    "trendyol": "2026-09-13T00:40:17+03:00",
+    "trendyol": "2026-09-13T02:22:27+03:00",
     "n11": "2026-08-18T05:54:22+03:00",
     "ciceksepeti": "2026-09-13T00:40:17+03:00",
     "teknosa": "2026-09-12T18:40:37+03:00"
@@ -124,7 +124,7 @@
     "teknosa": "chrome124"
   },
   "critical": {
-    "selected": 11,
+    "selected": 8,
     "checked": 4,
     "updated": 4,
     "flash": 0
