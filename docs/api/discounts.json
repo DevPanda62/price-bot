@@ -9,8 +9,8 @@
     "old_price": 4999.0,
     "query": "cok satan",
     "first_seen_at": "2026-09-10T02:16:46+03:00",
-    "last_seen_at": "2026-09-12T18:40:37+03:00",
-    "detected_at": "2026-09-12T18:40:37+03:00",
+    "last_seen_at": "2026-09-12T20:50:23+03:00",
+    "detected_at": "2026-09-12T20:50:23+03:00",
     "discount_percent": 10.0,
     "category": "discount",
     "baseline_price": 4999.0,
@@ -21,30 +21,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-12T18:51:17+03:00"
-  },
-  {
-    "id": "848c2667fc9ddd83",
-    "store": "n11",
-    "name": "Apple Uyumlu iPhone 6Plus 6S Plus Kilif Cüzdanli Kapakli Kart Bölmeli 499937435",
-    "url": "https://www.n11.com/urun/apple-uyumlu-iphone-6plus-6s-plus-kilif-cuzdanli-kapakli-kart-bolmeli-499937435-31873664",
-    "image": "https://n11scdn.akamaized.net/a1/org/25/10/15/65/47/15/92/47/06/78/14/12/5549709177890585707.png",
-    "price": 526.94,
-    "old_price": 598.8,
-    "query": "kampanya",
-    "first_seen_at": "2026-09-12T18:40:37+03:00",
-    "last_seen_at": "2026-09-12T18:40:37+03:00",
-    "detected_at": "2026-09-12T18:40:37+03:00",
-    "discount_percent": 12.0,
-    "category": "discount",
-    "baseline_price": 598.8,
-    "baseline_source": "magaza-eski-fiyat",
-    "match_group": null,
-    "matched_stores": [],
-    "reason": "magaza-eski-fiyat: 598.80 TL -> 526.94 TL (%12.0 indirim)",
-    "seller_name": "",
-    "seller_rating": null,
-    "seller_reliable": null,
-    "verified_at": "2026-09-12T18:51:17+03:00"
+    "verified_at": "2026-09-12T20:52:35+03:00"
   }
 ]
