@@ -1,9 +1,40 @@
 {
-  "generated_at": "2026-09-13T21:07:55+03:00",
-  "added_count": 0,
-  "removed_count": 0,
+  "generated_at": "2026-09-13T23:45:10+03:00",
+  "added_count": 1,
+  "removed_count": 1,
   "reclassified_count": 0,
-  "added": [],
-  "removed": [],
+  "added": [
+    {
+      "id": "0c0783a99914525b",
+      "store": "amazon",
+      "name": "Sudoku Uzman Seviye 4: Dünyanın En Sevilen Bulmacası - 222 Bulmaca",
+      "url": "https://www.amazon.com.tr/Sudoku-Uzman-Seviye-Celal-Kodomano%C4%9Flu/dp/6059609538/ref=sr_1_20?dib=eyJ2IjoiMSJ9.DNebmtwI8HEeN60FqUEfsSnGTRcuEX39OUIbEldfYDEJrUs4RMjumaClx5FLU6oys_2dxYIG97Bgud_kMrslA_gYpN9rS_0cbxqmgm9U8-o23GWJPFNOyJeCPN7sWJHuk01Zjedy1y0oGyBcN8gqYfFp1gPLuJpUU9r249x-6KyrV5D0oM6vnbYAeOu0kUkJ2Vbtig75NhHHq_CAXynpJ05TvtU7Uy7ZIcubDtl1e4-F_HFejdM6S2aPt6thTzWpDE9c4iezafVaQcs8rS8bbYsg10GI2wQt3lGMlenSNac.xMkY9Cvx3ka8CpHZ7Lx5siwIS3KkjvUhvjaNMK9qn-g&dib_tag=se&keywords=kampanya&qid=1789332537&sr=8-20",
+      "image": "https://m.media-amazon.com/images/I/61de5C3QCPL._AC_UL320_.jpg",
+      "price": 135.0,
+      "old_price": 150.0,
+      "query": "kampanya",
+      "first_seen_at": "2026-09-13T23:45:10+03:00",
+      "last_seen_at": "2026-09-13T23:45:10+03:00",
+      "detected_at": "2026-09-13T23:45:10+03:00",
+      "discount_percent": 10.0,
+      "category": "discount",
+      "baseline_price": 150.0,
+      "baseline_source": "magaza-eski-fiyat",
+      "match_group": null,
+      "matched_stores": [],
+      "reason": "magaza-eski-fiyat: 150.00 TL -> 135.00 TL (%10.0 indirim)",
+      "seller_name": "",
+      "seller_rating": null,
+      "seller_reliable": null,
+      "verified_at": "2026-09-13T23:49:15+03:00"
+    }
+  ],
+  "removed": [
+    {
+      "id": "aec7fcf13ec36335",
+      "store": "amazon",
+      "name": "Sudoku Uzman Seviye 4: Dünyanın En Sevilen Bulmacası - 222 Bulmaca"
+    }
+  ],
   "reclassified": []
 }
