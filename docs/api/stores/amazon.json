@@ -1,16 +1,16 @@
 [
   {
-    "id": "0c0783a99914525b",
+    "id": "2b43fea563b98a89",
     "store": "amazon",
     "name": "Sudoku Uzman Seviye 4: Dünyanın En Sevilen Bulmacası - 222 Bulmaca",
-    "url": "https://www.amazon.com.tr/Sudoku-Uzman-Seviye-Celal-Kodomano%C4%9Flu/dp/6059609538/ref=sr_1_20?dib=eyJ2IjoiMSJ9.DNebmtwI8HEeN60FqUEfsSnGTRcuEX39OUIbEldfYDEJrUs4RMjumaClx5FLU6oys_2dxYIG97Bgud_kMrslA_gYpN9rS_0cbxqmgm9U8-o23GWJPFNOyJeCPN7sWJHuk01Zjedy1y0oGyBcN8gqYfFp1gPLuJpUU9r249x-6KyrV5D0oM6vnbYAeOu0kUkJ2Vbtig75NhHHq_CAXynpJ05TvtU7Uy7ZIcubDtl1e4-F_HFejdM6S2aPt6thTzWpDE9c4iezafVaQcs8rS8bbYsg10GI2wQt3lGMlenSNac.xMkY9Cvx3ka8CpHZ7Lx5siwIS3KkjvUhvjaNMK9qn-g&dib_tag=se&keywords=kampanya&qid=1789332537&sr=8-20",
+    "url": "https://www.amazon.com.tr/Sudoku-Uzman-Seviye-Celal-Kodomano%C4%9Flu/dp/6059609538/ref=sr_1_20?dib=eyJ2IjoiMSJ9.DNebmtwI8HEeN60FqUEfsSnGTRcuEX39OUIbEldfYDEJrUs4RMjumaClx5FLU6oys_2dxYIG97Bgud_kMrslA_gYpN9rS_0cbxqmgm9U8-o23GWJPFNOyJeCPN7sWJHuk01Zjedy1y0oGyBcN8gqYfFp1gPLuJpUU9r249x-6KyrV5D0oM6vnbYAeOu0kUkJ2Vbtig75NhHHq_CAXynpJ05TvtU7Uy7ZIcubDtl1e4-F_HFejdM6S2aPt6thTzWpDE9c4iezafVaQcs8rS8bbYsg10GI2wQt3lGMlenSNac.TkdcYJmMBJCNm5Rue0M9O2wK_qNp4XUUeNunoME9haU&dib_tag=se&keywords=kampanya&qid=1789345930&sr=8-20",
     "image": "https://m.media-amazon.com/images/I/61de5C3QCPL._AC_UL320_.jpg",
     "price": 135.0,
     "old_price": 150.0,
     "query": "kampanya",
-    "first_seen_at": "2026-09-13T23:45:10+03:00",
-    "last_seen_at": "2026-09-13T23:45:10+03:00",
-    "detected_at": "2026-09-13T23:45:10+03:00",
+    "first_seen_at": "2026-09-14T03:26:12+03:00",
+    "last_seen_at": "2026-09-14T03:26:12+03:00",
+    "detected_at": "2026-09-14T03:26:12+03:00",
     "discount_percent": 10.0,
     "category": "discount",
     "baseline_price": 150.0,
@@ -21,6 +21,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-13T23:49:15+03:00"
+    "verified_at": "2026-09-14T03:32:25+03:00"
   }
 ]

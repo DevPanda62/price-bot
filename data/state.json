@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-09-14T01:39:39+03:00",
-  "heartbeat_at": "2026-09-14T01:47:05+03:00",
+  "last_run": "2026-09-14T03:26:12+03:00",
+  "heartbeat_at": "2026-09-14T03:32:44+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -24,10 +24,10 @@
     },
     "n11": {
       "ok": true,
-      "product_count": 0,
+      "product_count": 1,
       "categories": {
         "normal": 0,
-        "discount": 0,
+        "discount": 1,
         "error": 0
       },
       "message": ""
@@ -74,20 +74,20 @@
     },
     "amazon": {
       "ok": true,
-      "product_count": 0,
+      "product_count": 1,
       "categories": {
         "normal": 0,
-        "discount": 0,
+        "discount": 1,
         "error": 0
       },
-      "message": ""
+      "message": "gece trick ile tarandi (proxysiz)"
     }
   },
   "totals": {
-    "products": 1,
+    "products": 3,
     "categories": {
       "normal": 0,
-      "discount": 1,
+      "discount": 3,
       "error": 0
     }
   },
@@ -113,21 +113,22 @@
   "utm_last": {
     "hepsiburada": "2026-08-11T23:19:37+03:00",
     "vatan": "2026-09-14T01:39:39+03:00",
-    "amazon": "2026-09-13T18:05:46+03:00",
+    "amazon": "2026-09-14T03:26:12+03:00",
     "trendyol": "2026-09-13T09:09:55+03:00",
     "n11": "2026-08-18T05:54:22+03:00",
     "ciceksepeti": "2026-09-13T00:40:17+03:00",
-    "teknosa": "2026-09-14T01:39:39+03:00"
+    "teknosa": "2026-09-14T03:26:12+03:00"
   },
   "utm_prof": {
     "trendyol": "safari17_0",
     "n11": "chrome124",
-    "teknosa": "safari17_0"
+    "teknosa": "firefox133",
+    "amazon": "chrome124"
   },
   "critical": {
-    "selected": 13,
-    "checked": 4,
-    "updated": 4,
+    "selected": 15,
+    "checked": 6,
+    "updated": 6,
     "flash": 0
   }
 }
