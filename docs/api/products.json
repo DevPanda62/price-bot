@@ -1,5 +1,29 @@
 [
   {
+    "id": "114f37100a47c37f",
+    "store": "amazon",
+    "name": "Sudoku Uzman Seviye 4: Dünyanın En Sevilen Bulmacası - 222 Bulmaca",
+    "url": "https://www.amazon.com.tr/Sudoku-Uzman-Seviye-Celal-Kodomano%C4%9Flu/dp/6059609538/ref=sr_1_20?dib=eyJ2IjoiMSJ9.DNebmtwI8HEeN60FqUEfsSnGTRcuEX39OUIbEldfYDEJrUs4RMjumaClx5FLU6oys_2dxYIG97Bgud_kMrslA1X0HvrgORYpMuVfFPBmsJKJLDXLewHp4CGk3Ttao6YtmIDGaKgYep3LNYklDjw3SEQLVchWR7wwwtRP7Ld5znJtkyEDd6bgCbEZBsfIsU6rZ31ee0M4lYX60X8AgcsoK6y_XkhfEAk4qaE860FsaIGfvsp6F5D9zHV5DPPEw-0a0e3JfP6ZVWJWNXCc9qXrY4sg10GI2wQt3lGMlenSNac.un7COyyODWxlIlH0MStBNAdiuTlfVjRBXxS7Hxy0FAU&dib_tag=se&keywords=kampanya&qid=1789404364&sr=8-20",
+    "image": "https://m.media-amazon.com/images/I/61de5C3QCPL._AC_UL320_.jpg",
+    "price": 135.0,
+    "old_price": 150.0,
+    "query": "kampanya",
+    "first_seen_at": "2026-09-14T19:37:43+03:00",
+    "last_seen_at": "2026-09-14T19:37:43+03:00",
+    "detected_at": "2026-09-14T19:37:43+03:00",
+    "discount_percent": 10.0,
+    "category": "discount",
+    "baseline_price": 150.0,
+    "baseline_source": "magaza-eski-fiyat",
+    "match_group": null,
+    "matched_stores": [],
+    "reason": "magaza-eski-fiyat: 150.00 TL -> 135.00 TL (%10.0 indirim)",
+    "seller_name": "",
+    "seller_rating": null,
+    "seller_reliable": null,
+    "verified_at": "2026-09-14T19:46:20+03:00"
+  },
+  {
     "id": "d8d6755b84eabb5d",
     "store": "hepsiburada",
     "name": "İYİSİYOK Çift Piston Hava Kompresörü Araba Bot Bisiklet Top Balon Lastik Şişirme Pompası",
@@ -9,8 +33,8 @@
     "old_price": 4999.0,
     "query": "cok satan",
     "first_seen_at": "2026-09-13T02:22:27+03:00",
-    "last_seen_at": "2026-09-14T13:44:59+03:00",
-    "detected_at": "2026-09-14T13:44:59+03:00",
+    "last_seen_at": "2026-09-14T19:37:43+03:00",
+    "detected_at": "2026-09-14T19:37:43+03:00",
     "discount_percent": 10.0,
     "category": "discount",
     "baseline_price": 4999.0,
@@ -21,6 +45,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-14T14:00:19+03:00"
+    "verified_at": "2026-09-14T19:46:20+03:00"
   }
 ]

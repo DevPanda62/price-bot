@@ -1,30 +1,34 @@
 {
-  "generated_at": "2026-09-14T13:44:59+03:00",
-  "added_count": 0,
-  "removed_count": 4,
+  "generated_at": "2026-09-14T19:37:43+03:00",
+  "added_count": 1,
+  "removed_count": 0,
   "reclassified_count": 0,
-  "added": [],
-  "removed": [
+  "added": [
     {
-      "id": "4ace76660d355b95",
-      "store": "n11",
-      "name": "Ücretsiz Kargo Ceponya Huawei P40 Lite Kilif Lüx Kamera Koruma Çikintili Soft Silikon 233462712 - Kampanya / Istemiyorum (6) 10 günün en düşük fiyatı! 324,80 TL SEPETTE 285,82 TL"
-    },
-    {
-      "id": "8a33fcf31f131656",
-      "store": "hepsiburada",
-      "name": "Ek 20 TL Kupon Ek 20 TL Kupon Asus TUF Gaming FX607VU-RL017 Intel Core 5 210H 16GB 512GB SSD RTX4050 Freedos 16\" Taşınabilir Bilgisayar Ürün puanı 4.7, 116 değerlendirme 4,7 ( 116 ) Sepete özel 48.999 TL 46.549 ,05 TL"
-    },
-    {
-      "id": "b8729bc524cfce05",
-      "store": "hepsiburada",
-      "name": "MSI KATANA 17 HX B14WFK-257XTR Intel Core i7 14650HX  16GB 1TB SSD RTX5060 Freeods 17.3\" QHD 240Hz Taşınabilir Bilgisayar Ürün puanı 4.6, 25 değerlendirme 4,6 ( 25 ) Sepete özel 78.163,49 TL 74.255 ,32 TL"
-    },
-    {
-      "id": "d3e34daae89c5258",
-      "store": "hepsiburada",
-      "name": "Asus Tuf Gaming F16 FX608JMI-TU403 RTX5060 Intel Core I7 14650HX 16GB Ram 512GB SSD 16 Inç Fhd Taşınabilir Bilgisayar Sepete özel 99.999 TL 94.999 ,05 TL"
+      "id": "114f37100a47c37f",
+      "store": "amazon",
+      "name": "Sudoku Uzman Seviye 4: Dünyanın En Sevilen Bulmacası - 222 Bulmaca",
+      "url": "https://www.amazon.com.tr/Sudoku-Uzman-Seviye-Celal-Kodomano%C4%9Flu/dp/6059609538/ref=sr_1_20?dib=eyJ2IjoiMSJ9.DNebmtwI8HEeN60FqUEfsSnGTRcuEX39OUIbEldfYDEJrUs4RMjumaClx5FLU6oys_2dxYIG97Bgud_kMrslA1X0HvrgORYpMuVfFPBmsJKJLDXLewHp4CGk3Ttao6YtmIDGaKgYep3LNYklDjw3SEQLVchWR7wwwtRP7Ld5znJtkyEDd6bgCbEZBsfIsU6rZ31ee0M4lYX60X8AgcsoK6y_XkhfEAk4qaE860FsaIGfvsp6F5D9zHV5DPPEw-0a0e3JfP6ZVWJWNXCc9qXrY4sg10GI2wQt3lGMlenSNac.un7COyyODWxlIlH0MStBNAdiuTlfVjRBXxS7Hxy0FAU&dib_tag=se&keywords=kampanya&qid=1789404364&sr=8-20",
+      "image": "https://m.media-amazon.com/images/I/61de5C3QCPL._AC_UL320_.jpg",
+      "price": 135.0,
+      "old_price": 150.0,
+      "query": "kampanya",
+      "first_seen_at": "2026-09-14T19:37:43+03:00",
+      "last_seen_at": "2026-09-14T19:37:43+03:00",
+      "detected_at": "2026-09-14T19:37:43+03:00",
+      "discount_percent": 10.0,
+      "category": "discount",
+      "baseline_price": 150.0,
+      "baseline_source": "magaza-eski-fiyat",
+      "match_group": null,
+      "matched_stores": [],
+      "reason": "magaza-eski-fiyat: 150.00 TL -> 135.00 TL (%10.0 indirim)",
+      "seller_name": "",
+      "seller_rating": null,
+      "seller_reliable": null,
+      "verified_at": "2026-09-14T19:46:20+03:00"
     }
   ],
+  "removed": [],
   "reclassified": []
 }
