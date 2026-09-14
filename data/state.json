@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-09-14T23:32:09+03:00",
-  "heartbeat_at": "2026-09-14T23:41:29+03:00",
+  "last_run": "2026-09-15T02:23:21+03:00",
+  "heartbeat_at": "2026-09-15T02:28:32+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -53,14 +53,14 @@
       "message": "0 urun (indirim yok olabilir)"
     },
     "teknosa": {
-      "ok": false,
+      "ok": true,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": "proxy acik ama 0 urun"
+      "message": "gece trick ile tarandi (proxysiz)"
     },
     "vatan": {
       "ok": false,
@@ -73,14 +73,14 @@
       "message": "pas gecildi"
     },
     "amazon": {
-      "ok": true,
+      "ok": false,
       "product_count": 1,
       "categories": {
         "normal": 0,
         "discount": 1,
         "error": 0
       },
-      "message": ""
+      "message": "0 urun (indirim yok olabilir)"
     }
   },
   "totals": {
@@ -105,7 +105,7 @@
     "hepsiburada": "normal",
     "n11": "normal",
     "ciceksepeti": "utm",
-    "teknosa": "proxy",
+    "teknosa": "normal",
     "vatan": "skipped",
     "mediamarkt": "proxy",
     "amazon": "normal"
@@ -117,7 +117,7 @@
     "trendyol": "2026-09-14T13:44:59+03:00",
     "n11": "2026-08-18T05:54:22+03:00",
     "ciceksepeti": "2026-09-13T00:40:17+03:00",
-    "teknosa": "2026-09-14T03:26:12+03:00"
+    "teknosa": "2026-09-15T02:23:21+03:00"
   },
   "utm_prof": {
     "trendyol": "safari17_0",
@@ -126,7 +126,7 @@
     "amazon": "chrome124"
   },
   "critical": {
-    "selected": 12,
+    "selected": 11,
     "checked": 4,
     "updated": 4,
     "flash": 0
