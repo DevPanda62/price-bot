@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T22:55:35+03:00",
+  "generated_at": "2026-09-16T01:39:09+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -61,14 +61,14 @@
       "message": "0 urun (indirim yok olabilir)"
     },
     "teknosa": {
-      "ok": false,
+      "ok": true,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": "proxy acik ama 0 urun"
+      "message": "gece trick ile tarandi (proxysiz)"
     },
     "vatan": {
       "ok": false,
@@ -78,17 +78,17 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi (ultra trick mode de basarisiz)"
+      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
     },
     "amazon": {
-      "ok": false,
+      "ok": true,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": "0 urun (indirim yok olabilir)"
+      "message": ""
     }
   },
   "totals": {
@@ -100,7 +100,7 @@
     }
   },
   "critical": {
-    "selected": 8,
+    "selected": 16,
     "checked": 5,
     "updated": 5,
     "flash": 0

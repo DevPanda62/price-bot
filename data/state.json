@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-09-15T22:55:35+03:00",
-  "heartbeat_at": "2026-09-15T22:58:48+03:00",
+  "last_run": "2026-09-16T01:39:09+03:00",
+  "heartbeat_at": "2026-09-16T01:45:23+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -53,14 +53,14 @@
       "message": "0 urun (indirim yok olabilir)"
     },
     "teknosa": {
-      "ok": false,
+      "ok": true,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": "proxy acik ama 0 urun"
+      "message": "gece trick ile tarandi (proxysiz)"
     },
     "vatan": {
       "ok": false,
@@ -70,17 +70,17 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi (ultra trick mode de basarisiz)"
+      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
     },
     "amazon": {
-      "ok": false,
+      "ok": true,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": "0 urun (indirim yok olabilir)"
+      "message": ""
     }
   },
   "totals": {
@@ -105,19 +105,19 @@
     "hepsiburada": "normal",
     "n11": "normal",
     "ciceksepeti": "utm",
-    "teknosa": "proxy",
-    "vatan": "skipped",
+    "teknosa": "normal",
+    "vatan": "night",
     "mediamarkt": "proxy",
     "amazon": "normal"
   },
   "utm_last": {
     "hepsiburada": "2026-08-11T23:19:37+03:00",
-    "vatan": "2026-09-14T08:15:57+03:00",
+    "vatan": "2026-09-16T01:39:09+03:00",
     "amazon": "2026-09-14T03:26:12+03:00",
     "trendyol": "2026-09-15T15:07:24+03:00",
     "n11": "2026-08-18T05:54:22+03:00",
     "ciceksepeti": "2026-09-13T00:40:17+03:00",
-    "teknosa": "2026-09-15T04:37:01+03:00"
+    "teknosa": "2026-09-16T01:39:09+03:00"
   },
   "utm_prof": {
     "trendyol": "safari17_0",
@@ -126,7 +126,7 @@
     "amazon": "chrome124"
   },
   "critical": {
-    "selected": 8,
+    "selected": 16,
     "checked": 5,
     "updated": 5,
     "flash": 0
