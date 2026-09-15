@@ -1,15 +1,9 @@
 {
-  "generated_at": "2026-09-15T04:37:01+03:00",
+  "generated_at": "2026-09-15T09:39:33+03:00",
   "added_count": 0,
-  "removed_count": 1,
+  "removed_count": 0,
   "reclassified_count": 0,
   "added": [],
-  "removed": [
-    {
-      "id": "fa96c56b1d71edc9",
-      "store": "amazon",
-      "name": "Sudoku Uzman Seviye 4: Dünyanın En Sevilen Bulmacası - 222 Bulmaca"
-    }
-  ],
+  "removed": [],
   "reclassified": []
 }
