@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T08:21:49+03:00",
+  "generated_at": "2026-09-16T13:05:29+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -31,14 +31,14 @@
       "message": ""
     },
     "n11": {
-      "ok": false,
-      "product_count": 0,
+      "ok": true,
+      "product_count": 2,
       "categories": {
         "normal": 0,
-        "discount": 0,
+        "discount": 2,
         "error": 0
       },
-      "message": "0 urun (indirim yok olabilir)"
+      "message": ""
     },
     "ciceksepeti": {
       "ok": false,
@@ -68,7 +68,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (59 dk)"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "vatan": {
       "ok": false,
@@ -78,29 +78,29 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (59 dk)"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "amazon": {
-      "ok": false,
+      "ok": true,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": "0 urun (indirim yok olabilir)"
+      "message": ""
     }
   },
   "totals": {
-    "products": 1,
+    "products": 3,
     "categories": {
       "normal": 0,
-      "discount": 1,
+      "discount": 3,
       "error": 0
     }
   },
   "critical": {
-    "selected": 6,
+    "selected": 16,
     "checked": 5,
     "updated": 5,
     "flash": 0
