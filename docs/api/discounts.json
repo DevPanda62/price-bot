@@ -9,8 +9,8 @@
     "old_price": 4999.0,
     "query": "cok satan",
     "first_seen_at": "2026-09-14T23:32:09+03:00",
-    "last_seen_at": "2026-09-16T01:39:09+03:00",
-    "detected_at": "2026-09-16T01:39:09+03:00",
+    "last_seen_at": "2026-09-16T03:48:26+03:00",
+    "detected_at": "2026-09-16T03:48:26+03:00",
     "discount_percent": 12.0,
     "category": "discount",
     "baseline_price": 4999.0,
@@ -21,30 +21,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-16T01:45:06+03:00"
-  },
-  {
-    "id": "aaac7b55bdbe6e34",
-    "store": "n11",
-    "name": "Xlc Co2 Adaptörlü Kartuş 2 Yedekli ve Bağlantı Apartalı--Indirim Gümüş",
-    "url": "https://www.n11.com/urun/xlc-co2-adaptorlu-kartus-2-yedekli-ve-baglanti-apartali-indirim-gumus-4401534",
-    "image": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2016%2016'%3E%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'%23ffffff'%2F%3E%3C%2Fsvg%3E",
-    "price": 612.1,
-    "old_price": 687.75,
-    "query": "indirim",
-    "first_seen_at": "2026-09-16T01:39:09+03:00",
-    "last_seen_at": "2026-09-16T01:39:09+03:00",
-    "detected_at": "2026-09-16T01:39:09+03:00",
-    "discount_percent": 11.0,
-    "category": "discount",
-    "baseline_price": 687.75,
-    "baseline_source": "magaza-eski-fiyat",
-    "match_group": null,
-    "matched_stores": [],
-    "reason": "magaza-eski-fiyat: 687.75 TL -> 612.10 TL (%11.0 indirim)",
-    "seller_name": "",
-    "seller_rating": null,
-    "seller_reliable": null,
-    "verified_at": "2026-09-16T01:45:06+03:00"
+    "verified_at": "2026-09-16T03:52:21+03:00"
   }
 ]
