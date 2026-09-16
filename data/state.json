@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-09-16T03:48:26+03:00",
-  "heartbeat_at": "2026-09-16T03:52:29+03:00",
+  "last_run": "2026-09-16T08:21:49+03:00",
+  "heartbeat_at": "2026-09-16T08:25:16+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -23,14 +23,14 @@
       "message": ""
     },
     "n11": {
-      "ok": true,
+      "ok": false,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": ""
+      "message": "0 urun (indirim yok olabilir)"
     },
     "ciceksepeti": {
       "ok": false,
@@ -60,7 +60,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
+      "message": "utm bekliyor (59 dk)"
     },
     "vatan": {
       "ok": false,
@@ -70,17 +70,17 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
+      "message": "utm bekliyor (59 dk)"
     },
     "amazon": {
-      "ok": true,
+      "ok": false,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": ""
+      "message": "0 urun (indirim yok olabilir)"
     }
   },
   "totals": {
@@ -105,28 +105,27 @@
     "hepsiburada": "normal",
     "n11": "normal",
     "ciceksepeti": "utm",
-    "teknosa": "night",
-    "vatan": "night",
+    "teknosa": "utm",
+    "vatan": "utm",
     "mediamarkt": "proxy",
     "amazon": "normal"
   },
   "utm_last": {
     "hepsiburada": "2026-08-11T23:19:37+03:00",
-    "vatan": "2026-09-16T01:39:09+03:00",
+    "vatan": "2026-09-16T08:21:49+03:00",
     "amazon": "2026-09-14T03:26:12+03:00",
     "trendyol": "2026-09-15T15:07:24+03:00",
     "n11": "2026-08-18T05:54:22+03:00",
     "ciceksepeti": "2026-09-13T00:40:17+03:00",
-    "teknosa": "2026-09-16T03:48:26+03:00"
+    "teknosa": "2026-09-16T08:21:49+03:00"
   },
   "utm_prof": {
     "trendyol": "safari17_0",
     "n11": "chrome124",
-    "teknosa": "firefox133",
     "amazon": "chrome124"
   },
   "critical": {
-    "selected": 9,
+    "selected": 6,
     "checked": 5,
     "updated": 5,
     "flash": 0
