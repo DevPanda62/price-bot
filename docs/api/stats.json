@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-17T04:49:13+03:00",
+  "generated_at": "2026-09-17T09:46:21+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 284277877,
+    "used_bytes": 286667496,
     "quota_bytes": 943718400
   },
   "sites": {
@@ -32,10 +32,10 @@
     },
     "n11": {
       "ok": true,
-      "product_count": 1,
+      "product_count": 2,
       "categories": {
         "normal": 0,
-        "discount": 1,
+        "discount": 2,
         "error": 0
       },
       "message": ""
@@ -68,7 +68,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi"
+      "message": "utm yanit verdi ama 0 urun"
     },
     "vatan": {
       "ok": false,
@@ -78,7 +78,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "amazon": {
       "ok": true,
@@ -92,17 +92,17 @@
     }
   },
   "totals": {
-    "products": 2,
+    "products": 3,
     "categories": {
       "normal": 0,
-      "discount": 2,
+      "discount": 3,
       "error": 0
     }
   },
   "critical": {
-    "selected": 11,
-    "checked": 9,
-    "updated": 9,
+    "selected": 10,
+    "checked": 6,
+    "updated": 6,
     "flash": 0
   }
 }
