@@ -1,34 +1,9 @@
 {
-  "generated_at": "2026-09-17T09:46:21+03:00",
-  "added_count": 1,
+  "generated_at": "2026-09-17T15:11:07+03:00",
+  "added_count": 0,
   "removed_count": 0,
   "reclassified_count": 0,
-  "added": [
-    {
-      "id": "958827e79138ec3e",
-      "store": "n11",
-      "name": "Realme 6 Pro Elektrocase Kamera Koruma Silikon Kilif + Cam (Seç) 439906664",
-      "url": "https://www.n11.com/urun/realme-6-pro-elektrocase-kamera-koruma-silikon-kilif-cam-sec-439906664-31850346",
-      "image": "https://n11scdn.akamaized.net/a1/org/25/10/15/65/47/15/92/47/06/78/14/12/5549709177890585707.png",
-      "price": 318.56,
-      "old_price": 362.0,
-      "query": "kampanya",
-      "first_seen_at": "2026-09-17T09:46:21+03:00",
-      "last_seen_at": "2026-09-17T09:46:21+03:00",
-      "detected_at": "2026-09-17T09:46:21+03:00",
-      "discount_percent": 12.0,
-      "category": "discount",
-      "baseline_price": 362.0,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": null,
-      "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 362.00 TL -> 318.56 TL (%12.0 indirim)",
-      "seller_name": "",
-      "seller_rating": null,
-      "seller_reliable": null,
-      "verified_at": "2026-09-17T09:56:30+03:00"
-    }
-  ],
+  "added": [],
   "removed": [],
   "reclassified": []
 }
