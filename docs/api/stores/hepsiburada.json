@@ -1,5 +1,30 @@
 [
   {
+    "id": "cd7b0df3464be80e",
+    "store": "hepsiburada",
+    "name": "İndirim Var Aspiratör & Davlumbaz Baca Adaptörü 120/150 mm Esnek Materyal ile Siyah Renk Seçeneği",
+    "url": "https://www.hepsiburada.com/indirim-var-aspirator-davlumbaz-baca-adaptoru-120-150-mm-pm-HBC00008CUI1N",
+    "image": "https://productimages.hepsiburada.net/s/777/222-222/110000971636599.jpg",
+    "price": 199.0,
+    "old_price": 239.0,
+    "query": "indirim",
+    "first_seen_at": "2026-09-18T12:53:33+03:00",
+    "last_seen_at": "2026-09-18T12:53:33+03:00",
+    "detected_at": "2026-09-18T12:53:33+03:00",
+    "discount_percent": 16.74,
+    "category": "discount",
+    "baseline_price": 239.0,
+    "baseline_source": "magaza-eski-fiyat",
+    "match_group": null,
+    "matched_stores": [],
+    "reason": "magaza-eski-fiyat: 239.00 TL -> 199.00 TL (%16.7 indirim)",
+    "seller_name": "İndirim Var",
+    "seller_rating": 4.5,
+    "seller_reliable": true,
+    "verified_at": "2026-09-18T13:03:33+03:00",
+    "flash": 0
+  },
+  {
     "id": "d8d6755b84eabb5d",
     "store": "hepsiburada",
     "name": "İYİSİYOK Çift Piston Hava Kompresörü Araba Bot Bisiklet Top Balon Lastik Şişirme Pompası",
@@ -8,9 +33,9 @@
     "price": 4499.1,
     "old_price": 4999.0,
     "query": "cok satan",
-    "first_seen_at": "2026-09-17T00:38:24+03:00",
-    "last_seen_at": "2026-09-18T03:50:11+03:00",
-    "detected_at": "2026-09-18T03:50:11+03:00",
+    "first_seen_at": "2026-09-18T12:53:33+03:00",
+    "last_seen_at": "2026-09-18T12:53:33+03:00",
+    "detected_at": "2026-09-18T12:53:33+03:00",
     "discount_percent": 10.0,
     "category": "discount",
     "baseline_price": 4999.0,
@@ -21,6 +46,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-18T03:52:14+03:00"
+    "verified_at": "2026-09-18T13:03:33+03:00"
   }
 ]
