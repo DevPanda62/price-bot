@@ -9,8 +9,8 @@
     "old_price": 362.0,
     "query": "kampanya",
     "first_seen_at": "2026-09-17T09:46:21+03:00",
-    "last_seen_at": "2026-09-18T16:57:37+03:00",
-    "detected_at": "2026-09-18T16:57:37+03:00",
+    "last_seen_at": "2026-09-18T20:32:37+03:00",
+    "detected_at": "2026-09-18T20:32:37+03:00",
     "discount_percent": 12.0,
     "category": "discount",
     "baseline_price": 362.0,
@@ -21,7 +21,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-18T17:02:28+03:00"
+    "verified_at": "2026-09-18T20:47:26+03:00"
   },
   {
     "id": "0685c962b9d2e4e3",
@@ -33,13 +33,13 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-17T19:59:22+03:00",
-    "last_seen_at": "2026-09-18T16:57:37+03:00",
-    "detected_at": "2026-09-18T16:57:37+03:00",
+    "last_seen_at": "2026-09-18T20:32:37+03:00",
+    "detected_at": "2026-09-18T20:32:37+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00002",
+    "match_group": "g00004",
     "matched_stores": [
       {
         "store": "n11",
@@ -51,7 +51,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-18T17:02:28+03:00"
+    "verified_at": "2026-09-18T20:47:26+03:00"
   },
   {
     "id": "3565da2ec784cbc8",
@@ -63,13 +63,13 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-18T08:18:57+03:00",
-    "last_seen_at": "2026-09-18T16:57:37+03:00",
-    "detected_at": "2026-09-18T16:57:37+03:00",
+    "last_seen_at": "2026-09-18T20:32:37+03:00",
+    "detected_at": "2026-09-18T20:32:37+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00002",
+    "match_group": "g00004",
     "matched_stores": [
       {
         "store": "n11",
@@ -81,30 +81,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-18T17:02:28+03:00"
-  },
-  {
-    "id": "c98be9cde5bed76a",
-    "store": "n11",
-    "name": "Ücretsiz Kargo FırsatYakala35 Ba0142 Bantlı Erkek Yüksek Taban Krem Spor Bot (1) 4.000 TL SEPETTE 3.640 TL",
-    "url": "https://www.n11.com/urun/ba0142-bantli-erkek-yuksek-taban-krem-spor-bot-19776334?magaza=firsatyakala35&adBidding=true",
-    "image": "https://n11scdn.akamaized.net/a1/216/08/20/51/05/IMG-7510745013324751599.jpg",
-    "price": 3640.0,
-    "old_price": 4000.0,
-    "query": "firsat",
-    "first_seen_at": "2026-09-18T16:57:37+03:00",
-    "last_seen_at": "2026-09-18T16:57:37+03:00",
-    "detected_at": "2026-09-18T16:57:37+03:00",
-    "discount_percent": 9.0,
-    "category": "discount",
-    "baseline_price": 4000.0,
-    "baseline_source": "magaza-eski-fiyat",
-    "match_group": null,
-    "matched_stores": [],
-    "reason": "magaza-eski-fiyat: 4000.00 TL -> 3640.00 TL (%9.0 indirim)",
-    "seller_name": "",
-    "seller_rating": null,
-    "seller_reliable": null,
-    "verified_at": "2026-09-18T17:02:28+03:00"
+    "verified_at": "2026-09-18T20:47:26+03:00"
   }
 ]
