@@ -9,8 +9,8 @@
     "old_price": 362.0,
     "query": "kampanya",
     "first_seen_at": "2026-09-17T09:46:21+03:00",
-    "last_seen_at": "2026-09-18T01:50:12+03:00",
-    "detected_at": "2026-09-18T01:50:12+03:00",
+    "last_seen_at": "2026-09-18T03:50:11+03:00",
+    "detected_at": "2026-09-18T03:50:11+03:00",
     "discount_percent": 12.0,
     "category": "discount",
     "baseline_price": 362.0,
@@ -21,7 +21,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-18T01:55:58+03:00"
+    "verified_at": "2026-09-18T03:52:14+03:00"
   },
   {
     "id": "5764eab3af1a0fe8",
@@ -29,23 +29,29 @@
     "name": "Ücretsiz Kargo BAYSMONDE Hdj38 Kampanya - Extra Hayvan Dostları Ve Kıyafet Paketleri - Özel Fiyat Diğer (0) 517,55 TL SEPETTE 439,92 TL",
     "url": "https://www.n11.com/urun/hdj38-kampanya-extra-hayvan-dostlari-ve-kiyafet-paketleri-ozel-fiyat-diger-125892451?magaza=baysmonde&adBidding=true",
     "image": "https://n11scdn.akamaized.net/a1/216/04/77/12/09/IMG-5153978019001880671.jpg",
-    "price": 410.81,
+    "price": 439.92,
     "old_price": 517.55,
     "query": "kampanya",
     "first_seen_at": "2026-09-18T01:50:12+03:00",
-    "last_seen_at": "2026-09-18T01:50:12+03:00",
-    "detected_at": "2026-09-18T01:50:12+03:00",
-    "discount_percent": 20.62,
+    "last_seen_at": "2026-09-18T03:50:11+03:00",
+    "detected_at": "2026-09-18T03:50:11+03:00",
+    "discount_percent": 15.0,
     "category": "discount",
     "baseline_price": 517.55,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": null,
-    "matched_stores": [],
-    "reason": "magaza-eski-fiyat: 517.55 TL -> 410.81 TL (%20.6 indirim)",
+    "match_group": "g00003",
+    "matched_stores": [
+      {
+        "store": "n11",
+        "price": 503.1,
+        "url": "https://www.n11.com/urun/hdj38-kampanya-extra-hayvan-dostlari-ve-kiyafet-paketleri-ozel-fiyat-diger-125892451?magaza=art3collection&adBidding=true"
+      }
+    ],
+    "reason": "magaza-eski-fiyat: 517.55 TL -> 439.92 TL (%15.0 indirim)",
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-18T01:55:58+03:00"
+    "verified_at": "2026-09-18T03:52:14+03:00"
   },
   {
     "id": "0685c962b9d2e4e3",
@@ -57,8 +63,8 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-17T19:59:22+03:00",
-    "last_seen_at": "2026-09-18T01:50:12+03:00",
-    "detected_at": "2026-09-18T01:50:12+03:00",
+    "last_seen_at": "2026-09-18T03:50:11+03:00",
+    "detected_at": "2026-09-18T03:50:11+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
@@ -69,7 +75,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-18T01:55:58+03:00"
+    "verified_at": "2026-09-18T03:52:14+03:00"
   },
   {
     "id": "53c7e65cbc87f421",
@@ -81,8 +87,8 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-17T19:59:22+03:00",
-    "last_seen_at": "2026-09-18T01:50:12+03:00",
-    "detected_at": "2026-09-18T01:50:12+03:00",
+    "last_seen_at": "2026-09-18T03:50:11+03:00",
+    "detected_at": "2026-09-18T03:50:11+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
@@ -93,6 +99,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-18T01:55:58+03:00"
+    "verified_at": "2026-09-18T03:52:14+03:00"
   }
 ]
