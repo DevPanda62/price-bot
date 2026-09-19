@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T03:22:11+03:00",
+  "generated_at": "2026-09-19T07:46:40+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -32,11 +32,11 @@
     },
     "n11": {
       "ok": true,
-      "product_count": 6,
+      "product_count": 10,
       "categories": {
         "normal": 0,
-        "discount": 6,
-        "error": 0
+        "discount": 9,
+        "error": 1
       },
       "message": ""
     },
@@ -81,26 +81,26 @@
       "message": "pas gecildi"
     },
     "amazon": {
-      "ok": true,
+      "ok": false,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": ""
+      "message": "utm bekliyor (59 dk)"
     }
   },
   "totals": {
-    "products": 8,
+    "products": 12,
     "categories": {
       "normal": 0,
-      "discount": 8,
-      "error": 0
+      "discount": 11,
+      "error": 1
     }
   },
   "critical": {
-    "selected": 14,
+    "selected": 13,
     "checked": 7,
     "updated": 6,
     "flash": 0
