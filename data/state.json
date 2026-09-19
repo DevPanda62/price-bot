@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-09-19T16:03:15+03:00",
-  "heartbeat_at": "2026-09-19T16:08:18+03:00",
+  "last_run": "2026-09-19T19:23:16+03:00",
+  "heartbeat_at": "2026-09-19T19:33:30+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -24,11 +24,11 @@
     },
     "n11": {
       "ok": true,
-      "product_count": 11,
+      "product_count": 12,
       "categories": {
         "normal": 0,
-        "discount": 9,
-        "error": 2
+        "discount": 11,
+        "error": 1
       },
       "message": ""
     },
@@ -73,22 +73,22 @@
       "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "amazon": {
-      "ok": false,
+      "ok": true,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": "proxy acik ama 0 urun"
+      "message": ""
     }
   },
   "totals": {
-    "products": 13,
+    "products": 14,
     "categories": {
       "normal": 0,
-      "discount": 11,
-      "error": 2
+      "discount": 13,
+      "error": 1
     }
   },
   "proxy_last": {
@@ -108,7 +108,7 @@
     "teknosa": "skipped",
     "vatan": "skipped",
     "mediamarkt": "proxy",
-    "amazon": "proxy"
+    "amazon": "normal"
   },
   "utm_last": {
     "hepsiburada": "2026-08-11T23:19:37+03:00",
@@ -125,9 +125,9 @@
     "teknosa": "chrome124"
   },
   "critical": {
-    "selected": 12,
-    "checked": 6,
-    "updated": 6,
+    "selected": 20,
+    "checked": 7,
+    "updated": 7,
     "flash": 0
   }
 }
