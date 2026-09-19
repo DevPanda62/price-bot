@@ -1,63 +1,51 @@
 {
-  "generated_at": "2026-09-19T01:13:14+03:00",
+  "generated_at": "2026-09-19T03:22:11+03:00",
   "added_count": 2,
   "removed_count": 2,
   "reclassified_count": 0,
   "added": [
     {
-      "id": "c26e2e4ee703d056",
+      "id": "93093651c127c8d5",
       "store": "n11",
-      "name": "Ücretsiz Kargo FırsatYakala35 Ba0142 Bantlı Erkek Yüksek Taban Beyaz Siyah Spor Bot (0) 4.000 TL SEPETTE 3.640 TL",
-      "url": "https://www.n11.com/urun/ba0142-bantli-erkek-yuksek-taban-beyaz-siyah-spor-bot-19776387?magaza=firsatyakala35&adBidding=true",
-      "image": "https://n11scdn.akamaized.net/a1/216/15/52/17/41/IMG-7669857293625734331.jpg",
-      "price": 3640.0,
-      "old_price": 4000.0,
+      "name": "Ücretsiz Kargo FırsatYakala35 BA0605 Bağcıklı Siyah Cilt Askeri Postal Bot (0) 3.000 TL SEPETTE 2.730 TL",
+      "url": "https://www.n11.com/urun/ba0605-bagcikli-siyah-cilt-askeri-postal-bot-32172561?magaza=firsatyakala35&adBidding=true",
+      "image": "https://n11scdn.akamaized.net/a1/216/14/48/66/78/IMG-275276368903114576.jpg",
+      "price": 2730.0,
+      "old_price": 3000.0,
       "query": "firsat",
-      "first_seen_at": "2026-09-19T01:13:14+03:00",
-      "last_seen_at": "2026-09-19T01:13:14+03:00",
-      "detected_at": "2026-09-19T01:13:14+03:00",
+      "first_seen_at": "2026-09-19T03:22:11+03:00",
+      "last_seen_at": "2026-09-19T03:22:11+03:00",
+      "detected_at": "2026-09-19T03:22:11+03:00",
       "discount_percent": 9.0,
       "category": "discount",
-      "baseline_price": 4000.0,
+      "baseline_price": 3000.0,
       "baseline_source": "magaza-eski-fiyat",
-      "match_group": "g00003",
-      "matched_stores": [
-        {
-          "store": "n11",
-          "price": 3640.0,
-          "url": "https://www.n11.com/urun/ba0142-bantli-erkek-yuksek-taban-krem-spor-bot-19776334?magaza=firsatyakala35&adBidding=true"
-        }
-      ],
-      "reason": "magaza-eski-fiyat: 4000.00 TL -> 3640.00 TL (%9.0 indirim)",
+      "match_group": null,
+      "matched_stores": [],
+      "reason": "magaza-eski-fiyat: 3000.00 TL -> 2730.00 TL (%9.0 indirim)",
       "seller_name": "",
       "seller_rating": null,
       "seller_reliable": null,
-      "verified_at": "2026-09-19T01:17:47+03:00"
+      "verified_at": "2026-09-19T03:24:30+03:00"
     },
     {
-      "id": "c98be9cde5bed76a",
+      "id": "8d0e2b47e725c167",
       "store": "n11",
-      "name": "Ücretsiz Kargo FırsatYakala35 Ba0142 Bantlı Erkek Yüksek Taban Krem Spor Bot (1) 4.000 TL SEPETTE 3.640 TL",
-      "url": "https://www.n11.com/urun/ba0142-bantli-erkek-yuksek-taban-krem-spor-bot-19776334?magaza=firsatyakala35&adBidding=true",
-      "image": "https://n11scdn.akamaized.net/a1/216/08/20/51/05/IMG-7510745013324751599.jpg",
+      "name": "Ücretsiz Kargo FırsatYakala35 Ba0142 Bantlı Erkek Yüksek Taban Kahverengi Spor Bot Kahverengi (0) 4.000 TL SEPETTE 3.640 TL",
+      "url": "https://www.n11.com/urun/ba0142-bantli-erkek-yuksek-taban-kahverengi-spor-bot-kahverengi-73961640?magaza=firsatyakala35&adBidding=true",
+      "image": "https://n11scdn.akamaized.net/a1/216/05/85/77/11/IMG-9021620252423488103.jpg",
       "price": 3640.0,
       "old_price": 4000.0,
       "query": "firsat",
-      "first_seen_at": "2026-09-19T01:13:14+03:00",
-      "last_seen_at": "2026-09-19T01:13:14+03:00",
-      "detected_at": "2026-09-19T01:13:14+03:00",
+      "first_seen_at": "2026-09-19T03:22:11+03:00",
+      "last_seen_at": "2026-09-19T03:22:11+03:00",
+      "detected_at": "2026-09-19T03:22:11+03:00",
       "discount_percent": 9.0,
       "category": "discount",
       "baseline_price": 4000.0,
       "baseline_source": "magaza-eski-fiyat",
-      "match_group": "g00003",
-      "matched_stores": [
-        {
-          "store": "n11",
-          "price": 3640.0,
-          "url": "https://www.n11.com/urun/ba0142-bantli-erkek-yuksek-taban-beyaz-siyah-spor-bot-19776387?magaza=firsatyakala35&adBidding=true"
-        }
-      ],
+      "match_group": null,
+      "matched_stores": [],
       "reason": "magaza-eski-fiyat: 4000.00 TL -> 3640.00 TL (%9.0 indirim)",
       "seller_name": "",
       "seller_rating": null,
@@ -66,14 +54,14 @@
   ],
   "removed": [
     {
-      "id": "8afe7a735c45c241",
+      "id": "c26e2e4ee703d056",
       "store": "n11",
-      "name": "Ücretsiz Kargo FırsatYakala35 Boa İçi Dışı Hakiki Deri Fermuarlı Erkek Spor Yarım Bilek Bot BA0144 Siyah (5) 3.000 TL SEPETTE 2.730 TL"
+      "name": "Ücretsiz Kargo FırsatYakala35 Ba0142 Bantlı Erkek Yüksek Taban Beyaz Siyah Spor Bot (0) 4.000 TL SEPETTE 3.640 TL"
     },
     {
-      "id": "f3113fbc512618f6",
+      "id": "c98be9cde5bed76a",
       "store": "n11",
-      "name": "Ücretsiz Kargo ART3COLLECTION Ekranlı Kablosuz Kulaklık Ve Yeşil Çanta Charm Saat Kampanya Seti (0) 1.444,78 TL"
+      "name": "Ücretsiz Kargo FırsatYakala35 Ba0142 Bantlı Erkek Yüksek Taban Krem Spor Bot (1) 4.000 TL SEPETTE 3.640 TL"
     }
   ],
   "reclassified": []
