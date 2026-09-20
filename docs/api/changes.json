@@ -1,171 +1,55 @@
 {
-  "generated_at": "2026-09-20T03:28:58+03:00",
-  "added_count": 6,
-  "removed_count": 1,
-  "reclassified_count": 2,
-  "added": [
-    {
-      "id": "e55566286ea734ff",
-      "store": "n11",
-      "name": "Lenovo Uyumlu Tab M10 Tb-X505F 10.1\" Standlı Kılıf Tablet Kılıfı",
-      "url": "https://www.n11.com/urun/lenovo-uyumlu-tab-m10-tb-x505f-101-standli-kilif-tablet-kilifi-20313578",
-      "image": "https://n11scdn.akamaized.net/a1/org/25/10/15/65/47/15/92/47/06/78/14/12/5549709177890585707.png",
-      "price": 300.12,
-      "old_price": 353.08,
-      "query": "kampanya",
-      "first_seen_at": "2026-09-20T03:28:58+03:00",
-      "last_seen_at": "2026-09-20T03:28:58+03:00",
-      "detected_at": "2026-09-20T03:28:58+03:00",
-      "discount_percent": 15.0,
-      "category": "discount",
-      "baseline_price": 353.08,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": null,
-      "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 353.08 TL -> 300.12 TL (%15.0 indirim)",
-      "seller_name": "",
-      "seller_rating": null,
-      "seller_reliable": null
-    },
-    {
-      "id": "51e0e5476c6794ac",
-      "store": "n11",
-      "name": "Oppo Reno 2Z Elektrocase Seri Kamera Korumali Silikon Kilif Siyah 390753607",
-      "url": "https://www.n11.com/urun/oppo-reno-2z-elektrocase-seri-kamera-korumali-silikon-kilif-siyah-390753607-31833177",
-      "image": "https://n11scdn.akamaized.net/a1/org/25/10/15/65/47/15/92/47/06/78/14/12/5549709177890585707.png",
-      "price": 318.56,
-      "old_price": 362.0,
-      "query": "kampanya",
-      "first_seen_at": "2026-09-20T03:28:58+03:00",
-      "last_seen_at": "2026-09-20T03:28:58+03:00",
-      "detected_at": "2026-09-20T03:28:58+03:00",
-      "discount_percent": 12.0,
-      "category": "discount",
-      "baseline_price": 362.0,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": null,
-      "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 362.00 TL -> 318.56 TL (%12.0 indirim)",
-      "seller_name": "",
-      "seller_rating": null,
-      "seller_reliable": null
-    },
-    {
-      "id": "f1f20fa1479df9d6",
-      "store": "n11",
-      "name": "Samsung Uyumlu Galaxy Tab A7 Lite T220 Kılıf Çocuklara Özel Tablet Kılıf (521889297)",
-      "url": "https://www.n11.com/urun/samsung-uyumlu-galaxy-tab-a7-lite-t220-kilif-cocuklara-ozel-tablet-kilif-521889297-20294020",
-      "image": "https://n11scdn.akamaized.net/a1/org/26/05/25/80/70/44/53/01/81/95/20/46/4835826328757518261.png",
-      "price": 329.91,
-      "old_price": 365.16,
-      "query": "kampanya",
-      "first_seen_at": "2026-09-20T03:28:58+03:00",
-      "last_seen_at": "2026-09-20T03:28:58+03:00",
-      "detected_at": "2026-09-20T03:28:58+03:00",
-      "discount_percent": 9.65,
-      "category": "discount",
-      "baseline_price": 365.16,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": null,
-      "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 365.16 TL -> 329.91 TL (%9.7 indirim)",
-      "seller_name": "",
-      "seller_rating": null,
-      "seller_reliable": null
-    },
-    {
-      "id": "5d51e65265ab8b37",
-      "store": "n11",
-      "name": "Apple Uyumlu iPad 10.2 2021 (9.Nesil) Dönebilen Standlı Kılıf (511204852)",
-      "url": "https://www.n11.com/urun/apple-uyumlu-ipad-102-2021-9nesil-donebilen-standli-kilif-511204852-20313838",
-      "image": "https://n11scdn.akamaized.net/a1/org/25/10/15/65/47/15/92/47/06/78/14/12/5549709177890585707.png",
-      "price": 335.58,
-      "old_price": 394.8,
-      "query": "kampanya",
-      "first_seen_at": "2026-09-20T03:28:58+03:00",
-      "last_seen_at": "2026-09-20T03:28:58+03:00",
-      "detected_at": "2026-09-20T03:28:58+03:00",
-      "discount_percent": 15.0,
-      "category": "discount",
-      "baseline_price": 394.8,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": null,
-      "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 394.80 TL -> 335.58 TL (%15.0 indirim)",
-      "seller_name": "",
-      "seller_rating": null,
-      "seller_reliable": null
-    },
+  "generated_at": "2026-09-20T08:16:00+03:00",
+  "added_count": 0,
+  "removed_count": 9,
+  "reclassified_count": 0,
+  "added": [],
+  "removed": [
     {
       "id": "1f898dbbc86a2ebf",
       "store": "n11",
-      "name": "Lenovo Uyumlu Tab M10 Hd Tb-X306F 10.1\" Inç Universal Tablet Kılıf",
-      "url": "https://www.n11.com/urun/lenovo-uyumlu-tab-m10-hd-tb-x306f-101-inc-universal-tablet-kilif-20314050",
-      "image": "https://n11scdn.akamaized.net/a1/org/25/10/15/65/47/15/92/47/06/78/14/12/5549709177890585707.png",
-      "price": 339.66,
-      "old_price": 399.6,
-      "query": "kampanya",
-      "first_seen_at": "2026-09-20T03:28:58+03:00",
-      "last_seen_at": "2026-09-20T03:28:58+03:00",
-      "detected_at": "2026-09-20T03:28:58+03:00",
-      "discount_percent": 15.0,
-      "category": "discount",
-      "baseline_price": 399.6,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": null,
-      "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 399.60 TL -> 339.66 TL (%15.0 indirim)",
-      "seller_name": "",
-      "seller_rating": null,
-      "seller_reliable": null
-    },
-    {
-      "id": "69e400b8525afbe7",
-      "store": "n11",
-      "name": "Ücretsiz Kargo TRENDEXA 720 Döner Çift Taraflı Masaüstü Vantilatör - Usb Şarjlı Sessiz Fan (0) 1.919,99 TL SEPETTE 1.785,59 TL",
-      "url": "https://www.n11.com/urun/720-doner-cift-tarafli-masaustu-vantilator-usb-sarjli-sessiz-fan-120872192?magaza=trendexa&adBidding=true",
-      "image": "https://n11scdn.akamaized.net/a1/216/06/45/91/74/IMG-5685441403448395548.jpg",
-      "price": 1785.59,
-      "old_price": 1919.99,
-      "query": "firsat",
-      "first_seen_at": "2026-09-20T03:28:58+03:00",
-      "last_seen_at": "2026-09-20T03:28:58+03:00",
-      "detected_at": "2026-09-20T03:28:58+03:00",
-      "discount_percent": 7.0,
-      "category": "discount",
-      "baseline_price": 1919.99,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": null,
-      "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 1919.99 TL -> 1785.59 TL (%7.0 indirim)",
-      "seller_name": "",
-      "seller_rating": null,
-      "seller_reliable": null
-    }
-  ],
-  "removed": [
-    {
-      "id": "617d245c10b8694a",
-      "store": "n11",
-      "name": "Ücretsiz Kargo TRENDEXA Amoled Ekran Metal Deri Silikon Kordonlu Uyku Ve Sağlık Takibi (0) 3.127,99 TL SEPETTE 2.846,47 TL"
-    }
-  ],
-  "reclassified": [
-    {
-      "id": "eb106a18940b2d0e",
-      "store": "n11",
-      "name": "Ücretsiz Kargo TRENDEXA Mey İthalat Dokunmatik Akıllı Saat Yeni Nesil Kulaklık Kampanyası Bluetooth Bağlantılı Anc Özelliği (0) 3.570,99 TL SEPETTE 3.249,60 TL",
-      "from": "discount",
-      "to": "error",
-      "discount_percent": 90.95
+      "name": "Lenovo Uyumlu Tab M10 Hd Tb-X306F 10.1\" Inç Universal Tablet Kılıf"
     },
     {
       "id": "20be91e7d577e6b3",
       "store": "n11",
-      "name": "Ücretsiz Kargo TRENDEXA Mey İthalat Ekranlı Yeni Nesil Pro Kulaklık Ve Akıllı Saat Kampanyası Kulak İçi Mikrofonlu (0) 2.648,99 TL SEPETTE 2.410,58 TL",
-      "from": "error",
-      "to": "discount",
-      "discount_percent": 9.0
+      "name": "Ücretsiz Kargo TRENDEXA Mey İthalat Ekranlı Yeni Nesil Pro Kulaklık Ve Akıllı Saat Kampanyası Kulak İçi Mikrofonlu (0) 2.648,99 TL SEPETTE 2.410,58 TL"
+    },
+    {
+      "id": "48e90ad98ba10879",
+      "store": "n11",
+      "name": "Ücretsiz Kargo TRENDEXA Yeni Nesil Akıllı Saat Ve Kablosuz Kulaklık Kampanyası İkili Set Bluetooth Bağlantılı (0) 1.889,99 TL SEPETTE 1.719,89 TL"
+    },
+    {
+      "id": "51e0e5476c6794ac",
+      "store": "n11",
+      "name": "Oppo Reno 2Z Elektrocase Seri Kamera Korumali Silikon Kilif Siyah 390753607"
+    },
+    {
+      "id": "5d51e65265ab8b37",
+      "store": "n11",
+      "name": "Apple Uyumlu iPad 10.2 2021 (9.Nesil) Dönebilen Standlı Kılıf (511204852)"
+    },
+    {
+      "id": "69e400b8525afbe7",
+      "store": "n11",
+      "name": "Ücretsiz Kargo TRENDEXA 720 Döner Çift Taraflı Masaüstü Vantilatör - Usb Şarjlı Sessiz Fan (0) 1.919,99 TL SEPETTE 1.785,59 TL"
+    },
+    {
+      "id": "e55566286ea734ff",
+      "store": "n11",
+      "name": "Lenovo Uyumlu Tab M10 Tb-X505F 10.1\" Standlı Kılıf Tablet Kılıfı"
+    },
+    {
+      "id": "eb106a18940b2d0e",
+      "store": "n11",
+      "name": "Ücretsiz Kargo TRENDEXA Mey İthalat Dokunmatik Akıllı Saat Yeni Nesil Kulaklık Kampanyası Bluetooth Bağlantılı Anc Özelliği (0) 3.570,99 TL SEPETTE 3.249,60 TL"
+    },
+    {
+      "id": "f1f20fa1479df9d6",
+      "store": "n11",
+      "name": "Samsung Uyumlu Galaxy Tab A7 Lite T220 Kılıf Çocuklara Özel Tablet Kılıf (521889297)"
     }
-  ]
+  ],
+  "reclassified": []
 }
