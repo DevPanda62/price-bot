@@ -9,8 +9,8 @@
     "old_price": 158.0,
     "query": "indirim",
     "first_seen_at": "2026-09-18T12:53:33+03:00",
-    "last_seen_at": "2026-09-21T16:52:42+03:00",
-    "detected_at": "2026-09-21T16:52:42+03:00",
+    "last_seen_at": "2026-09-21T21:57:04+03:00",
+    "detected_at": "2026-09-21T21:57:04+03:00",
     "discount_percent": 10.13,
     "category": "discount",
     "baseline_price": 158.0,
@@ -21,7 +21,7 @@
     "seller_name": "İndirim Var",
     "seller_rating": 4.5,
     "seller_reliable": true,
-    "verified_at": "2026-09-21T17:02:27+03:00",
+    "verified_at": "2026-09-21T21:59:15+03:00",
     "flash": 0
   },
   {
@@ -34,8 +34,8 @@
     "old_price": 4999.0,
     "query": "cok satan",
     "first_seen_at": "2026-09-20T22:21:15+03:00",
-    "last_seen_at": "2026-09-21T16:52:42+03:00",
-    "detected_at": "2026-09-21T16:52:42+03:00",
+    "last_seen_at": "2026-09-21T21:57:04+03:00",
+    "detected_at": "2026-09-21T21:57:04+03:00",
     "discount_percent": 10.0,
     "category": "discount",
     "baseline_price": 4999.0,
@@ -46,6 +46,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-21T17:02:27+03:00"
+    "verified_at": "2026-09-21T21:59:15+03:00"
   }
 ]
