@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-21T21:57:04+03:00",
+  "generated_at": "2026-09-22T01:27:29+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 349079255,
+    "used_bytes": 351317793,
     "quota_bytes": 943718400
   },
   "sites": {
@@ -18,7 +18,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi"
+      "message": "utm yanit verdi ama 0 urun"
     },
     "hepsiburada": {
       "ok": true,
@@ -32,10 +32,10 @@
     },
     "n11": {
       "ok": true,
-      "product_count": 8,
+      "product_count": 7,
       "categories": {
         "normal": 0,
-        "discount": 8,
+        "discount": 7,
         "error": 0
       },
       "message": ""
@@ -68,7 +68,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi"
+      "message": "utm yanit verdi ama 0 urun"
     },
     "vatan": {
       "ok": false,
@@ -92,17 +92,17 @@
     }
   },
   "totals": {
-    "products": 10,
+    "products": 9,
     "categories": {
       "normal": 0,
-      "discount": 10,
+      "discount": 9,
       "error": 0
     }
   },
   "critical": {
-    "selected": 12,
-    "checked": 5,
-    "updated": 4,
+    "selected": 13,
+    "checked": 3,
+    "updated": 3,
     "flash": 0
   }
 }
