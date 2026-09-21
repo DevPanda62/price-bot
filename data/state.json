@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-09-21T10:00:07+03:00",
-  "heartbeat_at": "2026-09-21T10:12:09+03:00",
+  "last_run": "2026-09-21T16:52:42+03:00",
+  "heartbeat_at": "2026-09-21T17:02:44+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -24,11 +24,11 @@
     },
     "n11": {
       "ok": true,
-      "product_count": 6,
+      "product_count": 8,
       "categories": {
         "normal": 0,
-        "discount": 5,
-        "error": 1
+        "discount": 8,
+        "error": 0
       },
       "message": ""
     },
@@ -80,15 +80,15 @@
         "discount": 0,
         "error": 0
       },
-      "message": "proxy acik ama 0 urun"
+      "message": "0 urun (indirim yok olabilir)"
     }
   },
   "totals": {
-    "products": 8,
+    "products": 10,
     "categories": {
       "normal": 0,
-      "discount": 7,
-      "error": 1
+      "discount": 10,
+      "error": 0
     }
   },
   "proxy_last": {
@@ -126,8 +126,8 @@
     "ciceksepeti": "chrome124"
   },
   "critical": {
-    "selected": 9,
-    "checked": 4,
+    "selected": 11,
+    "checked": 5,
     "updated": 4,
     "flash": 0
   }

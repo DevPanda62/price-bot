@@ -5,22 +5,24 @@
     "name": "İndirim Var Aspiratör & Davlumbaz Baca Adaptörü 120/150 mm Esnek Materyal ile Siyah Renk Seçeneği",
     "url": "https://www.hepsiburada.com/indirim-var-aspirator-davlumbaz-baca-adaptoru-120-150-mm-pm-HBC00008CUI1N",
     "image": "https://productimages.hepsiburada.net/s/777/222-222/110000971636599.jpg",
-    "price": 145.0,
-    "old_price": 160.0,
+    "price": 142.0,
+    "old_price": 158.0,
     "query": "indirim",
     "first_seen_at": "2026-09-18T12:53:33+03:00",
-    "last_seen_at": "2026-09-21T10:00:07+03:00",
-    "detected_at": "2026-09-21T10:00:07+03:00",
-    "discount_percent": 9.38,
+    "last_seen_at": "2026-09-21T16:52:42+03:00",
+    "detected_at": "2026-09-21T16:52:42+03:00",
+    "discount_percent": 10.13,
     "category": "discount",
-    "baseline_price": 160.0,
+    "baseline_price": 158.0,
     "baseline_source": "magaza-eski-fiyat",
     "match_group": null,
     "matched_stores": [],
-    "reason": "magaza-eski-fiyat: 160.00 TL -> 145.00 TL (%9.4 indirim)",
+    "reason": "magaza-eski-fiyat: 158.00 TL -> 142.00 TL (%10.1 indirim)",
     "seller_name": "İndirim Var",
     "seller_rating": 4.5,
-    "seller_reliable": true
+    "seller_reliable": true,
+    "verified_at": "2026-09-21T17:02:27+03:00",
+    "flash": 0
   },
   {
     "id": "d8d6755b84eabb5d",
@@ -32,8 +34,8 @@
     "old_price": 4999.0,
     "query": "cok satan",
     "first_seen_at": "2026-09-20T22:21:15+03:00",
-    "last_seen_at": "2026-09-21T10:00:07+03:00",
-    "detected_at": "2026-09-21T10:00:07+03:00",
+    "last_seen_at": "2026-09-21T16:52:42+03:00",
+    "detected_at": "2026-09-21T16:52:42+03:00",
     "discount_percent": 10.0,
     "category": "discount",
     "baseline_price": 4999.0,
@@ -44,6 +46,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-21T10:11:56+03:00"
+    "verified_at": "2026-09-21T17:02:27+03:00"
   }
 ]
