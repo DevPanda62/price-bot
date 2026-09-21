@@ -5,19 +5,19 @@
     "name": "İndirim Var Aspiratör & Davlumbaz Baca Adaptörü 120/150 mm Esnek Materyal ile Siyah Renk Seçeneği",
     "url": "https://www.hepsiburada.com/indirim-var-aspirator-davlumbaz-baca-adaptoru-120-150-mm-pm-HBC00008CUI1N",
     "image": "https://productimages.hepsiburada.net/s/777/222-222/110000971636599.jpg",
-    "price": 158.0,
-    "old_price": 199.0,
+    "price": 145.0,
+    "old_price": 160.0,
     "query": "indirim",
     "first_seen_at": "2026-09-18T12:53:33+03:00",
-    "last_seen_at": "2026-09-21T04:31:27+03:00",
-    "detected_at": "2026-09-21T04:31:27+03:00",
-    "discount_percent": 20.6,
+    "last_seen_at": "2026-09-21T10:00:07+03:00",
+    "detected_at": "2026-09-21T10:00:07+03:00",
+    "discount_percent": 9.38,
     "category": "discount",
-    "baseline_price": 199.0,
+    "baseline_price": 160.0,
     "baseline_source": "magaza-eski-fiyat",
     "match_group": null,
     "matched_stores": [],
-    "reason": "magaza-eski-fiyat: 199.00 TL -> 158.00 TL (%20.6 indirim)",
+    "reason": "magaza-eski-fiyat: 160.00 TL -> 145.00 TL (%9.4 indirim)",
     "seller_name": "İndirim Var",
     "seller_rating": 4.5,
     "seller_reliable": true
@@ -32,8 +32,8 @@
     "old_price": 4999.0,
     "query": "cok satan",
     "first_seen_at": "2026-09-20T22:21:15+03:00",
-    "last_seen_at": "2026-09-21T04:31:27+03:00",
-    "detected_at": "2026-09-21T04:31:27+03:00",
+    "last_seen_at": "2026-09-21T10:00:07+03:00",
+    "detected_at": "2026-09-21T10:00:07+03:00",
     "discount_percent": 10.0,
     "category": "discount",
     "baseline_price": 4999.0,
@@ -44,7 +44,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-21T04:33:44+03:00"
+    "verified_at": "2026-09-21T10:11:56+03:00"
   },
   {
     "id": "958827e79138ec3e",
@@ -56,8 +56,8 @@
     "old_price": 362.0,
     "query": "kampanya",
     "first_seen_at": "2026-09-20T20:01:54+03:00",
-    "last_seen_at": "2026-09-21T04:31:27+03:00",
-    "detected_at": "2026-09-21T04:31:27+03:00",
+    "last_seen_at": "2026-09-21T10:00:07+03:00",
+    "detected_at": "2026-09-21T10:00:07+03:00",
     "discount_percent": 12.0,
     "category": "discount",
     "baseline_price": 362.0,
@@ -68,7 +68,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-21T04:33:44+03:00"
+    "verified_at": "2026-09-21T10:11:56+03:00"
   },
   {
     "id": "0685c962b9d2e4e3",
@@ -80,13 +80,13 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-17T19:59:22+03:00",
-    "last_seen_at": "2026-09-21T04:31:27+03:00",
-    "detected_at": "2026-09-21T04:31:27+03:00",
+    "last_seen_at": "2026-09-21T10:00:07+03:00",
+    "detected_at": "2026-09-21T10:00:07+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00003",
+    "match_group": "g00004",
     "matched_stores": [
       {
         "store": "n11",
@@ -109,13 +109,13 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-18T08:18:57+03:00",
-    "last_seen_at": "2026-09-21T04:31:27+03:00",
-    "detected_at": "2026-09-21T04:31:27+03:00",
+    "last_seen_at": "2026-09-21T10:00:07+03:00",
+    "detected_at": "2026-09-21T10:00:07+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00003",
+    "match_group": "g00004",
     "matched_stores": [
       {
         "store": "n11",
@@ -138,13 +138,13 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-21T00:39:28+03:00",
-    "last_seen_at": "2026-09-21T04:31:27+03:00",
-    "detected_at": "2026-09-21T04:31:27+03:00",
+    "last_seen_at": "2026-09-21T10:00:07+03:00",
+    "detected_at": "2026-09-21T10:00:07+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00004",
+    "match_group": "g00005",
     "matched_stores": [
       {
         "store": "n11",
@@ -156,7 +156,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-21T04:33:44+03:00"
+    "verified_at": "2026-09-21T10:11:56+03:00"
   },
   {
     "id": "53c7e65cbc87f421",
@@ -168,13 +168,13 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-18T22:55:46+03:00",
-    "last_seen_at": "2026-09-21T04:31:27+03:00",
-    "detected_at": "2026-09-21T04:31:27+03:00",
+    "last_seen_at": "2026-09-21T10:00:07+03:00",
+    "detected_at": "2026-09-21T10:00:07+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00004",
+    "match_group": "g00005",
     "matched_stores": [
       {
         "store": "n11",
