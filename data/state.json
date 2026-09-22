@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-09-22T14:26:18+03:00",
-  "heartbeat_at": "2026-09-22T14:37:33+03:00",
+  "last_run": "2026-09-22T18:35:21+03:00",
+  "heartbeat_at": "2026-09-22T18:48:06+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -10,7 +10,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi (ultra trick mode de basarisiz)"
+      "message": "pas gecildi"
     },
     "hepsiburada": {
       "ok": true,
@@ -24,10 +24,10 @@
     },
     "n11": {
       "ok": true,
-      "product_count": 8,
+      "product_count": 9,
       "categories": {
         "normal": 0,
-        "discount": 8,
+        "discount": 9,
         "error": 0
       },
       "message": ""
@@ -60,7 +60,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (59 dk)"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "vatan": {
       "ok": false,
@@ -70,24 +70,24 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi (ultra trick mode de basarisiz)"
+      "message": "pas gecildi"
     },
     "amazon": {
-      "ok": false,
+      "ok": true,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
-      "message": "0 urun (indirim yok olabilir)"
+      "message": ""
     }
   },
   "totals": {
-    "products": 10,
+    "products": 11,
     "categories": {
       "normal": 0,
-      "discount": 10,
+      "discount": 11,
       "error": 0
     }
   },
@@ -105,7 +105,7 @@
     "hepsiburada": "normal",
     "n11": "normal",
     "ciceksepeti": "utm",
-    "teknosa": "utm",
+    "teknosa": "skipped",
     "vatan": "skipped",
     "mediamarkt": "proxy",
     "amazon": "normal"
@@ -125,7 +125,7 @@
     "ciceksepeti": "chrome124"
   },
   "critical": {
-    "selected": 10,
+    "selected": 11,
     "checked": 3,
     "updated": 3,
     "flash": 0
