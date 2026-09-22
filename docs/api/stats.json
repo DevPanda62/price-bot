@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T09:01:52+03:00",
+  "generated_at": "2026-09-22T14:26:18+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -18,7 +18,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm yanit verdi ama 0 urun"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "hepsiburada": {
       "ok": true,
@@ -32,10 +32,10 @@
     },
     "n11": {
       "ok": true,
-      "product_count": 7,
+      "product_count": 8,
       "categories": {
         "normal": 0,
-        "discount": 7,
+        "discount": 8,
         "error": 0
       },
       "message": ""
@@ -68,7 +68,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "proxy acik ama 0 urun"
+      "message": "utm bekliyor (59 dk)"
     },
     "vatan": {
       "ok": false,
@@ -78,7 +78,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (59 dk)"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "amazon": {
       "ok": false,
@@ -92,10 +92,10 @@
     }
   },
   "totals": {
-    "products": 9,
+    "products": 10,
     "categories": {
       "normal": 0,
-      "discount": 9,
+      "discount": 10,
       "error": 0
     }
   },
