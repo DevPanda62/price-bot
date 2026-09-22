@@ -1,108 +1,79 @@
 {
-  "generated_at": "2026-09-22T22:05:58+03:00",
+  "generated_at": "2026-09-23T01:02:40+03:00",
   "added_count": 5,
   "removed_count": 5,
   "reclassified_count": 0,
   "added": [
     {
-      "id": "c7506abc37453e67",
+      "id": "b9fe57c0dfd156b4",
       "store": "n11",
-      "name": "Ücretsiz Kargo FırsatYakala35 Boa Ba0213 Gizli Bağcıklı Hakiki Deri Taba Erkek Yarım Bilek Bot (0) 2.700 TL SEPETTE 2.457 TL",
-      "url": "https://www.n11.com/urun/boa-ba0213-gizli-bagcikli-hakiki-deri-taba-erkek-yarim-bilek-bot-37831184?magaza=firsatyakala35&adBidding=true",
-      "image": "https://n11scdn.akamaized.net/a1/216/05/61/02/72/IMG-6495294954307774570.jpg",
-      "price": 2457.0,
-      "old_price": 2700.0,
+      "name": "Ücretsiz Kargo PopülerSepet Hayvan Figürlü Masaüstü Telefon Standı 5 Model Diğer (0) 245,22 TL",
+      "url": "https://www.n11.com/urun/hayvan-figurlu-masaustu-telefon-standi-5-model-diger-118210696?magaza=populersepet&adBidding=true",
+      "image": "https://n11scdn.akamaized.net/a1/216/14/01/66/97/IMG-5378927293319255050.jpg",
+      "price": 245.22,
+      "old_price": 3000.0,
       "query": "firsat",
-      "first_seen_at": "2026-09-22T22:05:58+03:00",
-      "last_seen_at": "2026-09-22T22:05:58+03:00",
-      "detected_at": "2026-09-22T22:05:58+03:00",
-      "discount_percent": 9.0,
-      "category": "discount",
-      "baseline_price": 2700.0,
+      "first_seen_at": "2026-09-23T01:02:40+03:00",
+      "last_seen_at": "2026-09-23T01:02:40+03:00",
+      "detected_at": "2026-09-23T01:02:40+03:00",
+      "discount_percent": 91.83,
+      "category": "error",
+      "baseline_price": 3000.0,
       "baseline_source": "magaza-eski-fiyat",
       "match_group": null,
       "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 2700.00 TL -> 2457.00 TL (%9.0 indirim)",
+      "reason": "magaza-eski-fiyat: 3000.00 TL -> 245.22 TL (%91.8 indirim)",
       "seller_name": "",
       "seller_rating": null,
       "seller_reliable": null,
-      "verified_at": "2026-09-22T22:08:24+03:00"
+      "verified_at": "2026-09-23T01:04:57+03:00"
     },
     {
-      "id": "13adf75d421b61f3",
+      "id": "5764eab3af1a0fe8",
       "store": "n11",
-      "name": "Ücretsiz Kargo FırsatYakala35 Boa Ba0321 Gizli Bağcıklı Erkek Yüksek Taban Kahverengi Spor Bot Kahverengi (0) 2.700 TL SEPETTE 2.457 TL",
-      "url": "https://www.n11.com/urun/boa-ba0321-gizli-bagcikli-erkek-yuksek-taban-kahverengi-spor-bot-kahverengi-61366547?magaza=firsatyakala35&adBidding=true",
-      "image": "https://n11scdn.akamaized.net/a1/216/07/66/49/40/IMG-7390692311497664983.jpg",
+      "name": "Ücretsiz Kargo BAYSMONDE Hdj38 Kampanya - Extra Hayvan Dostları Ve Kıyafet Paketleri - Özel Fiyat Diğer (0) 517,55 TL",
+      "url": "https://www.n11.com/urun/hdj38-kampanya-extra-hayvan-dostlari-ve-kiyafet-paketleri-ozel-fiyat-diger-125892451?magaza=baysmonde&adBidding=true",
+      "image": "https://n11scdn.akamaized.net/a1/216/04/77/12/09/IMG-5153978019001880671.jpg",
+      "price": 386.37,
+      "old_price": 424.58,
+      "query": "kampanya",
+      "first_seen_at": "2026-09-23T01:02:40+03:00",
+      "last_seen_at": "2026-09-23T01:02:40+03:00",
+      "detected_at": "2026-09-23T01:02:40+03:00",
+      "discount_percent": 12.17,
+      "category": "discount",
+      "baseline_price": 439.92,
+      "baseline_source": "onceki-fiyat",
+      "match_group": null,
+      "matched_stores": [],
+      "reason": "onceki-fiyat: 439.92 TL -> 386.37 TL (%12.2 indirim)",
+      "seller_name": "",
+      "seller_rating": null,
+      "seller_reliable": null,
+      "verified_at": "2026-09-23T01:04:57+03:00"
+    },
+    {
+      "id": "83c974c12559ae4e",
+      "store": "n11",
+      "name": "Ücretsiz Kargo FırsatYakala35 Boa Ba0159 Bağcıklı Koyu Taba Kapitone Erkek Yüksek Taban Spor Bot (528090260) (0) 2.700 TL SEPETTE 2.457 TL",
+      "url": "https://www.n11.com/urun/boa-ba0159-bagcikli-koyu-taba-kapitone-erkek-yuksek-taban-spor-bot-528090260-24047073?magaza=firsatyakala35&adBidding=true",
+      "image": "https://n11scdn.akamaized.net/a1/216/05/67/64/41/IMG-789860913862649007.jpg",
       "price": 2457.0,
       "old_price": 2700.0,
       "query": "firsat",
-      "first_seen_at": "2026-09-22T22:05:58+03:00",
-      "last_seen_at": "2026-09-22T22:05:58+03:00",
-      "detected_at": "2026-09-22T22:05:58+03:00",
+      "first_seen_at": "2026-09-23T01:02:40+03:00",
+      "last_seen_at": "2026-09-23T01:02:40+03:00",
+      "detected_at": "2026-09-23T01:02:40+03:00",
       "discount_percent": 9.0,
       "category": "discount",
       "baseline_price": 2700.0,
       "baseline_source": "magaza-eski-fiyat",
-      "match_group": "g00003",
+      "match_group": "g00002",
       "matched_stores": [
         {
           "store": "n11",
           "price": 2457.0,
-          "url": "https://www.n11.com/urun/boa-ba0713-bagcikli-suet-bej-yuksek-taban-erkek-tarz-spor-bot-bej-109414681?magaza=firsatyakala35&adBidding=true"
-        }
-      ],
-      "reason": "magaza-eski-fiyat: 2700.00 TL -> 2457.00 TL (%9.0 indirim)",
-      "seller_name": "",
-      "seller_rating": null,
-      "seller_reliable": null,
-      "verified_at": "2026-09-22T22:08:24+03:00"
-    },
-    {
-      "id": "cbb8e984a6809723",
-      "store": "n11",
-      "name": "Ücretsiz Kargo FırsatYakala35 Boa Ba0550 İçi Kürklü Bağcıklı Gri Erkek Tarz Spor Bot Gri (0) 2.700 TL SEPETTE 2.457 TL",
-      "url": "https://www.n11.com/urun/boa-ba0550-ici-kurklu-bagcikli-gri-erkek-tarz-spor-bot-gri-118502055?magaza=firsatyakala35&adBidding=true",
-      "image": "https://n11scdn.akamaized.net/a1/216/06/38/35/66/IMG-4010432552496201144.jpg",
-      "price": 2457.0,
-      "old_price": 2700.0,
-      "query": "firsat",
-      "first_seen_at": "2026-09-22T22:05:58+03:00",
-      "last_seen_at": "2026-09-22T22:05:58+03:00",
-      "detected_at": "2026-09-22T22:05:58+03:00",
-      "discount_percent": 9.0,
-      "category": "discount",
-      "baseline_price": 2700.0,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": null,
-      "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 2700.00 TL -> 2457.00 TL (%9.0 indirim)",
-      "seller_name": "",
-      "seller_rating": null,
-      "seller_reliable": null
-    },
-    {
-      "id": "11083307541001f2",
-      "store": "n11",
-      "name": "Ücretsiz Kargo FırsatYakala35 Boa Ba0713 Bağcıklı Süet Bej Yüksek Taban Erkek Tarz Spor Bot Bej (0) 2.700 TL SEPETTE 2.457 TL",
-      "url": "https://www.n11.com/urun/boa-ba0713-bagcikli-suet-bej-yuksek-taban-erkek-tarz-spor-bot-bej-109414681?magaza=firsatyakala35&adBidding=true",
-      "image": "https://n11scdn.akamaized.net/a1/216/08/24/67/99/IMG-5883428931972885917.jpg",
-      "price": 2457.0,
-      "old_price": 2700.0,
-      "query": "firsat",
-      "first_seen_at": "2026-09-22T22:05:58+03:00",
-      "last_seen_at": "2026-09-22T22:05:58+03:00",
-      "detected_at": "2026-09-22T22:05:58+03:00",
-      "discount_percent": 9.0,
-      "category": "discount",
-      "baseline_price": 2700.0,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": "g00003",
-      "matched_stores": [
-        {
-          "store": "n11",
-          "price": 2457.0,
-          "url": "https://www.n11.com/urun/boa-ba0321-gizli-bagcikli-erkek-yuksek-taban-kahverengi-spor-bot-kahverengi-61366547?magaza=firsatyakala35&adBidding=true"
+          "url": "https://www.n11.com/urun/boa-ba0713-bagcikli-yuksek-taba-suet-siyah-taban-erkek-tarz-spor-bot-taba-109414730?magaza=firsatyakala35&adBidding=true"
         }
       ],
       "reason": "magaza-eski-fiyat: 2700.00 TL -> 2457.00 TL (%9.0 indirim)",
@@ -111,24 +82,53 @@
       "seller_reliable": null
     },
     {
-      "id": "d926897c4d4f6d30",
+      "id": "b1583bd56c2a310a",
       "store": "n11",
-      "name": "Ücretsiz Kargo FırsatYakala35 Boa Ba0777 Süet Bej Çift Fermuarlı Erkek Yarım Bilek Bot Bej (0) 2.700 TL SEPETTE 2.457 TL",
-      "url": "https://www.n11.com/urun/boa-ba0777-suet-bej-cift-fermuarli-erkek-yarim-bilek-bot-bej-110394747?magaza=firsatyakala35&adBidding=true",
-      "image": "https://n11scdn.akamaized.net/a1/216/02/44/02/83/IMG-2890373130705433960.webp",
+      "name": "Ücretsiz Kargo FırsatYakala35 Boa Ba0713 Bağcıklı Yüksek Taba Süet Siyah Taban Erkek Tarz Spor Bot Taba (0) 2.700 TL SEPETTE 2.457 TL",
+      "url": "https://www.n11.com/urun/boa-ba0713-bagcikli-yuksek-taba-suet-siyah-taban-erkek-tarz-spor-bot-taba-109414730?magaza=firsatyakala35&adBidding=true",
+      "image": "https://n11scdn.akamaized.net/a1/216/06/09/34/21/IMG-494887171578206194.jpg",
       "price": 2457.0,
       "old_price": 2700.0,
       "query": "firsat",
-      "first_seen_at": "2026-09-22T22:05:58+03:00",
-      "last_seen_at": "2026-09-22T22:05:58+03:00",
-      "detected_at": "2026-09-22T22:05:58+03:00",
+      "first_seen_at": "2026-09-23T01:02:40+03:00",
+      "last_seen_at": "2026-09-23T01:02:40+03:00",
+      "detected_at": "2026-09-23T01:02:40+03:00",
       "discount_percent": 9.0,
       "category": "discount",
       "baseline_price": 2700.0,
       "baseline_source": "magaza-eski-fiyat",
+      "match_group": "g00002",
+      "matched_stores": [
+        {
+          "store": "n11",
+          "price": 2457.0,
+          "url": "https://www.n11.com/urun/boa-ba0159-bagcikli-koyu-taba-kapitone-erkek-yuksek-taban-spor-bot-528090260-24047073?magaza=firsatyakala35&adBidding=true"
+        }
+      ],
+      "reason": "magaza-eski-fiyat: 2700.00 TL -> 2457.00 TL (%9.0 indirim)",
+      "seller_name": "",
+      "seller_rating": null,
+      "seller_reliable": null
+    },
+    {
+      "id": "8afe7a735c45c241",
+      "store": "n11",
+      "name": "Ücretsiz Kargo FırsatYakala35 Boa İçi Dışı Hakiki Deri Fermuarlı Erkek Spor Yarım Bilek Bot BA0144 Siyah (5) 3.000 TL SEPETTE 2.730 TL",
+      "url": "https://www.n11.com/urun/boa-ici-disi-hakiki-deri-fermuarli-erkek-spor-yarim-bilek-bot-ba0144-siyah-24960976?magaza=firsatyakala35&adBidding=true",
+      "image": "https://n11scdn.akamaized.net/a1/216/16/93/26/21/IMG-8801310086867609898.jpg",
+      "price": 2730.0,
+      "old_price": 3000.0,
+      "query": "firsat",
+      "first_seen_at": "2026-09-23T01:02:40+03:00",
+      "last_seen_at": "2026-09-23T01:02:40+03:00",
+      "detected_at": "2026-09-23T01:02:40+03:00",
+      "discount_percent": 9.0,
+      "category": "discount",
+      "baseline_price": 3000.0,
+      "baseline_source": "magaza-eski-fiyat",
       "match_group": null,
       "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 2700.00 TL -> 2457.00 TL (%9.0 indirim)",
+      "reason": "magaza-eski-fiyat: 3000.00 TL -> 2730.00 TL (%9.0 indirim)",
       "seller_name": "",
       "seller_rating": null,
       "seller_reliable": null
@@ -136,29 +136,29 @@
   ],
   "removed": [
     {
-      "id": "3707fd36760a4168",
+      "id": "11083307541001f2",
       "store": "n11",
-      "name": "Ücretsiz Kargo FırsatYakala35 Boa Ba0550 İçi Kürklü Bağcıklı Siyah Taban Erkek Tarz Spor Bot Siyah (0) 2.700 TL SEPETTE 2.457 TL"
+      "name": "Ücretsiz Kargo FırsatYakala35 Boa Ba0713 Bağcıklı Süet Bej Yüksek Taban Erkek Tarz Spor Bot Bej (0) 2.700 TL SEPETTE 2.457 TL"
     },
     {
-      "id": "4c8d19944cbb9927",
+      "id": "13adf75d421b61f3",
       "store": "n11",
-      "name": "Ücretsiz Kargo FırsatYakala35 BOA BA0605 Bağcıklı Askeri Erkek Postal Bot Siyah Kamuflaj (1) 2.700 TL SEPETTE 2.457 TL"
+      "name": "Ücretsiz Kargo FırsatYakala35 Boa Ba0321 Gizli Bağcıklı Erkek Yüksek Taban Kahverengi Spor Bot Kahverengi (0) 2.700 TL SEPETTE 2.457 TL"
     },
     {
-      "id": "7a85d3c42b8269d8",
+      "id": "c7506abc37453e67",
       "store": "n11",
-      "name": "Ücretsiz Kargo FırsatYakala35 BOA BA0256 Bağcıklı Erkek Yüksek Taban Spor Bot Beyaz Krem (0) 2.700 TL SEPETTE 2.457 TL"
+      "name": "Ücretsiz Kargo FırsatYakala35 Boa Ba0213 Gizli Bağcıklı Hakiki Deri Taba Erkek Yarım Bilek Bot (0) 2.700 TL SEPETTE 2.457 TL"
     },
     {
-      "id": "b1c42a2acc63b06a",
+      "id": "cbb8e984a6809723",
       "store": "n11",
-      "name": "Ücretsiz Kargo FırsatYakala35 Boa Ba0155 Bağcıklı Erkek Yüksek Taban Taba Spor Bot (547739575) Taba (0) 2.700 TL SEPETTE 2.457 TL"
+      "name": "Ücretsiz Kargo FırsatYakala35 Boa Ba0550 İçi Kürklü Bağcıklı Gri Erkek Tarz Spor Bot Gri (0) 2.700 TL SEPETTE 2.457 TL"
     },
     {
-      "id": "e442f9db910ab987",
+      "id": "d926897c4d4f6d30",
       "store": "n11",
-      "name": "Ücretsiz Kargo FırsatYakala35 Periliçekeçe Ba0550 İçi Kürklü Bağcıklı Gri Erkek Tarz Spor Bot (0) 2.700 TL SEPETTE 2.457 TL"
+      "name": "Ücretsiz Kargo FırsatYakala35 Boa Ba0777 Süet Bej Çift Fermuarlı Erkek Yarım Bilek Bot Bej (0) 2.700 TL SEPETTE 2.457 TL"
     }
   ],
   "reclassified": []
