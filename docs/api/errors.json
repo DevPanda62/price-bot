@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "44e4ffbc08a36f0b",
+    "store": "n11",
+    "name": "Ücretsiz Kargo FırsatPremium Ekranlı Kablosuz Kulaklık Ve Mavi Çanta Charm Saat Kampanya Seti (0) 1.497,90 TL",
+    "url": "https://www.n11.com/urun/ekranli-kablosuz-kulaklik-ve-mavi-canta-charm-saat-kampanya-seti-135165455?magaza=firsatpremium&adBidding=true",
+    "image": "https://n11scdn.akamaized.net/a1/216/07/29/64/34/IMG-5131416543687994934.jpg",
+    "price": 424.58,
+    "old_price": 3267.0,
+    "query": "kampanya",
+    "first_seen_at": "2026-09-24T00:42:50+03:00",
+    "last_seen_at": "2026-09-24T00:42:50+03:00",
+    "detected_at": "2026-09-24T00:42:50+03:00",
+    "discount_percent": 87.0,
+    "category": "error",
+    "baseline_price": 3267.0,
+    "baseline_source": "magaza-eski-fiyat",
+    "match_group": null,
+    "matched_stores": [],
+    "reason": "magaza-eski-fiyat: 3267.00 TL -> 424.58 TL (%87.0 indirim)",
+    "seller_name": "",
+    "seller_rating": null,
+    "seller_reliable": null,
+    "verified_at": "2026-09-24T00:45:02+03:00"
+  }
+]

@@ -9,8 +9,8 @@
     "old_price": 145.0,
     "query": "indirim",
     "first_seen_at": "2026-09-18T12:53:33+03:00",
-    "last_seen_at": "2026-09-23T21:30:46+03:00",
-    "detected_at": "2026-09-23T21:30:46+03:00",
+    "last_seen_at": "2026-09-24T00:42:50+03:00",
+    "detected_at": "2026-09-24T00:42:50+03:00",
     "discount_percent": 6.9,
     "category": "discount",
     "baseline_price": 145.0,
@@ -20,9 +20,7 @@
     "reason": "magaza-eski-fiyat: 145.00 TL -> 135.00 TL (%6.9 indirim)",
     "seller_name": "İndirim Var",
     "seller_rating": 4.5,
-    "seller_reliable": true,
-    "verified_at": "2026-09-23T21:40:35+03:00",
-    "flash": 0
+    "seller_reliable": true
   },
   {
     "id": "d8d6755b84eabb5d",
@@ -34,8 +32,8 @@
     "old_price": 4999.0,
     "query": "cok satan",
     "first_seen_at": "2026-09-23T21:30:46+03:00",
-    "last_seen_at": "2026-09-23T21:30:46+03:00",
-    "detected_at": "2026-09-23T21:30:46+03:00",
+    "last_seen_at": "2026-09-24T00:42:50+03:00",
+    "detected_at": "2026-09-24T00:42:50+03:00",
     "discount_percent": 10.0,
     "category": "discount",
     "baseline_price": 4999.0,
@@ -46,7 +44,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-23T21:40:35+03:00"
+    "verified_at": "2026-09-24T00:45:02+03:00"
   },
   {
     "id": "0685c962b9d2e4e3",
@@ -58,8 +56,8 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-17T19:59:22+03:00",
-    "last_seen_at": "2026-09-23T21:30:46+03:00",
-    "detected_at": "2026-09-23T21:30:46+03:00",
+    "last_seen_at": "2026-09-24T00:42:50+03:00",
+    "detected_at": "2026-09-24T00:42:50+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
@@ -92,8 +90,8 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-22T09:01:52+03:00",
-    "last_seen_at": "2026-09-23T21:30:46+03:00",
-    "detected_at": "2026-09-23T21:30:46+03:00",
+    "last_seen_at": "2026-09-24T00:42:50+03:00",
+    "detected_at": "2026-09-24T00:42:50+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
@@ -115,7 +113,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-23T21:40:35+03:00"
+    "verified_at": "2026-09-24T00:45:02+03:00"
   },
   {
     "id": "3565da2ec784cbc8",
@@ -127,8 +125,8 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-22T18:35:21+03:00",
-    "last_seen_at": "2026-09-23T21:30:46+03:00",
-    "detected_at": "2026-09-23T21:30:46+03:00",
+    "last_seen_at": "2026-09-24T00:42:50+03:00",
+    "detected_at": "2026-09-24T00:42:50+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
@@ -150,7 +148,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-23T21:40:35+03:00"
+    "verified_at": "2026-09-24T00:45:02+03:00"
   },
   {
     "id": "53c7e65cbc87f421",
@@ -162,8 +160,8 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-23T07:53:57+03:00",
-    "last_seen_at": "2026-09-23T21:30:46+03:00",
-    "detected_at": "2026-09-23T21:30:46+03:00",
+    "last_seen_at": "2026-09-24T00:42:50+03:00",
+    "detected_at": "2026-09-24T00:42:50+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
@@ -174,6 +172,30 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-23T21:40:35+03:00"
+    "verified_at": "2026-09-24T00:45:02+03:00"
+  },
+  {
+    "id": "94b0d561ddf2078f",
+    "store": "n11",
+    "name": "Ücretsiz Kargo EDN_Trend Ekranlı - 80 - Yeni Nesil Pro Kulaklık Ve Akıllı Saat Kampanyası Kulak - Edntrend - İçi Mikrofonlu (0) 3.267 TL SEPETTE 2.972,97 TL",
+    "url": "https://www.n11.com/urun/ekranli-80-yeni-nesil-pro-kulaklik-ve-akilli-saat-kampanyasi-kulak-edntrend-ici-mikrofonlu-140233159?magaza=edn-trend&adBidding=true",
+    "image": "https://n11scdn.akamaized.net/a1/216/04/46/66/91/IMG-4859278996023279032.jpg",
+    "price": 2972.97,
+    "old_price": 3267.0,
+    "query": "kampanya",
+    "first_seen_at": "2026-09-24T00:42:50+03:00",
+    "last_seen_at": "2026-09-24T00:42:50+03:00",
+    "detected_at": "2026-09-24T00:42:50+03:00",
+    "discount_percent": 9.0,
+    "category": "discount",
+    "baseline_price": 3267.0,
+    "baseline_source": "magaza-eski-fiyat",
+    "match_group": null,
+    "matched_stores": [],
+    "reason": "magaza-eski-fiyat: 3267.00 TL -> 2972.97 TL (%9.0 indirim)",
+    "seller_name": "",
+    "seller_rating": null,
+    "seller_reliable": null,
+    "verified_at": "2026-09-24T00:45:02+03:00"
   }
 ]
