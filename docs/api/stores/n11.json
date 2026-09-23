@@ -9,13 +9,13 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-17T19:59:22+03:00",
-    "last_seen_at": "2026-09-23T12:38:52+03:00",
-    "detected_at": "2026-09-23T12:38:52+03:00",
+    "last_seen_at": "2026-09-23T17:25:51+03:00",
+    "detected_at": "2026-09-23T17:25:51+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00002",
+    "match_group": "g00001",
     "matched_stores": [
       {
         "store": "n11",
@@ -43,13 +43,13 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-22T09:01:52+03:00",
-    "last_seen_at": "2026-09-23T12:38:52+03:00",
-    "detected_at": "2026-09-23T12:38:52+03:00",
+    "last_seen_at": "2026-09-23T17:25:51+03:00",
+    "detected_at": "2026-09-23T17:25:51+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00002",
+    "match_group": "g00001",
     "matched_stores": [
       {
         "store": "n11",
@@ -66,7 +66,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-23T12:51:52+03:00"
+    "verified_at": "2026-09-23T17:36:17+03:00"
   },
   {
     "id": "3565da2ec784cbc8",
@@ -78,13 +78,13 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-22T18:35:21+03:00",
-    "last_seen_at": "2026-09-23T12:38:52+03:00",
-    "detected_at": "2026-09-23T12:38:52+03:00",
+    "last_seen_at": "2026-09-23T17:25:51+03:00",
+    "detected_at": "2026-09-23T17:25:51+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00002",
+    "match_group": "g00001",
     "matched_stores": [
       {
         "store": "n11",
@@ -101,7 +101,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-23T12:51:52+03:00"
+    "verified_at": "2026-09-23T17:36:17+03:00"
   },
   {
     "id": "53c7e65cbc87f421",
@@ -113,8 +113,8 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-23T07:53:57+03:00",
-    "last_seen_at": "2026-09-23T12:38:52+03:00",
-    "detected_at": "2026-09-23T12:38:52+03:00",
+    "last_seen_at": "2026-09-23T17:25:51+03:00",
+    "detected_at": "2026-09-23T17:25:51+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
@@ -125,6 +125,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-23T12:51:52+03:00"
+    "verified_at": "2026-09-23T17:36:17+03:00"
   }
 ]

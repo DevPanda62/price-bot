@@ -5,46 +5,22 @@
     "name": "İndirim Var Aspiratör & Davlumbaz Baca Adaptörü 120/150 mm Esnek Materyal ile Siyah Renk Seçeneği",
     "url": "https://www.hepsiburada.com/indirim-var-aspirator-davlumbaz-baca-adaptoru-120-150-mm-pm-HBC00008CUI1N",
     "image": "https://productimages.hepsiburada.net/s/777/222-222/110000971636599.jpg",
-    "price": 142.0,
-    "old_price": 158.0,
+    "price": 135.0,
+    "old_price": 145.0,
     "query": "indirim",
     "first_seen_at": "2026-09-18T12:53:33+03:00",
-    "last_seen_at": "2026-09-23T12:38:52+03:00",
-    "detected_at": "2026-09-23T12:38:52+03:00",
-    "discount_percent": 10.13,
+    "last_seen_at": "2026-09-23T17:25:51+03:00",
+    "detected_at": "2026-09-23T17:25:51+03:00",
+    "discount_percent": 6.9,
     "category": "discount",
-    "baseline_price": 158.0,
+    "baseline_price": 145.0,
     "baseline_source": "magaza-eski-fiyat",
     "match_group": null,
     "matched_stores": [],
-    "reason": "magaza-eski-fiyat: 158.00 TL -> 142.00 TL (%10.1 indirim)",
+    "reason": "magaza-eski-fiyat: 145.00 TL -> 135.00 TL (%6.9 indirim)",
     "seller_name": "İndirim Var",
     "seller_rating": 4.5,
     "seller_reliable": true
-  },
-  {
-    "id": "d8d6755b84eabb5d",
-    "store": "hepsiburada",
-    "name": "İYİSİYOK Çift Piston Hava Kompresörü Araba Bot Bisiklet Top Balon Lastik Şişirme Pompası",
-    "url": "https://www.hepsiburada.com/cift-piston-hava-kompresoru-araba-bot-bisiklet-top-balon-lastik-sisirme-pompasi-pm-HBC00009HSF44?magaza=ÇOK SATAN",
-    "image": "https://productimages.hepsiburada.net/s/777/222-222/110001125664185.jpg",
-    "price": 4499.1,
-    "old_price": 4999.0,
-    "query": "cok satan",
-    "first_seen_at": "2026-09-20T22:21:15+03:00",
-    "last_seen_at": "2026-09-23T12:38:52+03:00",
-    "detected_at": "2026-09-23T12:38:52+03:00",
-    "discount_percent": 10.0,
-    "category": "discount",
-    "baseline_price": 4999.0,
-    "baseline_source": "magaza-eski-fiyat",
-    "match_group": null,
-    "matched_stores": [],
-    "reason": "magaza-eski-fiyat: 4999.00 TL -> 4499.10 TL (%10.0 indirim)",
-    "seller_name": "",
-    "seller_rating": null,
-    "seller_reliable": null,
-    "verified_at": "2026-09-23T12:51:52+03:00"
   },
   {
     "id": "0685c962b9d2e4e3",
@@ -56,13 +32,13 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-17T19:59:22+03:00",
-    "last_seen_at": "2026-09-23T12:38:52+03:00",
-    "detected_at": "2026-09-23T12:38:52+03:00",
+    "last_seen_at": "2026-09-23T17:25:51+03:00",
+    "detected_at": "2026-09-23T17:25:51+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00002",
+    "match_group": "g00001",
     "matched_stores": [
       {
         "store": "n11",
@@ -90,13 +66,13 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-22T09:01:52+03:00",
-    "last_seen_at": "2026-09-23T12:38:52+03:00",
-    "detected_at": "2026-09-23T12:38:52+03:00",
+    "last_seen_at": "2026-09-23T17:25:51+03:00",
+    "detected_at": "2026-09-23T17:25:51+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00002",
+    "match_group": "g00001",
     "matched_stores": [
       {
         "store": "n11",
@@ -113,7 +89,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-23T12:51:52+03:00"
+    "verified_at": "2026-09-23T17:36:17+03:00"
   },
   {
     "id": "3565da2ec784cbc8",
@@ -125,13 +101,13 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-22T18:35:21+03:00",
-    "last_seen_at": "2026-09-23T12:38:52+03:00",
-    "detected_at": "2026-09-23T12:38:52+03:00",
+    "last_seen_at": "2026-09-23T17:25:51+03:00",
+    "detected_at": "2026-09-23T17:25:51+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00002",
+    "match_group": "g00001",
     "matched_stores": [
       {
         "store": "n11",
@@ -148,7 +124,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-23T12:51:52+03:00"
+    "verified_at": "2026-09-23T17:36:17+03:00"
   },
   {
     "id": "53c7e65cbc87f421",
@@ -160,8 +136,8 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-23T07:53:57+03:00",
-    "last_seen_at": "2026-09-23T12:38:52+03:00",
-    "detected_at": "2026-09-23T12:38:52+03:00",
+    "last_seen_at": "2026-09-23T17:25:51+03:00",
+    "detected_at": "2026-09-23T17:25:51+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
@@ -172,6 +148,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-23T12:51:52+03:00"
+    "verified_at": "2026-09-23T17:36:17+03:00"
   }
 ]
