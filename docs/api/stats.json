@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T03:19:36+03:00",
+  "generated_at": "2026-09-23T07:53:57+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -32,10 +32,10 @@
     },
     "n11": {
       "ok": true,
-      "product_count": 5,
+      "product_count": 4,
       "categories": {
         "normal": 0,
-        "discount": 5,
+        "discount": 4,
         "error": 0
       },
       "message": ""
@@ -88,19 +88,19 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece trick ile tarandi (proxysiz)"
+      "message": ""
     }
   },
   "totals": {
-    "products": 7,
+    "products": 6,
     "categories": {
       "normal": 0,
-      "discount": 7,
+      "discount": 6,
       "error": 0
     }
   },
   "critical": {
-    "selected": 16,
+    "selected": 10,
     "checked": 4,
     "updated": 4,
     "flash": 0

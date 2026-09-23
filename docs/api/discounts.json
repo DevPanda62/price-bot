@@ -9,8 +9,8 @@
     "old_price": 158.0,
     "query": "indirim",
     "first_seen_at": "2026-09-18T12:53:33+03:00",
-    "last_seen_at": "2026-09-23T03:19:36+03:00",
-    "detected_at": "2026-09-23T03:19:36+03:00",
+    "last_seen_at": "2026-09-23T07:53:57+03:00",
+    "detected_at": "2026-09-23T07:53:57+03:00",
     "discount_percent": 10.13,
     "category": "discount",
     "baseline_price": 158.0,
@@ -32,8 +32,8 @@
     "old_price": 4999.0,
     "query": "cok satan",
     "first_seen_at": "2026-09-20T22:21:15+03:00",
-    "last_seen_at": "2026-09-23T03:19:36+03:00",
-    "detected_at": "2026-09-23T03:19:36+03:00",
+    "last_seen_at": "2026-09-23T07:53:57+03:00",
+    "detected_at": "2026-09-23T07:53:57+03:00",
     "discount_percent": 10.0,
     "category": "discount",
     "baseline_price": 4999.0,
@@ -44,31 +44,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-23T03:22:35+03:00"
-  },
-  {
-    "id": "958827e79138ec3e",
-    "store": "n11",
-    "name": "Realme 6 Pro Elektrocase Kamera Koruma Silikon Kilif + Cam (Seç) 439906664",
-    "url": "https://www.n11.com/urun/realme-6-pro-elektrocase-kamera-koruma-silikon-kilif-cam-sec-439906664-31850346",
-    "image": "https://n11scdn.akamaized.net/a1/org/25/10/15/65/47/15/92/47/06/78/14/12/5549709177890585707.png",
-    "price": 318.56,
-    "old_price": 362.0,
-    "query": "kampanya",
-    "first_seen_at": "2026-09-20T20:01:54+03:00",
-    "last_seen_at": "2026-09-23T03:19:36+03:00",
-    "detected_at": "2026-09-23T03:19:36+03:00",
-    "discount_percent": 12.0,
-    "category": "discount",
-    "baseline_price": 362.0,
-    "baseline_source": "magaza-eski-fiyat",
-    "match_group": null,
-    "matched_stores": [],
-    "reason": "magaza-eski-fiyat: 362.00 TL -> 318.56 TL (%12.0 indirim)",
-    "seller_name": "",
-    "seller_rating": null,
-    "seller_reliable": null,
-    "verified_at": "2026-09-23T03:22:35+03:00"
+    "verified_at": "2026-09-23T07:56:04+03:00"
   },
   {
     "id": "0685c962b9d2e4e3",
@@ -80,13 +56,13 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-17T19:59:22+03:00",
-    "last_seen_at": "2026-09-23T03:19:36+03:00",
-    "detected_at": "2026-09-23T03:19:36+03:00",
+    "last_seen_at": "2026-09-23T07:53:57+03:00",
+    "detected_at": "2026-09-23T07:53:57+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00003",
+    "match_group": "g00002",
     "matched_stores": [
       {
         "store": "n11",
@@ -114,13 +90,13 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-22T09:01:52+03:00",
-    "last_seen_at": "2026-09-23T03:19:36+03:00",
-    "detected_at": "2026-09-23T03:19:36+03:00",
+    "last_seen_at": "2026-09-23T07:53:57+03:00",
+    "detected_at": "2026-09-23T07:53:57+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00003",
+    "match_group": "g00002",
     "matched_stores": [
       {
         "store": "n11",
@@ -137,7 +113,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-23T03:22:35+03:00"
+    "verified_at": "2026-09-23T07:56:04+03:00"
   },
   {
     "id": "3565da2ec784cbc8",
@@ -149,13 +125,13 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-22T18:35:21+03:00",
-    "last_seen_at": "2026-09-23T03:19:36+03:00",
-    "detected_at": "2026-09-23T03:19:36+03:00",
+    "last_seen_at": "2026-09-23T07:53:57+03:00",
+    "detected_at": "2026-09-23T07:53:57+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00003",
+    "match_group": "g00002",
     "matched_stores": [
       {
         "store": "n11",
@@ -172,36 +148,30 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-23T03:22:35+03:00"
+    "verified_at": "2026-09-23T07:56:04+03:00"
   },
   {
-    "id": "7e73cadd5ff1bb22",
+    "id": "53c7e65cbc87f421",
     "store": "n11",
-    "name": "Ücretsiz Kargo EsenoSelect Kablosuz Kulaklık Seti Ve Pembe Askılı Analog Charm Saat Günlük Kullanım Kampanyası Altın (0) 1.674,92 TL",
-    "url": "https://www.n11.com/urun/kablosuz-kulaklik-seti-ve-pembe-askili-analog-charm-saat-gunluk-kullanim-kampanyasi-altin-135116860?magaza=esenoselect&adBidding=true",
-    "image": "https://n11scdn.akamaized.net/a1/216/04/88/34/42/IMG-4495293591733600207.jpg",
-    "price": 1497.9,
-    "old_price": 1591.5,
-    "query": "kampanya",
-    "first_seen_at": "2026-09-23T03:19:36+03:00",
-    "last_seen_at": "2026-09-23T03:19:36+03:00",
-    "detected_at": "2026-09-23T03:19:36+03:00",
-    "discount_percent": 5.88,
+    "name": "Uyguntarz Çok Renkli En Sevilen Papatya Serisi Baskılı Sweatshirt 3'lü Fırsat Paketi 1.249,90 TL SEPETTE 1.049,90 TL",
+    "url": "https://www.n11.com/urun/uyguntarz-cok-renkli-en-sevilen-papatya-serisi-baskili-sweatshirt-3lu-firsat-paketi-125012958",
+    "image": "https://n11scdn.akamaized.net/a1/200/01/59/11/98/IMG-5818083711460699355.jpg",
+    "price": 1049.9,
+    "old_price": 1249.9,
+    "query": "firsat",
+    "first_seen_at": "2026-09-23T07:53:57+03:00",
+    "last_seen_at": "2026-09-23T07:53:57+03:00",
+    "detected_at": "2026-09-23T07:53:57+03:00",
+    "discount_percent": 16.0,
     "category": "discount",
-    "baseline_price": 1591.5,
+    "baseline_price": 1249.9,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00004",
-    "matched_stores": [
-      {
-        "store": "n11",
-        "price": 1591.5,
-        "url": "https://www.n11.com/urun/kablosuz-kulaklik-seti-ve-pembe-askili-analog-charm-saat-gunluk-kullanim-kampanyasi-135165404?magaza=firsatpremium&adBidding=true"
-      }
-    ],
-    "reason": "magaza-eski-fiyat: 1591.50 TL -> 1497.90 TL (%5.9 indirim)",
+    "match_group": null,
+    "matched_stores": [],
+    "reason": "magaza-eski-fiyat: 1249.90 TL -> 1049.90 TL (%16.0 indirim)",
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-23T03:22:35+03:00"
+    "verified_at": "2026-09-23T07:56:04+03:00"
   }
 ]
