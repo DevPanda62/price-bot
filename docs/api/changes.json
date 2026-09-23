@@ -1,45 +1,9 @@
 {
-  "generated_at": "2026-09-23T07:53:57+03:00",
-  "added_count": 1,
-  "removed_count": 2,
+  "generated_at": "2026-09-23T12:38:52+03:00",
+  "added_count": 0,
+  "removed_count": 0,
   "reclassified_count": 0,
-  "added": [
-    {
-      "id": "53c7e65cbc87f421",
-      "store": "n11",
-      "name": "Uyguntarz Çok Renkli En Sevilen Papatya Serisi Baskılı Sweatshirt 3'lü Fırsat Paketi 1.249,90 TL SEPETTE 1.049,90 TL",
-      "url": "https://www.n11.com/urun/uyguntarz-cok-renkli-en-sevilen-papatya-serisi-baskili-sweatshirt-3lu-firsat-paketi-125012958",
-      "image": "https://n11scdn.akamaized.net/a1/200/01/59/11/98/IMG-5818083711460699355.jpg",
-      "price": 1049.9,
-      "old_price": 1249.9,
-      "query": "firsat",
-      "first_seen_at": "2026-09-23T07:53:57+03:00",
-      "last_seen_at": "2026-09-23T07:53:57+03:00",
-      "detected_at": "2026-09-23T07:53:57+03:00",
-      "discount_percent": 16.0,
-      "category": "discount",
-      "baseline_price": 1249.9,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": null,
-      "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 1249.90 TL -> 1049.90 TL (%16.0 indirim)",
-      "seller_name": "",
-      "seller_rating": null,
-      "seller_reliable": null,
-      "verified_at": "2026-09-23T07:56:04+03:00"
-    }
-  ],
-  "removed": [
-    {
-      "id": "7e73cadd5ff1bb22",
-      "store": "n11",
-      "name": "Ücretsiz Kargo EsenoSelect Kablosuz Kulaklık Seti Ve Pembe Askılı Analog Charm Saat Günlük Kullanım Kampanyası Altın (0) 1.674,92 TL"
-    },
-    {
-      "id": "958827e79138ec3e",
-      "store": "n11",
-      "name": "Realme 6 Pro Elektrocase Kamera Koruma Silikon Kilif + Cam (Seç) 439906664"
-    }
-  ],
+  "added": [],
+  "removed": [],
   "reclassified": []
 }

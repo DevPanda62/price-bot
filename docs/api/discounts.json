@@ -9,8 +9,8 @@
     "old_price": 158.0,
     "query": "indirim",
     "first_seen_at": "2026-09-18T12:53:33+03:00",
-    "last_seen_at": "2026-09-23T07:53:57+03:00",
-    "detected_at": "2026-09-23T07:53:57+03:00",
+    "last_seen_at": "2026-09-23T12:38:52+03:00",
+    "detected_at": "2026-09-23T12:38:52+03:00",
     "discount_percent": 10.13,
     "category": "discount",
     "baseline_price": 158.0,
@@ -32,8 +32,8 @@
     "old_price": 4999.0,
     "query": "cok satan",
     "first_seen_at": "2026-09-20T22:21:15+03:00",
-    "last_seen_at": "2026-09-23T07:53:57+03:00",
-    "detected_at": "2026-09-23T07:53:57+03:00",
+    "last_seen_at": "2026-09-23T12:38:52+03:00",
+    "detected_at": "2026-09-23T12:38:52+03:00",
     "discount_percent": 10.0,
     "category": "discount",
     "baseline_price": 4999.0,
@@ -44,7 +44,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-23T07:56:04+03:00"
+    "verified_at": "2026-09-23T12:51:52+03:00"
   },
   {
     "id": "0685c962b9d2e4e3",
@@ -56,8 +56,8 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-17T19:59:22+03:00",
-    "last_seen_at": "2026-09-23T07:53:57+03:00",
-    "detected_at": "2026-09-23T07:53:57+03:00",
+    "last_seen_at": "2026-09-23T12:38:52+03:00",
+    "detected_at": "2026-09-23T12:38:52+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
@@ -90,8 +90,8 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-22T09:01:52+03:00",
-    "last_seen_at": "2026-09-23T07:53:57+03:00",
-    "detected_at": "2026-09-23T07:53:57+03:00",
+    "last_seen_at": "2026-09-23T12:38:52+03:00",
+    "detected_at": "2026-09-23T12:38:52+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
@@ -113,7 +113,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-23T07:56:04+03:00"
+    "verified_at": "2026-09-23T12:51:52+03:00"
   },
   {
     "id": "3565da2ec784cbc8",
@@ -125,8 +125,8 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-22T18:35:21+03:00",
-    "last_seen_at": "2026-09-23T07:53:57+03:00",
-    "detected_at": "2026-09-23T07:53:57+03:00",
+    "last_seen_at": "2026-09-23T12:38:52+03:00",
+    "detected_at": "2026-09-23T12:38:52+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
@@ -148,7 +148,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-23T07:56:04+03:00"
+    "verified_at": "2026-09-23T12:51:52+03:00"
   },
   {
     "id": "53c7e65cbc87f421",
@@ -160,8 +160,8 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-23T07:53:57+03:00",
-    "last_seen_at": "2026-09-23T07:53:57+03:00",
-    "detected_at": "2026-09-23T07:53:57+03:00",
+    "last_seen_at": "2026-09-23T12:38:52+03:00",
+    "detected_at": "2026-09-23T12:38:52+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
@@ -172,6 +172,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-23T07:56:04+03:00"
+    "verified_at": "2026-09-23T12:51:52+03:00"
   }
 ]
