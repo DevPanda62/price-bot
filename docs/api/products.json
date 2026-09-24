@@ -9,8 +9,8 @@
     "old_price": 145.0,
     "query": "indirim",
     "first_seen_at": "2026-09-18T12:53:33+03:00",
-    "last_seen_at": "2026-09-24T02:59:14+03:00",
-    "detected_at": "2026-09-24T02:59:14+03:00",
+    "last_seen_at": "2026-09-24T07:02:32+03:00",
+    "detected_at": "2026-09-24T07:02:32+03:00",
     "discount_percent": 6.9,
     "category": "discount",
     "baseline_price": 145.0,
@@ -32,8 +32,8 @@
     "old_price": 4999.0,
     "query": "cok satan",
     "first_seen_at": "2026-09-23T21:30:46+03:00",
-    "last_seen_at": "2026-09-24T02:59:14+03:00",
-    "detected_at": "2026-09-24T02:59:14+03:00",
+    "last_seen_at": "2026-09-24T07:02:32+03:00",
+    "detected_at": "2026-09-24T07:02:32+03:00",
     "discount_percent": 10.0,
     "category": "discount",
     "baseline_price": 4999.0,
@@ -44,7 +44,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-24T03:02:57+03:00"
+    "verified_at": "2026-09-24T07:05:20+03:00"
   },
   {
     "id": "0685c962b9d2e4e3",
@@ -56,8 +56,8 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-17T19:59:22+03:00",
-    "last_seen_at": "2026-09-24T02:59:14+03:00",
-    "detected_at": "2026-09-24T02:59:14+03:00",
+    "last_seen_at": "2026-09-24T07:02:32+03:00",
+    "detected_at": "2026-09-24T07:02:32+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
@@ -68,11 +68,6 @@
         "store": "n11",
         "price": 1049.9,
         "url": "https://www.n11.com/urun/uyguntarz-unisex-siyah-siyah-grifermuar-kapusonlu-sweatshirt-3-lu-firsat-paketi-cok-renkli-125013199"
-      },
-      {
-        "store": "n11",
-        "price": 1049.9,
-        "url": "https://www.n11.com/urun/uyguntarz-unisex-siyah-siyah-siyahfermuar-kapusonlu-sweatshirt-3-lu-firsat-paketi-cok-renkli-125011963"
       }
     ],
     "reason": "magaza-eski-fiyat: 1249.90 TL -> 1049.90 TL (%16.0 indirim)",
@@ -90,8 +85,8 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-22T09:01:52+03:00",
-    "last_seen_at": "2026-09-24T02:59:14+03:00",
-    "detected_at": "2026-09-24T02:59:14+03:00",
+    "last_seen_at": "2026-09-24T07:02:32+03:00",
+    "detected_at": "2026-09-24T07:02:32+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
@@ -102,53 +97,13 @@
         "store": "n11",
         "price": 1049.9,
         "url": "https://www.n11.com/urun/uyguntarz-unisex-gri-lacivert-siyah-fermuar-kapusonlu-sweatshirt-3-lu-firsat-paketi-cok-renkli-125013257"
-      },
-      {
-        "store": "n11",
-        "price": 1049.9,
-        "url": "https://www.n11.com/urun/uyguntarz-unisex-siyah-siyah-siyahfermuar-kapusonlu-sweatshirt-3-lu-firsat-paketi-cok-renkli-125011963"
       }
     ],
     "reason": "magaza-eski-fiyat: 1249.90 TL -> 1049.90 TL (%16.0 indirim)",
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-24T03:02:57+03:00"
-  },
-  {
-    "id": "3565da2ec784cbc8",
-    "store": "n11",
-    "name": "Uyguntarz Unisex Siyah & Siyah & Siyahfermuar Kapüşonlu Sweatshirt 3 Lü Fırsat Paketi Çok Renkli 1.249,90 TL SEPETTE 1.049,90 TL",
-    "url": "https://www.n11.com/urun/uyguntarz-unisex-siyah-siyah-siyahfermuar-kapusonlu-sweatshirt-3-lu-firsat-paketi-cok-renkli-125011963",
-    "image": "https://n11scdn.akamaized.net/a1/200/03/70/14/33/IMG-2137582669532927314.jpg",
-    "price": 1049.9,
-    "old_price": 1249.9,
-    "query": "firsat",
-    "first_seen_at": "2026-09-22T18:35:21+03:00",
-    "last_seen_at": "2026-09-24T02:59:14+03:00",
-    "detected_at": "2026-09-24T02:59:14+03:00",
-    "discount_percent": 16.0,
-    "category": "discount",
-    "baseline_price": 1249.9,
-    "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00002",
-    "matched_stores": [
-      {
-        "store": "n11",
-        "price": 1049.9,
-        "url": "https://www.n11.com/urun/uyguntarz-unisex-gri-lacivert-siyah-fermuar-kapusonlu-sweatshirt-3-lu-firsat-paketi-cok-renkli-125013257"
-      },
-      {
-        "store": "n11",
-        "price": 1049.9,
-        "url": "https://www.n11.com/urun/uyguntarz-unisex-siyah-siyah-grifermuar-kapusonlu-sweatshirt-3-lu-firsat-paketi-cok-renkli-125013199"
-      }
-    ],
-    "reason": "magaza-eski-fiyat: 1249.90 TL -> 1049.90 TL (%16.0 indirim)",
-    "seller_name": "",
-    "seller_rating": null,
-    "seller_reliable": null,
-    "verified_at": "2026-09-24T03:02:57+03:00"
+    "verified_at": "2026-09-24T07:05:20+03:00"
   },
   {
     "id": "53c7e65cbc87f421",
@@ -160,8 +115,8 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-09-23T07:53:57+03:00",
-    "last_seen_at": "2026-09-24T02:59:14+03:00",
-    "detected_at": "2026-09-24T02:59:14+03:00",
+    "last_seen_at": "2026-09-24T07:02:32+03:00",
+    "detected_at": "2026-09-24T07:02:32+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
@@ -172,54 +127,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-09-24T03:02:57+03:00"
-  },
-  {
-    "id": "2058e8d513ba7be3",
-    "store": "n11",
-    "name": "Ücretsiz Kargo FırsatYakala35 Boa Ba0003 Bağcıklı Klasik Siyah Beyaz Taban Rugan Yüksek Taban Casual Erkek Ayakkabı 1091 Sıyah (0) 2.000 TL SEPETTE 1.820 TL",
-    "url": "https://www.n11.com/urun/boa-ba0003-bagcikli-klasik-siyah-beyaz-taban-rugan-yuksek-taban-casual-erkek-ayakkabi-1091-siyah-124521168?magaza=firsatyakala35&adBidding=true",
-    "image": "https://n11scdn.akamaized.net/a1/216/07/63/32/97/IMG-1524665589368445335.jpg",
-    "price": 1820.0,
-    "old_price": 2000.0,
-    "query": "firsat",
-    "first_seen_at": "2026-09-24T02:59:14+03:00",
-    "last_seen_at": "2026-09-24T02:59:14+03:00",
-    "detected_at": "2026-09-24T02:59:14+03:00",
-    "discount_percent": 9.0,
-    "category": "discount",
-    "baseline_price": 2000.0,
-    "baseline_source": "magaza-eski-fiyat",
-    "match_group": null,
-    "matched_stores": [],
-    "reason": "magaza-eski-fiyat: 2000.00 TL -> 1820.00 TL (%9.0 indirim)",
-    "seller_name": "",
-    "seller_rating": null,
-    "seller_reliable": null,
-    "verified_at": "2026-09-24T03:02:57+03:00"
-  },
-  {
-    "id": "0bc4cf4e0ea9e3f9",
-    "store": "n11",
-    "name": "Ücretsiz Kargo FırsatYakala35 Boa Le10 Bağcıklı Erkek Yüksek Taban İthal Süet Siyah Spor Bot Siyah (0) 2.800 TL SEPETTE 2.548 TL",
-    "url": "https://www.n11.com/urun/boa-le10-bagcikli-erkek-yuksek-taban-ithal-suet-siyah-spor-bot-siyah-61366593?magaza=firsatyakala35&adBidding=true",
-    "image": "https://n11scdn.akamaized.net/a1/216/16/61/49/49/IMG-9131693806591073438.jpg",
-    "price": 2548.0,
-    "old_price": 2800.0,
-    "query": "firsat",
-    "first_seen_at": "2026-09-24T02:59:14+03:00",
-    "last_seen_at": "2026-09-24T02:59:14+03:00",
-    "detected_at": "2026-09-24T02:59:14+03:00",
-    "discount_percent": 9.0,
-    "category": "discount",
-    "baseline_price": 2800.0,
-    "baseline_source": "magaza-eski-fiyat",
-    "match_group": null,
-    "matched_stores": [],
-    "reason": "magaza-eski-fiyat: 2800.00 TL -> 2548.00 TL (%9.0 indirim)",
-    "seller_name": "",
-    "seller_rating": null,
-    "seller_reliable": null,
-    "verified_at": "2026-09-24T03:02:57+03:00"
+    "verified_at": "2026-09-24T07:05:20+03:00"
   }
 ]
