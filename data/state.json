@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-09-26T03:26:32+03:00",
-  "heartbeat_at": "2026-09-26T23:39:35+03:00",
+  "last_run": "2026-09-27T01:47:22+03:00",
+  "heartbeat_at": "2026-09-27T01:53:56+03:00",
   "sites": {
     "trendyol": {
       "ok": false,
@@ -24,10 +24,10 @@
     },
     "n11": {
       "ok": true,
-      "product_count": 3,
+      "product_count": 5,
       "categories": {
         "normal": 0,
-        "discount": 3,
+        "discount": 5,
         "error": 0
       },
       "message": ""
@@ -40,7 +40,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "0 urun (indirim yok olabilir)"
+      "message": "gece trick yanit verdi ama 0 urun"
     },
     "mediamarkt": {
       "ok": false,
@@ -53,14 +53,14 @@
       "message": "0 urun (indirim yok olabilir)"
     },
     "teknosa": {
-      "ok": true,
+      "ok": false,
       "product_count": 1,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 1
       },
-      "message": "gece trick ile tarandi (proxysiz)"
+      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
     },
     "vatan": {
       "ok": false,
@@ -84,10 +84,10 @@
     }
   },
   "totals": {
-    "products": 9,
+    "products": 11,
     "categories": {
       "normal": 0,
-      "discount": 6,
+      "discount": 8,
       "error": 3
     }
   },
@@ -105,7 +105,7 @@
     "hepsiburada": "normal",
     "n11": "normal",
     "ciceksepeti": "utm",
-    "teknosa": "normal",
+    "teknosa": "night",
     "vatan": "night",
     "mediamarkt": "proxy",
     "amazon": "normal"
@@ -114,10 +114,10 @@
     "hepsiburada": "2026-08-11T23:19:37+03:00",
     "vatan": "2026-09-26T03:26:32+03:00",
     "amazon": "2026-09-24T02:59:14+03:00",
-    "trendyol": "2026-09-26T03:26:32+03:00",
+    "trendyol": "2026-09-27T01:47:22+03:00",
     "n11": "2026-08-18T05:54:22+03:00",
-    "ciceksepeti": "2026-09-21T04:31:27+03:00",
-    "teknosa": "2026-09-26T03:26:32+03:00"
+    "ciceksepeti": "2026-09-27T01:47:22+03:00",
+    "teknosa": "2026-09-27T01:47:22+03:00"
   },
   "utm_prof": {
     "trendyol": "firefox133",
@@ -127,9 +127,9 @@
     "teknosa": "safari17_0"
   },
   "critical": {
-    "selected": 21,
-    "checked": 9,
-    "updated": 9,
+    "selected": 19,
+    "checked": 12,
+    "updated": 12,
     "flash": 0
   }
 }
