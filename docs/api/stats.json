@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-27T03:57:43+03:00",
+  "generated_at": "2026-09-27T15:13:17+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 367978773,
+    "used_bytes": 368286852,
     "quota_bytes": 943718400
   },
   "sites": {
@@ -18,7 +18,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece trick yanit verdi ama 0 urun"
+      "message": "utm yanit verdi ama 0 urun"
     },
     "hepsiburada": {
       "ok": true,
@@ -48,7 +48,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "0 urun (indirim yok olabilir)"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "mediamarkt": {
       "ok": false,
@@ -68,7 +68,7 @@
         "discount": 0,
         "error": 1
       },
-      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
+      "message": "utm bekliyor (59 dk)"
     },
     "vatan": {
       "ok": false,
@@ -78,7 +78,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
+      "message": "utm bekliyor (59 dk)"
     },
     "amazon": {
       "ok": true,
@@ -100,7 +100,7 @@
     }
   },
   "critical": {
-    "selected": 17,
+    "selected": 15,
     "checked": 9,
     "updated": 9,
     "flash": 0
