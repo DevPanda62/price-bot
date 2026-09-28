@@ -1,39 +1,14 @@
 {
-  "generated_at": "2026-09-28T04:20:54+03:00",
-  "added_count": 1,
+  "generated_at": "2026-09-28T10:04:25+03:00",
+  "added_count": 0,
   "removed_count": 1,
   "reclassified_count": 0,
-  "added": [
+  "added": [],
+  "removed": [
     {
       "id": "2ec4257d2ab94a98",
       "store": "n11",
-      "name": "Ücretsiz Kargo ACFTeknoloji Hdj38 Kampanya - Barbie Extra Hayvan Dostları Ve Kıyafet Paketleri - Özel Fiyat Standart (0) 578,24 TL SEPETTE 497,29 TL",
-      "url": "https://www.n11.com/urun/hdj38-kampanya-barbie-extra-hayvan-dostlari-ve-kiyafet-paketleri-ozel-fiyat-standart-129818581?magaza=acfteknoloji&adBidding=true",
-      "image": "https://n11scdn.akamaized.net/a1/216/05/13/62/27/IMG-8231568080407866170.jpg",
-      "price": 497.29,
-      "old_price": 578.24,
-      "query": "kampanya",
-      "first_seen_at": "2026-09-28T04:20:54+03:00",
-      "last_seen_at": "2026-09-28T04:20:54+03:00",
-      "detected_at": "2026-09-28T04:20:54+03:00",
-      "discount_percent": 14.0,
-      "category": "discount",
-      "baseline_price": 578.24,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": null,
-      "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 578.24 TL -> 497.29 TL (%14.0 indirim)",
-      "seller_name": "",
-      "seller_rating": null,
-      "seller_reliable": null,
-      "verified_at": "2026-09-28T04:23:03+03:00"
-    }
-  ],
-  "removed": [
-    {
-      "id": "4ace76660d355b95",
-      "store": "n11",
-      "name": "Ücretsiz Kargo Ceponya Huawei P40 Lite Kilif Lüx Kamera Koruma Çikintili Soft Silikon 233462712 - Kampanya / Istemiyorum (6) 314,80 TL SEPETTE 277,02 TL"
+      "name": "Ücretsiz Kargo ACFTeknoloji Hdj38 Kampanya - Barbie Extra Hayvan Dostları Ve Kıyafet Paketleri - Özel Fiyat Standart (0) 578,24 TL SEPETTE 497,29 TL"
     }
   ],
   "reclassified": []
