@@ -1,49 +1,39 @@
 {
-  "generated_at": "2026-09-28T01:55:03+03:00",
+  "generated_at": "2026-09-28T04:20:54+03:00",
   "added_count": 1,
-  "removed_count": 3,
+  "removed_count": 1,
   "reclassified_count": 0,
   "added": [
     {
-      "id": "4ace76660d355b95",
+      "id": "2ec4257d2ab94a98",
       "store": "n11",
-      "name": "Ücretsiz Kargo Ceponya Huawei P40 Lite Kilif Lüx Kamera Koruma Çikintili Soft Silikon 233462712 - Kampanya / Istemiyorum (6) 314,80 TL SEPETTE 277,02 TL",
-      "url": "https://www.n11.com/urun/huawei-p40-lite-kilif-lux-kamera-koruma-cikintili-soft-silikon-233462712-kampanya-istemiyorum-31821801?magaza=ceponya&adBidding=true",
-      "image": "https://n11scdn.akamaized.net/a1/216/01/76/65/71/IMG-3074169182578106902.jpg",
-      "price": 277.02,
-      "old_price": 314.8,
+      "name": "Ücretsiz Kargo ACFTeknoloji Hdj38 Kampanya - Barbie Extra Hayvan Dostları Ve Kıyafet Paketleri - Özel Fiyat Standart (0) 578,24 TL SEPETTE 497,29 TL",
+      "url": "https://www.n11.com/urun/hdj38-kampanya-barbie-extra-hayvan-dostlari-ve-kiyafet-paketleri-ozel-fiyat-standart-129818581?magaza=acfteknoloji&adBidding=true",
+      "image": "https://n11scdn.akamaized.net/a1/216/05/13/62/27/IMG-8231568080407866170.jpg",
+      "price": 497.29,
+      "old_price": 578.24,
       "query": "kampanya",
-      "first_seen_at": "2026-09-28T01:55:03+03:00",
-      "last_seen_at": "2026-09-28T01:55:03+03:00",
-      "detected_at": "2026-09-28T01:55:03+03:00",
-      "discount_percent": 12.0,
+      "first_seen_at": "2026-09-28T04:20:54+03:00",
+      "last_seen_at": "2026-09-28T04:20:54+03:00",
+      "detected_at": "2026-09-28T04:20:54+03:00",
+      "discount_percent": 14.0,
       "category": "discount",
-      "baseline_price": 314.8,
+      "baseline_price": 578.24,
       "baseline_source": "magaza-eski-fiyat",
       "match_group": null,
       "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 314.80 TL -> 277.02 TL (%12.0 indirim)",
+      "reason": "magaza-eski-fiyat: 578.24 TL -> 497.29 TL (%14.0 indirim)",
       "seller_name": "",
       "seller_rating": null,
       "seller_reliable": null,
-      "verified_at": "2026-09-28T01:57:22+03:00"
+      "verified_at": "2026-09-28T04:23:03+03:00"
     }
   ],
   "removed": [
     {
-      "id": "0eae2b92f34dbf62",
+      "id": "4ace76660d355b95",
       "store": "n11",
-      "name": "Apple Uyumlu iPad 5. Nesil A Kalite Kılıf 9.7\" 2017"
-    },
-    {
-      "id": "958827e79138ec3e",
-      "store": "n11",
-      "name": "Realme 6 Pro Elektrocase Kamera Koruma Silikon Kilif + Cam (Seç) 439906664"
-    },
-    {
-      "id": "f1f20fa1479df9d6",
-      "store": "n11",
-      "name": "Samsung Uyumlu Galaxy Tab A7 Lite T220 Kılıf Çocuklara Özel Tablet Kılıf (521889297)"
+      "name": "Ücretsiz Kargo Ceponya Huawei P40 Lite Kilif Lüx Kamera Koruma Çikintili Soft Silikon 233462712 - Kampanya / Istemiyorum (6) 314,80 TL SEPETTE 277,02 TL"
     }
   ],
   "reclassified": []
