@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T10:04:25+03:00",
+  "generated_at": "2026-09-29T04:02:59+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -18,7 +18,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi"
+      "message": "gece trick yanit verdi ama 0 urun"
     },
     "hepsiburada": {
       "ok": true,
@@ -32,10 +32,10 @@
     },
     "n11": {
       "ok": true,
-      "product_count": 3,
+      "product_count": 2,
       "categories": {
         "normal": 0,
-        "discount": 3,
+        "discount": 2,
         "error": 0
       },
       "message": ""
@@ -68,7 +68,7 @@
         "discount": 0,
         "error": 1
       },
-      "message": "pas gecildi"
+      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
     },
     "vatan": {
       "ok": false,
@@ -78,7 +78,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi"
+      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
     },
     "amazon": {
       "ok": true,
@@ -92,15 +92,15 @@
     }
   },
   "totals": {
-    "products": 9,
+    "products": 8,
     "categories": {
       "normal": 0,
-      "discount": 6,
+      "discount": 5,
       "error": 3
     }
   },
   "critical": {
-    "selected": 17,
+    "selected": 16,
     "checked": 9,
     "updated": 9,
     "flash": 0
