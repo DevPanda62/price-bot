@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T09:48:13+03:00",
+  "generated_at": "2026-09-30T01:40:34+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
@@ -18,25 +18,25 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm yanit verdi ama 0 urun"
+      "message": "gece trick yanit verdi ama 0 urun"
     },
     "hepsiburada": {
       "ok": true,
-      "product_count": 5,
+      "product_count": 4,
       "categories": {
         "normal": 0,
-        "discount": 3,
+        "discount": 2,
         "error": 2
       },
       "message": ""
     },
     "n11": {
       "ok": true,
-      "product_count": 7,
+      "product_count": 6,
       "categories": {
         "normal": 0,
-        "discount": 7,
-        "error": 0
+        "discount": 5,
+        "error": 1
       },
       "message": ""
     },
@@ -61,14 +61,14 @@
       "message": "0 urun (indirim yok olabilir)"
     },
     "teknosa": {
-      "ok": false,
-      "product_count": 1,
+      "ok": true,
+      "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
-        "error": 1
+        "error": 0
       },
-      "message": "utm bekliyor (59 dk)"
+      "message": "gece trick ile tarandi (proxysiz)"
     },
     "vatan": {
       "ok": false,
@@ -78,7 +78,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (59 dk)"
+      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
     },
     "amazon": {
       "ok": true,
@@ -92,10 +92,10 @@
     }
   },
   "totals": {
-    "products": 13,
+    "products": 10,
     "categories": {
       "normal": 0,
-      "discount": 10,
+      "discount": 7,
       "error": 3
     }
   },
