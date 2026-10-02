@@ -9,8 +9,8 @@
     "old_price": 100.0,
     "query": "indirim",
     "first_seen_at": "2026-09-18T12:53:33+03:00",
-    "last_seen_at": "2026-10-02T02:34:15+03:00",
-    "detected_at": "2026-10-02T02:34:15+03:00",
+    "last_seen_at": "2026-10-02T05:32:53+03:00",
+    "detected_at": "2026-10-02T05:32:53+03:00",
     "discount_percent": 5.0,
     "category": "discount",
     "baseline_price": 100.0,
@@ -32,8 +32,8 @@
     "old_price": 4999.0,
     "query": "cok satan",
     "first_seen_at": "2026-10-02T02:34:15+03:00",
-    "last_seen_at": "2026-10-02T02:34:15+03:00",
-    "detected_at": "2026-10-02T02:34:15+03:00",
+    "last_seen_at": "2026-10-02T05:32:53+03:00",
+    "detected_at": "2026-10-02T05:32:53+03:00",
     "discount_percent": 10.0,
     "category": "discount",
     "baseline_price": 4999.0,
@@ -44,7 +44,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-10-02T02:39:06+03:00"
+    "verified_at": "2026-10-02T05:37:54+03:00"
   },
   {
     "id": "1ae87fd98b649567",
@@ -56,8 +56,8 @@
     "old_price": 1094.0,
     "query": "kampanya",
     "first_seen_at": "2026-09-29T09:48:13+03:00",
-    "last_seen_at": "2026-10-02T02:34:15+03:00",
-    "detected_at": "2026-10-02T02:34:15+03:00",
+    "last_seen_at": "2026-10-02T05:32:53+03:00",
+    "detected_at": "2026-10-02T05:32:53+03:00",
     "discount_percent": 15.0,
     "category": "discount",
     "baseline_price": 1094.0,
@@ -68,7 +68,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-10-02T02:39:06+03:00"
+    "verified_at": "2026-10-02T05:37:54+03:00"
   },
   {
     "id": "0685c962b9d2e4e3",
@@ -80,13 +80,13 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-10-02T02:34:15+03:00",
-    "last_seen_at": "2026-10-02T02:34:15+03:00",
-    "detected_at": "2026-10-02T02:34:15+03:00",
+    "last_seen_at": "2026-10-02T05:32:53+03:00",
+    "detected_at": "2026-10-02T05:32:53+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00003",
+    "match_group": "g00002",
     "matched_stores": [
       {
         "store": "n11",
@@ -98,7 +98,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-10-02T02:39:06+03:00"
+    "verified_at": "2026-10-02T05:37:54+03:00"
   },
   {
     "id": "001ab1c11dbfd1c1",
@@ -110,13 +110,13 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-10-02T02:34:15+03:00",
-    "last_seen_at": "2026-10-02T02:34:15+03:00",
-    "detected_at": "2026-10-02T02:34:15+03:00",
+    "last_seen_at": "2026-10-02T05:32:53+03:00",
+    "detected_at": "2026-10-02T05:32:53+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00003",
+    "match_group": "g00002",
     "matched_stores": [
       {
         "store": "n11",
@@ -128,7 +128,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-10-02T02:39:06+03:00"
+    "verified_at": "2026-10-02T05:37:54+03:00"
   },
   {
     "id": "53c7e65cbc87f421",
@@ -140,8 +140,8 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-10-02T02:34:15+03:00",
-    "last_seen_at": "2026-10-02T02:34:15+03:00",
-    "detected_at": "2026-10-02T02:34:15+03:00",
+    "last_seen_at": "2026-10-02T05:32:53+03:00",
+    "detected_at": "2026-10-02T05:32:53+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
@@ -151,7 +151,54 @@
     "reason": "magaza-eski-fiyat: 1249.90 TL -> 1049.90 TL (%16.0 indirim)",
     "seller_name": "",
     "seller_rating": null,
+    "seller_reliable": null
+  },
+  {
+    "id": "273415ad62e5207e",
+    "store": "n11",
+    "name": "Ücretsiz Kargo toptandepo1 Kablosuz El Süpürgesi Güçlü Emiş Ve Çok Amaçlı Kullanım (0) 1.772,52 TL 1.231,68 TL",
+    "url": "https://www.n11.com/urun/kablosuz-el-supurgesi-guclu-emis-ve-cok-amacli-kullanim-123424084?magaza=toptandepo1&adBidding=true",
+    "image": "https://n11scdn.akamaized.net/a1/216/06/24/24/12/IMG-2435027916191310209.jpg",
+    "price": 1231.68,
+    "old_price": 1772.52,
+    "query": "firsat",
+    "first_seen_at": "2026-10-02T05:32:53+03:00",
+    "last_seen_at": "2026-10-02T05:32:53+03:00",
+    "detected_at": "2026-10-02T05:32:53+03:00",
+    "discount_percent": 30.51,
+    "category": "discount",
+    "baseline_price": 1772.52,
+    "baseline_source": "magaza-eski-fiyat",
+    "match_group": null,
+    "matched_stores": [],
+    "reason": "magaza-eski-fiyat: 1772.52 TL -> 1231.68 TL (%30.5 indirim)",
+    "seller_name": "",
+    "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-10-02T02:39:06+03:00"
+    "verified_at": "2026-10-02T05:37:54+03:00"
+  },
+  {
+    "id": "abecf6e101aa02f7",
+    "store": "n11",
+    "name": "Ücretsiz Kargo toptandepo1 Amoled Ekran 3 Kordonlu Akıllı Saat 5.0 Bluetooth Bağlantılı Android Ve İos Uyumlu (0) 6.121,40 TL 4.130,92 TL",
+    "url": "https://www.n11.com/urun/amoled-ekran-3-kordonlu-akilli-saat-50-bluetooth-baglantili-android-ve-ios-uyumlu-125764352?magaza=toptandepo1&adBidding=true",
+    "image": "https://n11scdn.akamaized.net/a1/216/04/88/14/27/IMG-3886401617747262948.jpg",
+    "price": 4130.92,
+    "old_price": 6121.4,
+    "query": "firsat",
+    "first_seen_at": "2026-10-02T05:32:53+03:00",
+    "last_seen_at": "2026-10-02T05:32:53+03:00",
+    "detected_at": "2026-10-02T05:32:53+03:00",
+    "discount_percent": 32.52,
+    "category": "discount",
+    "baseline_price": 6121.4,
+    "baseline_source": "magaza-eski-fiyat",
+    "match_group": null,
+    "matched_stores": [],
+    "reason": "magaza-eski-fiyat: 6121.40 TL -> 4130.92 TL (%32.5 indirim)",
+    "seller_name": "",
+    "seller_rating": null,
+    "seller_reliable": null,
+    "verified_at": "2026-10-02T05:37:54+03:00"
   }
 ]
