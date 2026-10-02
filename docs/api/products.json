@@ -9,8 +9,8 @@
     "old_price": 100.0,
     "query": "indirim",
     "first_seen_at": "2026-09-18T12:53:33+03:00",
-    "last_seen_at": "2026-10-02T05:32:53+03:00",
-    "detected_at": "2026-10-02T05:32:53+03:00",
+    "last_seen_at": "2026-10-03T02:38:18+03:00",
+    "detected_at": "2026-10-03T02:38:18+03:00",
     "discount_percent": 5.0,
     "category": "discount",
     "baseline_price": 100.0,
@@ -32,8 +32,8 @@
     "old_price": 4999.0,
     "query": "cok satan",
     "first_seen_at": "2026-10-02T02:34:15+03:00",
-    "last_seen_at": "2026-10-02T05:32:53+03:00",
-    "detected_at": "2026-10-02T05:32:53+03:00",
+    "last_seen_at": "2026-10-03T02:38:18+03:00",
+    "detected_at": "2026-10-03T02:38:18+03:00",
     "discount_percent": 10.0,
     "category": "discount",
     "baseline_price": 4999.0,
@@ -44,7 +44,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-10-02T05:37:54+03:00"
+    "verified_at": "2026-10-03T02:43:17+03:00"
   },
   {
     "id": "1ae87fd98b649567",
@@ -56,8 +56,8 @@
     "old_price": 1094.0,
     "query": "kampanya",
     "first_seen_at": "2026-09-29T09:48:13+03:00",
-    "last_seen_at": "2026-10-02T05:32:53+03:00",
-    "detected_at": "2026-10-02T05:32:53+03:00",
+    "last_seen_at": "2026-10-03T02:38:18+03:00",
+    "detected_at": "2026-10-03T02:38:18+03:00",
     "discount_percent": 15.0,
     "category": "discount",
     "baseline_price": 1094.0,
@@ -67,8 +67,7 @@
     "reason": "magaza-eski-fiyat: 1094.00 TL -> 929.90 TL (%15.0 indirim)",
     "seller_name": "",
     "seller_rating": null,
-    "seller_reliable": null,
-    "verified_at": "2026-10-02T05:37:54+03:00"
+    "seller_reliable": null
   },
   {
     "id": "0685c962b9d2e4e3",
@@ -80,13 +79,13 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-10-02T02:34:15+03:00",
-    "last_seen_at": "2026-10-02T05:32:53+03:00",
-    "detected_at": "2026-10-02T05:32:53+03:00",
+    "last_seen_at": "2026-10-03T02:38:18+03:00",
+    "detected_at": "2026-10-03T02:38:18+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00002",
+    "match_group": "g00001",
     "matched_stores": [
       {
         "store": "n11",
@@ -98,7 +97,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-10-02T05:37:54+03:00"
+    "verified_at": "2026-10-03T02:43:17+03:00"
   },
   {
     "id": "001ab1c11dbfd1c1",
@@ -110,13 +109,13 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-10-02T02:34:15+03:00",
-    "last_seen_at": "2026-10-02T05:32:53+03:00",
-    "detected_at": "2026-10-02T05:32:53+03:00",
+    "last_seen_at": "2026-10-03T02:38:18+03:00",
+    "detected_at": "2026-10-03T02:38:18+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00002",
+    "match_group": "g00001",
     "matched_stores": [
       {
         "store": "n11",
@@ -128,7 +127,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-10-02T05:37:54+03:00"
+    "verified_at": "2026-10-03T02:43:17+03:00"
   },
   {
     "id": "53c7e65cbc87f421",
@@ -140,8 +139,8 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-10-02T02:34:15+03:00",
-    "last_seen_at": "2026-10-02T05:32:53+03:00",
-    "detected_at": "2026-10-02T05:32:53+03:00",
+    "last_seen_at": "2026-10-03T02:38:18+03:00",
+    "detected_at": "2026-10-03T02:38:18+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
@@ -151,7 +150,8 @@
     "reason": "magaza-eski-fiyat: 1249.90 TL -> 1049.90 TL (%16.0 indirim)",
     "seller_name": "",
     "seller_rating": null,
-    "seller_reliable": null
+    "seller_reliable": null,
+    "verified_at": "2026-10-03T02:43:17+03:00"
   },
   {
     "id": "273415ad62e5207e",
@@ -163,8 +163,8 @@
     "old_price": 1772.52,
     "query": "firsat",
     "first_seen_at": "2026-10-02T05:32:53+03:00",
-    "last_seen_at": "2026-10-02T05:32:53+03:00",
-    "detected_at": "2026-10-02T05:32:53+03:00",
+    "last_seen_at": "2026-10-03T02:38:18+03:00",
+    "detected_at": "2026-10-03T02:38:18+03:00",
     "discount_percent": 30.51,
     "category": "discount",
     "baseline_price": 1772.52,
@@ -175,7 +175,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-10-02T05:37:54+03:00"
+    "verified_at": "2026-10-03T02:43:17+03:00"
   },
   {
     "id": "abecf6e101aa02f7",
@@ -187,8 +187,8 @@
     "old_price": 6121.4,
     "query": "firsat",
     "first_seen_at": "2026-10-02T05:32:53+03:00",
-    "last_seen_at": "2026-10-02T05:32:53+03:00",
-    "detected_at": "2026-10-02T05:32:53+03:00",
+    "last_seen_at": "2026-10-03T02:38:18+03:00",
+    "detected_at": "2026-10-03T02:38:18+03:00",
     "discount_percent": 32.52,
     "category": "discount",
     "baseline_price": 6121.4,
@@ -199,6 +199,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-10-02T05:37:54+03:00"
+    "verified_at": "2026-10-03T02:43:17+03:00"
   }
 ]
