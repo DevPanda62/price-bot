@@ -1,9 +1,74 @@
 {
-  "generated_at": "2026-10-03T02:38:18+03:00",
-  "added_count": 0,
-  "removed_count": 0,
+  "generated_at": "2026-10-03T05:19:08+03:00",
+  "added_count": 2,
+  "removed_count": 3,
   "reclassified_count": 0,
-  "added": [],
-  "removed": [],
+  "added": [
+    {
+      "id": "ae32f3e473a13287",
+      "store": "n11",
+      "name": "Ücretsiz Kargo toptandepo1 Spor Akıllı Saat Suya Dayanıklı Geniş Ekran Ve Güçlü Batarya (0) 6.618,40 TL 4.462,28 TL",
+      "url": "https://www.n11.com/urun/spor-akilli-saat-suya-dayanikli-genis-ekran-ve-guclu-batarya-127306074?magaza=toptandepo1&adBidding=true",
+      "image": "https://n11scdn.akamaized.net/a1/216/03/81/42/19/IMG-6554122574513596361.jpg",
+      "price": 643.91,
+      "old_price": 6618.4,
+      "query": "firsat",
+      "first_seen_at": "2026-10-03T05:19:08+03:00",
+      "last_seen_at": "2026-10-03T05:19:08+03:00",
+      "detected_at": "2026-10-03T05:19:08+03:00",
+      "discount_percent": 90.27,
+      "category": "error",
+      "baseline_price": 6618.4,
+      "baseline_source": "magaza-eski-fiyat",
+      "match_group": null,
+      "matched_stores": [],
+      "reason": "magaza-eski-fiyat: 6618.40 TL -> 643.91 TL (%90.3 indirim)",
+      "seller_name": "",
+      "seller_rating": null,
+      "seller_reliable": null,
+      "verified_at": "2026-10-03T05:23:56+03:00"
+    },
+    {
+      "id": "810fa1d1126aa1c6",
+      "store": "n11",
+      "name": "Ücretsiz Kargo toptandepo1 Rs12 Saat S20 Kulaklık (0) 6.618,40 TL 4.462,28 TL",
+      "url": "https://www.n11.com/urun/rs12-saat-s20-kulaklik-126036769?magaza=toptandepo1&adBidding=true",
+      "image": "https://n11scdn.akamaized.net/a1/216/09/88/02/83/IMG-7508710548272518445.jpg",
+      "price": 4462.28,
+      "old_price": 6618.4,
+      "query": "firsat",
+      "first_seen_at": "2026-10-03T05:19:08+03:00",
+      "last_seen_at": "2026-10-03T05:19:08+03:00",
+      "detected_at": "2026-10-03T05:19:08+03:00",
+      "discount_percent": 32.58,
+      "category": "discount",
+      "baseline_price": 6618.4,
+      "baseline_source": "magaza-eski-fiyat",
+      "match_group": null,
+      "matched_stores": [],
+      "reason": "magaza-eski-fiyat: 6618.40 TL -> 4462.28 TL (%32.6 indirim)",
+      "seller_name": "",
+      "seller_rating": null,
+      "seller_reliable": null,
+      "verified_at": "2026-10-03T05:23:56+03:00"
+    }
+  ],
+  "removed": [
+    {
+      "id": "273415ad62e5207e",
+      "store": "n11",
+      "name": "Ücretsiz Kargo toptandepo1 Kablosuz El Süpürgesi Güçlü Emiş Ve Çok Amaçlı Kullanım (0) 1.772,52 TL 1.231,68 TL"
+    },
+    {
+      "id": "53c7e65cbc87f421",
+      "store": "n11",
+      "name": "Uyguntarz Çok Renkli En Sevilen Papatya Serisi Baskılı Sweatshirt 3'lü Fırsat Paketi 1.249,90 TL SEPETTE 1.049,90 TL"
+    },
+    {
+      "id": "d8d6755b84eabb5d",
+      "store": "hepsiburada",
+      "name": "İYİSİYOK Çift Piston Hava Kompresörü Araba Bot Bisiklet Top Balon Lastik Şişirme Pompası"
+    }
+  ],
   "reclassified": []
 }
