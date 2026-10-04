@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-04T05:15:33+03:00",
+  "generated_at": "2026-10-04T21:13:19+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 176162,
+    "used_bytes": 651797,
     "quota_bytes": 943718400
   },
   "sites": {
@@ -18,7 +18,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece trick yanit verdi ama 0 urun"
+      "message": "utm yanit verdi ama 0 urun"
     },
     "hepsiburada": {
       "ok": true,
@@ -68,7 +68,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
+      "message": "utm bekliyor (59 dk)"
     },
     "vatan": {
       "ok": false,
@@ -78,7 +78,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "gece pasi: site yanit vermedi (sabah tekrar denenir)"
+      "message": "utm bekliyor (59 dk)"
     },
     "amazon": {
       "ok": true,
@@ -100,7 +100,7 @@
     }
   },
   "critical": {
-    "selected": 12,
+    "selected": 13,
     "checked": 8,
     "updated": 8,
     "flash": 0
