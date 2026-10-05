@@ -1,34 +1,15 @@
 {
-  "generated_at": "2026-10-05T00:27:02+03:00",
-  "added_count": 1,
-  "removed_count": 0,
+  "generated_at": "2026-10-05T03:04:11+03:00",
+  "added_count": 0,
+  "removed_count": 1,
   "reclassified_count": 0,
-  "added": [
+  "added": [],
+  "removed": [
     {
       "id": "e8cf64e3f618fd54",
       "store": "n11",
-      "name": "Ücretsiz Kargo PayitahtGiyimveHırdavat Ayarlanabilir Parlaklık Rgb Led Ampul Beyaz Lamba Ve Renkli Ampul (0) 793,88 TL SEPETTE 587,87 TL",
-      "url": "https://www.n11.com/urun/ayarlanabilir-parlaklik-rgb-led-ampul-beyaz-lamba-ve-renkli-ampul-115515430?magaza=payitahtgiyimvehirdavat&adBidding=true",
-      "image": "https://n11scdn.akamaized.net/a1/216/09/62/51/85/IMG-816391421406842375.jpg",
-      "price": 253.12,
-      "old_price": 793.88,
-      "query": "firsat",
-      "first_seen_at": "2026-10-05T00:27:02+03:00",
-      "last_seen_at": "2026-10-05T00:27:02+03:00",
-      "detected_at": "2026-10-05T00:27:02+03:00",
-      "discount_percent": 68.12,
-      "category": "error",
-      "baseline_price": 793.88,
-      "baseline_source": "magaza-eski-fiyat",
-      "match_group": null,
-      "matched_stores": [],
-      "reason": "magaza-eski-fiyat: 793.88 TL -> 253.12 TL (%68.1 indirim)",
-      "seller_name": "",
-      "seller_rating": null,
-      "seller_reliable": null,
-      "verified_at": "2026-10-05T00:42:22+03:00"
+      "name": "Ücretsiz Kargo PayitahtGiyimveHırdavat Ayarlanabilir Parlaklık Rgb Led Ampul Beyaz Lamba Ve Renkli Ampul (0) 793,88 TL SEPETTE 587,87 TL"
     }
   ],
-  "removed": [],
   "reclassified": []
 }
