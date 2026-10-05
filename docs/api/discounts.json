@@ -9,8 +9,8 @@
     "old_price": 100.0,
     "query": "indirim",
     "first_seen_at": "2026-09-18T12:53:33+03:00",
-    "last_seen_at": "2026-10-05T03:04:11+03:00",
-    "detected_at": "2026-10-05T03:04:11+03:00",
+    "last_seen_at": "2026-10-05T08:26:30+03:00",
+    "detected_at": "2026-10-05T08:26:30+03:00",
     "discount_percent": 5.0,
     "category": "discount",
     "baseline_price": 100.0,
@@ -32,8 +32,8 @@
     "old_price": 1094.0,
     "query": "kampanya",
     "first_seen_at": "2026-09-29T09:48:13+03:00",
-    "last_seen_at": "2026-10-05T03:04:11+03:00",
-    "detected_at": "2026-10-05T03:04:11+03:00",
+    "last_seen_at": "2026-10-05T08:26:30+03:00",
+    "detected_at": "2026-10-05T08:26:30+03:00",
     "discount_percent": 12.0,
     "category": "discount",
     "baseline_price": 1094.0,
@@ -44,7 +44,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-10-05T03:06:19+03:00"
+    "verified_at": "2026-10-05T08:28:40+03:00"
   },
   {
     "id": "0685c962b9d2e4e3",
@@ -56,13 +56,13 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-10-02T02:34:15+03:00",
-    "last_seen_at": "2026-10-05T03:04:11+03:00",
-    "detected_at": "2026-10-05T03:04:11+03:00",
+    "last_seen_at": "2026-10-05T08:26:30+03:00",
+    "detected_at": "2026-10-05T08:26:30+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00004",
+    "match_group": "g00003",
     "matched_stores": [
       {
         "store": "n11",
@@ -74,7 +74,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-10-05T03:06:19+03:00"
+    "verified_at": "2026-10-05T08:28:40+03:00"
   },
   {
     "id": "001ab1c11dbfd1c1",
@@ -86,13 +86,13 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-10-02T02:34:15+03:00",
-    "last_seen_at": "2026-10-05T03:04:11+03:00",
-    "detected_at": "2026-10-05T03:04:11+03:00",
+    "last_seen_at": "2026-10-05T08:26:30+03:00",
+    "detected_at": "2026-10-05T08:26:30+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": "g00004",
+    "match_group": "g00003",
     "matched_stores": [
       {
         "store": "n11",
@@ -104,6 +104,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-10-05T03:06:19+03:00"
+    "verified_at": "2026-10-05T08:28:40+03:00"
   }
 ]
