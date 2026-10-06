@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-06T17:45:30+03:00",
+  "generated_at": "2026-10-06T22:52:13+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 10578566,
+    "used_bytes": 11087502,
     "quota_bytes": 943718400
   },
   "sites": {
@@ -18,7 +18,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm yanit verdi ama 0 urun"
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
     },
     "hepsiburada": {
       "ok": true,
@@ -48,7 +48,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "0 urun (indirim yok olabilir)"
+      "message": "utm yanit verdi ama 0 urun"
     },
     "mediamarkt": {
       "ok": false,
@@ -61,16 +61,6 @@
       "message": "0 urun (indirim yok olabilir)"
     },
     "teknosa": {
-      "ok": true,
-      "product_count": 0,
-      "categories": {
-        "normal": 0,
-        "discount": 0,
-        "error": 0
-      },
-      "message": "proxy ile tarandi"
-    },
-    "vatan": {
       "ok": false,
       "product_count": 0,
       "categories": {
@@ -80,29 +70,39 @@
       },
       "message": "utm bekliyor (59 dk)"
     },
-    "amazon": {
-      "ok": true,
+    "vatan": {
+      "ok": false,
       "product_count": 0,
       "categories": {
         "normal": 0,
         "discount": 0,
         "error": 0
       },
+      "message": "pas gecildi (ultra trick mode de basarisiz)"
+    },
+    "amazon": {
+      "ok": true,
+      "product_count": 1,
+      "categories": {
+        "normal": 0,
+        "discount": 1,
+        "error": 0
+      },
       "message": ""
     }
   },
   "totals": {
-    "products": 3,
+    "products": 4,
     "categories": {
       "normal": 0,
-      "discount": 3,
+      "discount": 4,
       "error": 0
     }
   },
   "critical": {
-    "selected": 15,
-    "checked": 4,
-    "updated": 4,
+    "selected": 12,
+    "checked": 8,
+    "updated": 8,
     "flash": 0
   }
 }
