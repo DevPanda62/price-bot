@@ -1,29 +1,5 @@
 [
   {
-    "id": "8c161abc1c53ff03",
-    "store": "n11",
-    "name": "Rafcoll Kapşonlu Sweatshırt 2. Ürüne %50 Indirim Turuncu",
-    "url": "https://www.n11.com/urun/rafcoll-kapsonlu-sweatshirt-2-urune-50-indirim-turuncu-23772130",
-    "image": "https://n11scdn.akamaized.net/a1/226_355/04/45/35/25/IMG-2645501581257880762.jpg",
-    "price": 651.6,
-    "old_price": 724.0,
-    "query": "indirim",
-    "first_seen_at": "2026-10-07T12:09:45+03:00",
-    "last_seen_at": "2026-10-07T12:09:45+03:00",
-    "detected_at": "2026-10-07T12:09:45+03:00",
-    "discount_percent": 10.0,
-    "category": "discount",
-    "baseline_price": 724.0,
-    "baseline_source": "magaza-eski-fiyat",
-    "match_group": null,
-    "matched_stores": [],
-    "reason": "magaza-eski-fiyat: 724.00 TL -> 651.60 TL (%10.0 indirim)",
-    "seller_name": "",
-    "seller_rating": null,
-    "seller_reliable": null,
-    "verified_at": "2026-10-07T12:12:44+03:00"
-  },
-  {
     "id": "0685c962b9d2e4e3",
     "store": "n11",
     "name": "Uyguntarz Unisex Gri & Lacivert & Siyah Fermuar Kapüşonlu Sweatshirt 3 Lü Fırsat Paketi Çok Renkli 1.249,90 TL SEPETTE 1.049,90 TL",
@@ -33,18 +9,54 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-10-02T02:34:15+03:00",
-    "last_seen_at": "2026-10-07T12:09:45+03:00",
-    "detected_at": "2026-10-07T12:09:45+03:00",
+    "last_seen_at": "2026-10-08T04:10:36+03:00",
+    "detected_at": "2026-10-08T04:10:36+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
     "baseline_source": "magaza-eski-fiyat",
-    "match_group": null,
-    "matched_stores": [],
+    "match_group": "g00005",
+    "matched_stores": [
+      {
+        "store": "n11",
+        "price": 1049.9,
+        "url": "https://www.n11.com/urun/uyguntarz-unisex-siyah-siyah-grifermuar-kapusonlu-sweatshirt-3-lu-firsat-paketi-cok-renkli-125013199"
+      }
+    ],
     "reason": "magaza-eski-fiyat: 1249.90 TL -> 1049.90 TL (%16.0 indirim)",
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-10-07T12:12:44+03:00"
+    "verified_at": "2026-10-08T04:18:08+03:00"
+  },
+  {
+    "id": "001ab1c11dbfd1c1",
+    "store": "n11",
+    "name": "Uyguntarz Unisex Siyah & Siyah & Grifermuar Kapüşonlu Sweatshirt 3 Lü Fırsat Paketi Çok Renkli 1.249,90 TL SEPETTE 1.049,90 TL",
+    "url": "https://www.n11.com/urun/uyguntarz-unisex-siyah-siyah-grifermuar-kapusonlu-sweatshirt-3-lu-firsat-paketi-cok-renkli-125013199",
+    "image": "https://n11scdn.akamaized.net/a1/200/10/16/37/29/IMG-6521324032526206133.jpg",
+    "price": 1049.9,
+    "old_price": 1249.9,
+    "query": "firsat",
+    "first_seen_at": "2026-10-08T04:10:36+03:00",
+    "last_seen_at": "2026-10-08T04:10:36+03:00",
+    "detected_at": "2026-10-08T04:10:36+03:00",
+    "discount_percent": 16.0,
+    "category": "discount",
+    "baseline_price": 1249.9,
+    "baseline_source": "magaza-eski-fiyat",
+    "match_group": "g00005",
+    "matched_stores": [
+      {
+        "store": "n11",
+        "price": 1049.9,
+        "url": "https://www.n11.com/urun/uyguntarz-unisex-gri-lacivert-siyah-fermuar-kapusonlu-sweatshirt-3-lu-firsat-paketi-cok-renkli-125013257"
+      }
+    ],
+    "reason": "magaza-eski-fiyat: 1249.90 TL -> 1049.90 TL (%16.0 indirim)",
+    "seller_name": "",
+    "seller_rating": null,
+    "seller_reliable": null,
+    "verified_at": "2026-10-08T04:18:08+03:00"
   }
 ]
