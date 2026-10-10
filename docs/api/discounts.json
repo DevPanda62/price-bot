@@ -9,8 +9,8 @@
     "old_price": 4999.0,
     "query": "cok satan",
     "first_seen_at": "2026-10-05T15:29:18+03:00",
-    "last_seen_at": "2026-10-10T21:53:05+03:00",
-    "detected_at": "2026-10-10T21:53:05+03:00",
+    "last_seen_at": "2026-10-11T01:04:21+03:00",
+    "detected_at": "2026-10-11T01:04:21+03:00",
     "discount_percent": 10.0,
     "category": "discount",
     "baseline_price": 4999.0,
@@ -21,20 +21,20 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-10-10T22:04:10+03:00"
+    "verified_at": "2026-10-11T01:07:24+03:00"
   },
   {
     "id": "66d7420cb0c7964b",
     "store": "n11",
     "name": "Lenovo Uyumlu Tab M10 X306F Kılıf 10.1 Inç 360 Standlı Tablet Kılıfı",
     "url": "https://www.n11.com/urun/lenovo-uyumlu-tab-m10-x306f-kilif-101-inc-360-standli-tablet-kilifi-20294130",
-    "image": "https://n11scdn.akamaized.net/a1/org/25/10/15/65/47/15/92/47/06/78/14/12/5549709177890585707.png",
+    "image": "https://n11scdn.akamaized.net/a1/320_480/12/65/41/50/IMG-8571388669215052230.jpg",
     "price": 300.14,
     "old_price": 349.0,
     "query": "kampanya",
     "first_seen_at": "2026-10-10T02:03:42+03:00",
-    "last_seen_at": "2026-10-10T21:53:05+03:00",
-    "detected_at": "2026-10-10T21:53:05+03:00",
+    "last_seen_at": "2026-10-11T01:04:21+03:00",
+    "detected_at": "2026-10-11T01:04:21+03:00",
     "discount_percent": 14.0,
     "category": "discount",
     "baseline_price": 349.0,
@@ -45,7 +45,7 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-10-10T22:04:10+03:00"
+    "verified_at": "2026-10-11T01:07:24+03:00"
   },
   {
     "id": "0685c962b9d2e4e3",
@@ -57,8 +57,8 @@
     "old_price": 1249.9,
     "query": "firsat",
     "first_seen_at": "2026-10-02T02:34:15+03:00",
-    "last_seen_at": "2026-10-10T21:53:05+03:00",
-    "detected_at": "2026-10-10T21:53:05+03:00",
+    "last_seen_at": "2026-10-11T01:04:21+03:00",
+    "detected_at": "2026-10-11T01:04:21+03:00",
     "discount_percent": 16.0,
     "category": "discount",
     "baseline_price": 1249.9,
@@ -69,6 +69,6 @@
     "seller_name": "",
     "seller_rating": null,
     "seller_reliable": null,
-    "verified_at": "2026-10-10T22:04:10+03:00"
+    "verified_at": "2026-10-11T01:07:24+03:00"
   }
 ]

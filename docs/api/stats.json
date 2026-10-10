@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-10T21:53:05+03:00",
+  "generated_at": "2026-10-11T01:04:21+03:00",
   "thresholds": {
     "error_min_percent": 40,
     "discount_min_percent": 5,
     "discount_max_percent": 40
   },
   "proxy": {
-    "used_bytes": 23005885,
+    "used_bytes": 24775324,
     "quota_bytes": 943718400
   },
   "sites": {
@@ -18,7 +18,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi (ultra trick mode de basarisiz)"
+      "message": "pas gecildi"
     },
     "hepsiburada": {
       "ok": true,
@@ -48,7 +48,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm yanit verdi ama 0 urun"
+      "message": "0 urun (indirim yok olabilir)"
     },
     "mediamarkt": {
       "ok": false,
@@ -68,7 +68,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "utm bekliyor (59 dk)"
+      "message": "utm yanit verdi ama 0 urun"
     },
     "vatan": {
       "ok": false,
@@ -78,7 +78,7 @@
         "discount": 0,
         "error": 0
       },
-      "message": "pas gecildi (ultra trick mode de basarisiz)"
+      "message": "pas gecildi"
     },
     "amazon": {
       "ok": true,
@@ -100,9 +100,9 @@
     }
   },
   "critical": {
-    "selected": 16,
-    "checked": 8,
-    "updated": 8,
+    "selected": 14,
+    "checked": 6,
+    "updated": 6,
     "flash": 0
   }
 }
